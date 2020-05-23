@@ -1,7 +1,6 @@
 const path = require(`path`)
 
 module.exports = {
-  pathPrefix: `/vegsci`,
   siteMetadata: {
     title: `Vegetace - MUNI`,
     description: `Vegetation Science Group - Masaryk University`,
@@ -32,4 +31,5 @@ module.exports = {
   `gatsby-transformer-sharp`,
   `gatsby-plugin-sharp`,
   ],
+  pathPrefix: `/vegsci`,
 }
