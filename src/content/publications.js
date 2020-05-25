@@ -1,6 +1,18 @@
 ﻿/* eslint-disable no-irregular-whitespace */
 export const mediaCz = [
   {
+    date: `12/5/2020`,
+    name: `V žaludcích mamutů našli vědci krajinu doby ledové`,
+    resources: [`Magazín M`],
+    links: [`https://www.em.muni.cz/veda-a-vyzkum/12856-v-zaludcich-mamutu-nasli-vedci-krajinu-doby-ledove`]
+  },
+  {
+    date: `8/3/2020`,
+    name: `Brněnští vědci nahlédli do mamutích žaludků. A poodhalili podobu pravěkého světa`,
+    resources: [`ČT24`, `Český rozhlas`,` Lidovky`, `Týden`],
+    links: [`https://ct24.ceskatelevize.cz/veda/3058902-brnensti-vedci-nahledli-do-mamutich-zaludku-a-poodhalili-podobu-pravekeho-sveta`, `https://plus.rozhlas.cz/cesti-vedci-dokreslili-obraz-praveke-sibire-8164645?`, `https://www.lidovky.cz/relax/veda/obsah-mamutich-zaludku-vedcum-odhaluje-prirodu-doby-ledove.A200310_105806_ln_veda_ape`, `https://www.tyden.cz/rubriky/veda/mamuti-zaludky-pomahaji-vedcum-odhalit-prirodu-doby-ledove_540444.html`]
+  },
+  {
     date: `3/12/2019`,
     name: `Botanici připravili nový klíč k určování rostlin. Minulý rychle zastaral`,
     resources: [`Magazín M`],
@@ -153,6 +165,18 @@ export const mediaCz = [
   ];
 
 export const mediaEn = [
+  {
+    date: `12/5/2020`,
+    name: `V žaludcích mamutů našli vědci krajinu doby ledové`,
+    resources: [`Magazín M`],
+    links: [`https://www.em.muni.cz/veda-a-vyzkum/12856-v-zaludcich-mamutu-nasli-vedci-krajinu-doby-ledove`]
+  },
+  {
+    date: `8/3/2020`,
+    name: `Brněnští vědci nahlédli do mamutích žaludků. A poodhalili podobu pravěkého světa`,
+    resources: [`ČT24`, `Český rozhlas`,` Lidovky`, `Týden`],
+    links: [`https://ct24.ceskatelevize.cz/veda/3058902-brnensti-vedci-nahledli-do-mamutich-zaludku-a-poodhalili-podobu-pravekeho-sveta`, `https://plus.rozhlas.cz/cesti-vedci-dokreslili-obraz-praveke-sibire-8164645?`, `https://www.lidovky.cz/relax/veda/obsah-mamutich-zaludku-vedcum-odhaluje-prirodu-doby-ledove.A200310_105806_ln_veda_ape`, `https://www.tyden.cz/rubriky/veda/mamuti-zaludky-pomahaji-vedcum-odhalit-prirodu-doby-ledove_540444.html`]
+  },
   {
     date: `3/12/2019`,
     name: `Botanici připravili nový klíč k určování rostlin. Minulý rychle zastaral`,

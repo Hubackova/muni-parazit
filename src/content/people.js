@@ -896,6 +896,14 @@ export const peopleCz = {
 
 export const formerPeople = [
   {
+    name: `Anna Kuzemko (2019–2020)`,
+    email: `anyameadow.ak@gmail.com`
+  },
+  {
+    name: `Denys Vynokurov (2019–2020)`,
+    email: `denys.vynokurov@gmail.com`
+  },
+  {
     name: `Gianmaria Bonari (2017–2019)`,
     email: `gianmaria.bonari@gmail.com`
   },
