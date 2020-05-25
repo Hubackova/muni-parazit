@@ -53,7 +53,8 @@ class ProjectDetail extends Component {
       data: { allImageSharp }
     } = this.props;
 
-    const name = this.props.location.pathname.slice(1);
+    const name = `project${this.props.location.pathname.split('project')[1]}`
+
     return (
         <Consumer>
           {({ int }) => {
