@@ -10,7 +10,7 @@ export const project4en = {
       </div>
       <div>
         <h3>Participants and collaborators</h3>
-        Natálie Čeplová, Jan Divíšek, Lars Götzenberger, Milan Chytrý, Veronika Kalusová, Jakub
+        Irena Axmanová, Natálie Čeplová, Jan Divíšek, Lars Götzenberger, Milan Chytrý, Veronika Kalusová, Jakub
         Těšitel, Martin Večeřa
       </div>
       <div>
@@ -101,7 +101,7 @@ export const project4cz = {
       </div>
       <div>
         <h3>Spolupracovníci</h3>
-        Natálie Čeplová, Jan Divíšek, Lars Götzenberger, Milan Chytrý, Veronika Kalusová, Jakub
+        Irena Axmanová, Natálie Čeplová, Jan Divíšek, Lars Götzenberger, Milan Chytrý, Veronika Kalusová, Jakub
         Těšitel, Martin Večeřa
       </div>
       <div>

@@ -192,7 +192,7 @@ export const project2en = {
           </a>
         </li>
 		<li>
-          <b>Axmanová I.</b>, Robovský J., <b>Tichý L. J.</b>, <b>Danihelka J.</b>, Troeva E., Protopopov A. &amp; <b>Chytrý M.</b> (2020): Habitats of Pleistocene megaherbivores reconstructed from the frozen fauna remains. <i>Ecography</i> 43: 1–11. – 
+          <b>Axmanová I.</b>, Robovský J., <b>Tichý L. J.</b>, <b>Danihelka J.</b>, Troeva E., Protopopov A. &amp; <b>Chytrý M.</b> (2020): Habitats of Pleistocene megaherbivores reconstructed from the frozen fauna remains. <i>Ecography</i> 43: 703–713. – 
           <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/ecog.04940">
             {" "}
             fulltext in Wiley Online Library
@@ -627,7 +627,7 @@ export const project2cz = {
           </a>
         </li>
 		<li>
-          <b>Axmanová I.</b>, Robovský J., <b>Tichý L. J.</b>, <b>Danihelka J.</b>, Troeva E., Protopopov A. &amp; <b>Chytrý M.</b> (2020): Habitats of Pleistocene megaherbivores reconstructed from the frozen fauna remains. <i>Ecography</i> 43: 1–11. – 
+          <b>Axmanová I.</b>, Robovský J., <b>Tichý L. J.</b>, <b>Danihelka J.</b>, Troeva E., Protopopov A. &amp; <b>Chytrý M.</b> (2020): Habitats of Pleistocene megaherbivores reconstructed from the frozen fauna remains. <i>Ecography</i> 43: 703–713. – 
           <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/ecog.04940">
             {" "}
             fulltext in Wiley Online Library
