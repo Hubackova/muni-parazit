@@ -10,7 +10,8 @@ import {
   vegetationClassesSamples,
   vegetationClasses 
 } from "../../components/charts/chartData";
-import { Link } from "gatsby";
+import { Link , withPrefix} from "gatsby";
+
 
 export const CoordinatorsLinkCz = () => {
   const {setTurbowegOpened, setOpened} = useContext(PhytoContext)
@@ -188,7 +189,7 @@ export const en = {
             <MailEmoji mail="chytry@sci.muni.cz" />) na základě e-mailem doručeného vysvětlení, jak
             a k čemu budou data použita, a specifikace výběru a požadovaného formátu. Kritéria
             výběru fytocenologických snímků z databáze a formáty exportovaných snímků najdete{" "}
-            <a download href={`/vyberyDb.pdf`}>
+            <a download href={withPrefix(`/vyberyDb.pdf`)}>
               zde
             </a>
             .
@@ -227,7 +228,7 @@ export const en = {
       které lze pravidelně aktualizovat z těchto webových stránek. Kromě toho se v aplikaci
       nacházejí odkazy na informace o České národní fytocenologické databázi. Bližší informace a
       odkazy na stažení aplikace najdete{" "}
-      <a href={`/turboweg.pdf`} download>
+      <a href={withPrefix(`/turboweg.pdf`)} download>
         zde
       </a>
       .
@@ -574,7 +575,7 @@ export const cz = {
             <MailEmoji mail="chytry@sci.muni.cz" />) na základě e-mailem doručeného vysvětlení, jak
             a k čemu budou data použita, a specifikace výběru a požadovaného formátu. Kritéria
             výběru fytocenologických snímků z databáze a formáty exportovaných snímků najdete{" "}
-            <a download href={`/vyberyDb.pdf`}>
+            <a download href={withPrefix(`/vyberyDb.pdf`)}>
               zde
             </a>
             .
@@ -613,7 +614,7 @@ export const cz = {
       které lze pravidelně aktualizovat z těchto webových stránek. Kromě toho se v aplikaci
       nacházejí odkazy na informace o České národní fytocenologické databázi. Bližší informace a
       odkazy na stažení aplikace najdete{" "}
-      <a href={`/turboweg.pdf`} download>
+      <a href={withPrefix(`/turboweg.pdf`)} download>
         zde
       </a>
       .

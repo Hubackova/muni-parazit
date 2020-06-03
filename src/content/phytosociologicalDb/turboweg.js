@@ -1,6 +1,6 @@
 import React from "react";
 import { MailEmoji } from "../../components/atoms/Emoji";
-import { graphql, StaticQuery } from "gatsby";
+import { graphql, StaticQuery, withPrefix } from "gatsby";
 
 const DbDate = ({ type }) => (
   <StaticQuery
@@ -130,14 +130,14 @@ export const en = {
         pak celý soubor pošlou koordinátorovi centrální databáze, který snímkům přidělí volná čísla
         a přečísluje je. Pokud se zadavatel chystá své snímky publikovat, je kvůli odkazování vhodné
         mít již přidělená čísla z centrální databáze. Seznam rozsahů již přidělených čísel najdete{" "}
-        <a download href={`/rozsahy.pdf`}>
+        <a download href={withPrefix(`/rozsahy.pdf`)}>
           zde
         </a>
         {/* TODO: (aktualizovat také). */}
       </p>
       <p>
-        Pr<a download href={`/manualTv.pdf`}>o začátečníky doporučujeme k prostudování{" "}
-        
+        Pro začátečníky doporučujeme k prostudování{" "}
+        <a download href={withPrefix(`/manualTv.pdf`)}>
           manuál
         </a>{" "}
         popisující vytváření databází a zadávání dat do Turbovegu.
