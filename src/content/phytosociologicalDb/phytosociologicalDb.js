@@ -10,7 +10,7 @@ import {
   vegetationClassesSamples,
   vegetationClasses 
 } from "../../components/charts/chartData";
-
+import { Link } from "gatsby";
 
 export const CoordinatorsLinkCz = () => {
   const {setTurbowegOpened, setOpened} = useContext(PhytoContext)
@@ -18,7 +18,7 @@ export const CoordinatorsLinkCz = () => {
     setOpened("turboweg")
     setTurbowegOpened("coordinators")
    }
-    return  <span style={{color: "green", cursor: "pointer"}} onClick={()=>handleLinkClick()}>viz seznam koordinátorů databáze</span>
+    return  <span style={{color: "green", cursor: "pointer"}} onClick={()=>handleLinkClick()}>(viz seznam koordinátorů databáze)</span>
   } 
 
   export const CoordinatorsLinkEn = () => {
@@ -27,7 +27,7 @@ export const CoordinatorsLinkCz = () => {
      setOpened("turboweg")
      setTurbowegOpened("coordinators")
     }
-      return  <span style={{color: "green", cursor: "pointer"}} onClick={()=>handleLinkClick()}>see coordinators list</span>
+      return  <span style={{color: "green", cursor: "pointer"}} onClick={()=>handleLinkClick()}>(see coordinators list)</span>
     }
 
 export const en = {
@@ -179,7 +179,7 @@ export const en = {
         z centrální databáze mohou být podle přání jejich autora nebo dodavatele poskytována
         ostatním uživatelům ve třech režimech:
         <ul>
-          <li>Veřejná data volně dostupná <a href="/phytosociologicalDb-fytoonline">online z veřejné části databáze</a></li>
+          <li>Veřejná data volně dostupná <Link to="/phytosociological-online">online z veřejné části databáze</Link></li>
           <li>
             Veřejná data dostupná na požádání od správce centrální databáze pro účely akademického
             výzkumu nebo aplikací v ochraně přírody, nikoliv však pro komerční využití. Žádosti o
@@ -188,10 +188,7 @@ export const en = {
             <MailEmoji mail="chytry@sci.muni.cz" />) na základě e-mailem doručeného vysvětlení, jak
             a k čemu budou data použita, a specifikace výběru a požadovaného formátu. Kritéria
             výběru fytocenologických snímků z databáze a formáty exportovaných snímků najdete{" "}
-            <a
-              target="_blanc"
-              href="https://www.sci.muni.cz/botany/vegsci/dbase/vybery_z_databaze.pdf"
-            >
+            <a download href={`/vyberyDb.pdf`}>
               zde
             </a>
             .
@@ -230,10 +227,7 @@ export const en = {
       které lze pravidelně aktualizovat z těchto webových stránek. Kromě toho se v aplikaci
       nacházejí odkazy na informace o České národní fytocenologické databázi. Bližší informace a
       odkazy na stažení aplikace najdete{" "}
-      <a
-        target="_blanc"
-        href="http://www.sci.muni.cz/botany/vegsci/dbase/TURBOVEG_CHECK-UP_help.pdf"
-      >
+      <a href={`/turboweg.pdf`} download>
         zde
       </a>
       .
@@ -571,7 +565,7 @@ export const cz = {
         z centrální databáze mohou být podle přání jejich autora nebo dodavatele poskytována
         ostatním uživatelům ve třech režimech:
         <ul>
-          <li>Veřejná data volně dostupná <a href="/phytosociologicalDb-fytoonline">online z veřejné části databáze</a></li>
+          <li>Veřejná data volně dostupná <Link to="/phytosociological-online">online z veřejné části databáze</Link></li>
           <li>
             Veřejná data dostupná na požádání od správce centrální databáze pro účely akademického
             výzkumu nebo aplikací v ochraně přírody, nikoliv však pro komerční využití. Žádosti o
@@ -580,10 +574,7 @@ export const cz = {
             <MailEmoji mail="chytry@sci.muni.cz" />) na základě e-mailem doručeného vysvětlení, jak
             a k čemu budou data použita, a specifikace výběru a požadovaného formátu. Kritéria
             výběru fytocenologických snímků z databáze a formáty exportovaných snímků najdete{" "}
-            <a
-              target="_blanc"
-              href="https://www.sci.muni.cz/botany/vegsci/dbase/vybery_z_databaze.pdf"
-            >
+            <a download href={`/vyberyDb.pdf`}>
               zde
             </a>
             .
@@ -622,10 +613,7 @@ export const cz = {
       které lze pravidelně aktualizovat z těchto webových stránek. Kromě toho se v aplikaci
       nacházejí odkazy na informace o České národní fytocenologické databázi. Bližší informace a
       odkazy na stažení aplikace najdete{" "}
-      <a
-        target="_blanc"
-        href="http://www.sci.muni.cz/botany/vegsci/dbase/TURBOVEG_CHECK-UP_help.pdf"
-      >
+      <a href={`/turboweg.pdf`} download>
         zde
       </a>
       .

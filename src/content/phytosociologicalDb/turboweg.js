@@ -130,14 +130,14 @@ export const en = {
         pak celý soubor pošlou koordinátorovi centrální databáze, který snímkům přidělí volná čísla
         a přečísluje je. Pokud se zadavatel chystá své snímky publikovat, je kvůli odkazování vhodné
         mít již přidělená čísla z centrální databáze. Seznam rozsahů již přidělených čísel najdete{" "}
-        <a target="_blanc" href="https://www.sci.muni.cz/botany/vegsci/dbase/rozsahy.pdf">
+        <a download href={`/rozsahy.pdf`}>
           zde
         </a>
         {/* TODO: (aktualizovat také). */}
       </p>
       <p>
-        Pro začátečníky doporučujeme k prostudování{" "}
-        <a target="_blanc" href="https://www.sci.muni.cz/botany/vegsci/dbase/manual_tv.pdf">
+        Pr<a download href={`/manualTv.pdf`}>o začátečníky doporučujeme k prostudování{" "}
+        
           manuál
         </a>{" "}
         popisující vytváření databází a zadávání dat do Turbovegu.
