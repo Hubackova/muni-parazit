@@ -29,6 +29,7 @@
     "gatsby-transformer-sharp": "^2.1.9",
     "puppeteer": "^2.0.0",
     "react": "^16.8.6",
+    "react-device-detect": "^1.12.1",
     "react-dom": "^16.8.6",
     "react-grid-gallery": "^0.5.0",
     "react-helmet": "^5.2.0",

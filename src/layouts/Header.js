@@ -9,6 +9,7 @@ import HeaderTop from "./HeaderTop";
 import logo from "../../static/images/logo3.png";
 import mainLogo from "../../static/images/mainLogo.png";
 import logoSci from "../../static/images/logoSci.png";
+import {isSafari, isIOS} from 'react-device-detect';
 
 //query must be inline!!! not as a variable!
 const Header = ({ isIndex, generalData }) => (
@@ -35,7 +36,7 @@ const Header = ({ isIndex, generalData }) => (
       return (
         <Fragment>
           <HeaderTop generalData={generalData} isIndex={isIndex} />
-          <SubContainer>
+          {(isSafari || isIOS) ? <IosHeader>   <MainLogo src={mainLogo} alt="mainLogo" /></IosHeader>: <SubContainer>
             <LeftSide>
               <LogoLink href="http://www.botzool.sci.muni.cz" target="_blank">
                 <Logo src={logo} alt="logo" />
@@ -55,7 +56,7 @@ const Header = ({ isIndex, generalData }) => (
                 <ImgSlider imgs={imgs} />
               </RightSide>
             )}
-          </SubContainer>
+          </SubContainer>}
         </Fragment>
       );
     }}
@@ -78,7 +79,6 @@ const SubContainer = styled.div`
   }
   padding-bottom: 2em;
 `;
-
 const LeftSide = styled.div`
   flex: 2;
   display: flex;
@@ -87,6 +87,13 @@ const LeftSide = styled.div`
   @media (max-width: 2000px) {
     flex-wrap: wrap;
   }
+`;
+const IosHeader = styled.div`
+  flex: 1;
+  display: flex;
+  align-items: center;
+  background-color: ${props => props.theme.main};
+  margin-bottom: 30px;
 `;
 const LogoLink = styled.a`
   flex: 1;
