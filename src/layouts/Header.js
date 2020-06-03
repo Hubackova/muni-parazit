@@ -89,9 +89,7 @@ const LeftSide = styled.div`
   }
 `;
 const IosHeader = styled.div`
-  flex: 1;
-  display: flex;
-  align-items: center;
+  width: 100%;
   background-color: ${props => props.theme.main};
   margin-bottom: 30px;
 `;
