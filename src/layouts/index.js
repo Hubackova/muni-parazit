@@ -6,6 +6,8 @@ import { ThemeProvider } from "styled-components";
 import Header from "./Header";
 import FooterContent from "./Footer";
 import { IntProvider, Consumer } from "./Context";
+import { PhytoContextProvider } from "./PhytoContext";
+
 import  SEO  from "../components/SEO";
 import { cz, en } from "../content/general";
 
@@ -33,6 +35,7 @@ const Layout = props => {
   return (
     <IntProvider>
       <ThemeProvider theme={blueTheme}>
+      <PhytoContextProvider>
         <Consumer>
           {({int}) => (
             <Container><SEO />
@@ -44,6 +47,7 @@ const Layout = props => {
             </Container>
           )}
         </Consumer>
+        </PhytoContextProvider>
       </ThemeProvider>
     </IntProvider>
   );

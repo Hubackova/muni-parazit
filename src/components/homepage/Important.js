@@ -29,14 +29,13 @@ const Important = () => (
               const links = int === "en" ? en : cz;
               return (
                 <GridWrapper>
-                  {links.resourcesList.map((resource, index) => {
+                  {links.resourcesList.map((resource) => {
                     const img = data.allImageSharp.edges.filter(i =>
                       i.node.fixed.src.includes(resource.img)
                     );
                     const imgSrc = img.length ? img[0].node.fixed.src : null;
                     return (
-                      <ResourceBox to={resource.linkTo} key={resource.name} img={imgSrc} target="_blanc">
-                              </ResourceBox>
+                      <ResourceBox to={resource.linkTo} key={resource.name} img={imgSrc} target="_blanc" />
                     );
                   })}
                 </GridWrapper>
@@ -63,6 +62,8 @@ const RightPanel = styled.div`
   padding-right: 1em;
   margin-left: 2em;
   line-height: 1em;
+  display: flex;
+  justify-content: center;
   @media (max-width: ${props => props.theme.largeDevice}) {
     margin: 0;
     border: 0;
@@ -75,14 +76,15 @@ const GridWrapper = styled.div`
   display: grid;
   grid-template-columns: repeat(3, minmax(200px, 10vw));
   grid-template-rows: repeat(2, minmax(200px, 10vw));
-  grid-gap: 1vw;
+  grid-gap: 20px;
   @media (max-width: ${props => props.theme.largeDevice}) {
     grid-template-columns: repeat(3, minmax(20vw, 1fr));
-    grid-template-rows: repeat(2, minmax(30vw, 1fr));
+    grid-template-rows: repeat(2, minmax(20vw, 1fr));
   }
   @media (max-width: 620px) {
     grid-template-columns: repeat(1, minmax(200px, 200px));
     grid-template-rows: repeat(6, minmax(200px, 200px));
+
   }
 `;
 

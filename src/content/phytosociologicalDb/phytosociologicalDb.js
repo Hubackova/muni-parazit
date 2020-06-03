@@ -1,16 +1,35 @@
 /* eslint-disable no-irregular-whitespace */
-import React from "react";
+import React, {useContext} from "react";
 import { MailEmoji } from "../../components/atoms/Emoji";
-
 import BarChart from "../../components/charts/BarChart";
 import CnfdMap from "./CnfdMap";
-
+import { PhytoContext } from "../../layouts/PhytoContext";
 import {
   samplesData,
   samplesYears,
   vegetationClassesSamples,
-  vegetationClasses
+  vegetationClasses 
 } from "../../components/charts/chartData";
+
+
+export const CoordinatorsLinkCz = () => {
+  const {setTurbowegOpened, setOpened} = useContext(PhytoContext)
+   const handleLinkClick = () => {
+    setOpened("turboweg")
+    setTurbowegOpened("coordinators")
+   }
+    return  <span style={{color: "green", cursor: "pointer"}} onClick={()=>handleLinkClick()}>viz seznam koordinátorů databáze</span>
+  } 
+
+  export const CoordinatorsLinkEn = () => {
+    const {setTurbowegOpened, setOpened} = useContext(PhytoContext)
+    const handleLinkClick = () => {
+     setOpened("turboweg")
+     setTurbowegOpened("coordinators")
+    }
+      return  <span style={{color: "green", cursor: "pointer"}} onClick={()=>handleLinkClick()}>see coordinators list</span>
+    }
+
 export const en = {
   menu: [
     { name: "introduction", text: "Úvod" },
@@ -66,7 +85,7 @@ export const en = {
         <MailEmoji mail="ikuzel@sci.muni.cz" />
         ),  
         {/* TODO: link na koordinatory */}
-         {" "} lokální koordinátoři jsou také na jiných pracovištích (viz seznam koordinátorů databáze).
+         {" "} lokální koordinátoři jsou také na jiných pracovištích <CoordinatorsLinkEn />.
         Součástí databázového projektu je také rozvoj metod pro analýzu dat.
       </p>
       <p>
@@ -459,7 +478,7 @@ export const cz = {
         <MailEmoji mail="ikuzel@sci.muni.cz" />
         ), 
         {/* TODO: link na koordinatory */}
-         {" "}lokální koordinátoři jsou také na jiných pracovištích (viz seznam koordinátorů databáze).
+         {" "}lokální koordinátoři jsou také na jiných pracovištích <CoordinatorsLinkCz />.
         Součástí databázového projektu je také rozvoj metod pro analýzu dat.
       </p>
       <p>

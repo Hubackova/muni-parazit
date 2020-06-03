@@ -1,14 +1,16 @@
-import React, { useState } from "react";
+import React, {  useContext } from "react";
 import styled from "styled-components";
 
 import MainContainer from "../components/MainContainer";
 import { Consumer } from "../layouts/Context";
 import { cz, en } from "../content/phytosociologicalDb/phytosociologicalDb";
 import { en as turbowegEn } from "../content/phytosociologicalDb/turboweg";
+import { PhytoContext } from "../layouts/PhytoContext";
+
+
 
 const PhytosociologicalDbPage = () => {
-  const [opened, setOpened] = useState("introduction");
-  const [turbowegOpened, setTurbowegOpened] = useState("installation");
+  const {opened, setOpened, turbowegOpened, setTurbowegOpened } = useContext(PhytoContext)
 
   return (
     <MainContainer>
