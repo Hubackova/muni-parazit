@@ -47,7 +47,7 @@ export const project1cz = {
         <h3>Cíle projektu</h3>
         <div>
           Naše pracovní skupina koordinuje {" "}
-          <a href="http://euroveg.org/eva-database">Evropský vegetační archiv (EVA)</a>, integrovanou databázi fytocenologických snímků, která byla zřízena v roce 2012 ve spolupráci s kolegy z mezinárodní pracovní skupiny European Vegetation Survey při Mezinárodní společnosti pro výzkum vegetace (IAVS). Tento datový zdroj používáme pro analýzy různých aspektů diverzity evropské flóry a vegetace a vyvíjíme metody a nástroje pro podobné analýzy. Kromě toho provádíme vlastní terénní výzkum vegetace v různých částech Evropy. Soustředíme se zejména na:
+          <a href="http://euroveg.org/eva-database">Evropský vegetační archiv (EVA)</a>, integrovanou databázi fytocenologických snímků, která byla zřízena v roce 2012 ve spolupráci s kolegy z mezinárodní pracovní skupiny European Vegetation Survey při Mezinárodní společnosti pro výzkum vegetace (IAVS). Tento datový zdroj používáme pro analýzy různých aspektů diverzity evropské flóry a vegetace a vyvíjíme metody a nástroje pro podobné analýzy. Kromě toho provádíme vlastní terénní výzkum vegetace v různých částech Evropy. Soustředíme se zejména na: {" "}
           <li>vývoj typologie evropských biotopů jako nástroje pro ochranu přírody</li>
           <li>
             revize klasifikačního systému evropské vegetace s využitím rozsáhlých databází fytocenologických snímků
@@ -107,9 +107,15 @@ export const project1cz = {
           <h3>Odborné publikace (výběr)</h3>
         </div>
         <b>2020</b>
-        <li>
+		<li>
+		Giulio S., Acosta A.T.R., Carboni M., Campos J.A., <b>Chytrý M.</b>, Loidi J., Pergl J., Pyšek P., Isermann M., Janssen J.A.M., Rodwell J.S., Schaminée J.H.J. & Marcenò C. (2020): Alien flora across European coastal dunes. <i>Applied Vegetation Science</i> 23. – <a href="https://doi.org/10.1111/avsc.12490">https://doi.org/10.1111/avsc.12490</a>
+</li>
+		  <li>
+Küzmič F., Šilc U., <b>Lososová Z.</b>, Mucina L., <b>Chytrý M.</b>, <b>Knollová I.</b>, Hennekens S.M., Berg C., Bergmeier E., Biurrun I., Fanfarillo E., Font X., Iakushenko D., Kovačević Z., Meyer S., Nagy K., Pinke G., Poranen E. & Tereshenko S. (2020): European Weed Vegetation Database – a gap-focused vegetation-plot database. <i>Phytocoenologia</i> 50: 93–100. – <a href="https://doi.org/10.1127/phyto/2019/0337">https://doi.org/10.1127/phyto/2019/0337</a>
+         </li>
+		<li>
           Gholizadeh H., Naqinezhad A. &amp; <b>Chytrý M.</b> (2020): Classification of the Hyrcanian
-          forest vegetation, northern Iran. <i>Applied Vegetation Science</i> 23. –
+          forest vegetation, northern Iran. <i>Applied Vegetation Science</i> 23: 107–126. –
 		  <a href="https://doi.org/10.1111/avsc.12469">https://doi.org/10.1111/avsc.12469</a>          
 		  </li>
 		  <li>
@@ -118,19 +124,19 @@ export const project1cz = {
           Churakova E.Yu., Diekmann M., Halvorsen R., Kirichok E.I., Korotkov V.N., Kryshen A.M.,
           Lugovaya D.L., Morozova O.V., Potapov P.V., Prokazina T.S., Schei F.H., Semenishchenkov
           Yu.A., Shevchenko N.E., Sidorova O.V., Smirnov N.S., Smirnova O.V., Tsvirko R., Turubanova
-          S.A. &amp; <b>Chytrý M.</b> (2020): European Boreal Forest Vegetation Database. <i>Phytocoenologia</i>.
+          S.A. &amp; <b>Chytrý M.</b> (2020): European Boreal Forest Vegetation Database. <i>Phytocoenologia</i> 50: 79–92.
           –
           <a href="https://doi.org/10.1127/phyto/2019/0336">
             https://doi.org/10.1127/phyto/2019/0336
           </a>
         </li>
 		<li>
-		<b>Landucci F.</b>, Šumberová K., <b>Tichý L.</b>, Hennekens S., Aunina L., Biță‐Nicolae C., Borsukevych L., Bobrov A., Čarni A., De Bie E., Golub V., Hrivnák R., Iemelianova S., Jandt U., Jansen F., Kącki Z., Lájer K., Papastergiadou E., Šilc U., Sinkevičienė Z., Stančić Z., Stepanovič J., Teteryuk B., Tzonev R., Venanzoni R., Zelnik I. & <b>Chytrý M.</b> (2020): Classification of the European marsh vegetation (Phragmito‐Magnocaricetea) to the association level. Applied Vegetation Science 23:297–316. – <a href="https://doi.org/10.1111/avsc.12484">
+		<b>Landucci F.</b>, Šumberová K., <b>Tichý L.</b>, Hennekens S., Aunina L., Biță‐Nicolae C., Borsukevych L., Bobrov A., Čarni A., De Bie E., Golub V., Hrivnák R., Iemelianova S., Jandt U., Jansen F., Kącki Z., Lájer K., Papastergiadou E., Šilc U., Sinkevičienė Z., Stančić Z., Stepanovič J., Teteryuk B., Tzonev R., Venanzoni R., Zelnik I. & <b>Chytrý M.</b> (2020): Classification of the European marsh vegetation (Phragmito‐Magnocaricetea) to the association level. <i>Applied Vegetation Science</i> 23:297–316. – <a href="https://doi.org/10.1111/avsc.12484">
             https://doi.org/10.1111/avsc.12484
           </a>
 		</li>
 		<li>
-<b>Novák P.</b>, Willner W., <b>Zukal D.</b>, Kollár J., <b>Roleček J.</b>, Świerkosz K., Ewald J., Wohlgemuth T., Csiky J., Onyshchenko V. & <b>Chytrý M.</b> (2020): Oak-hornbeam forests in central Europe: a formalized classification and syntaxonomic revision. Preslia 92: 1–34. – <a href="https://doi.org/10.23855/preslia.2020.001">
+<b>Novák P.</b>, Willner W., <b>Zukal D.</b>, Kollár J., <b>Roleček J.</b>, Świerkosz K., Ewald J., Wohlgemuth T., Csiky J., Onyshchenko V. & <b>Chytrý M.</b> (2020): Oak-hornbeam forests in central Europe: a formalized classification and syntaxonomic revision. <i>Preslia</i> 92: 1–34. – <a href="https://doi.org/10.23855/preslia.2020.001">
             https://doi.org/10.23855/preslia.2020.001
           </a>
 </li>
@@ -644,11 +650,11 @@ export const project1en = {
         <h3>Project Aims</h3>
         <div>
           Our group manages the{" "}
-          <a href="http://euroveg.org/eva-database">European Vegetation Archive (EVA)</a>, an
+          <a href="http://euroveg.org/eva-database"> European Vegetation Archive (EVA)</a>, an
           integrated database of European vegetation plots, which we established in 2012 in
           cooperation with colleagues from the IAVS Working Group European Vegetation Survey. We use
           this resource to analyse different facets of fine-scale diversity of European flora and
-          vegetation, and to develop methods and tools for such analyses. Our main focus is on:
+          vegetation, and to develop methods and tools for such analyses. Our main focus is on: 
           <li>developing typologies of European habitats as a tool for nature conservation</li>
           <li>
             revising classification system of European vegetation using comprehensive datasets of
@@ -735,9 +741,15 @@ export const project1en = {
           <h3>Selected research papers</h3>
         </div>
         <b>2020</b>
+		<li>
+		Giulio S., Acosta A.T.R., Carboni M., Campos J.A., <b>Chytrý M.</b>, Loidi J., Pergl J., Pyšek P., Isermann M., Janssen J.A.M., Rodwell J.S., Schaminée J.H.J. & Marcenò C. (2020): Alien flora across European coastal dunes. <i>Applied Vegetation Science</i> 23. – <a href="https://doi.org/10.1111/avsc.12490">https://doi.org/10.1111/avsc.12490</a>
+</li>
+		  <li>
+Küzmič F., Šilc U., <b>Lososová Z.</b>, Mucina L., <b>Chytrý M.</b>, <b>Knollová I.</b>, Hennekens S.M., Berg C., Bergmeier E., Biurrun I., Fanfarillo E., Font X., Iakushenko D., Kovačević Z., Meyer S., Nagy K., Pinke G., Poranen E. & Tereshenko S. (2020): European Weed Vegetation Database – a gap-focused vegetation-plot database. <i>Phytocoenologia</i> 50: 93–100. – <a href="https://doi.org/10.1127/phyto/2019/0337">https://doi.org/10.1127/phyto/2019/0337</a>
+         </li>
         <li>
           Gholizadeh H., Naqinezhad A. &amp; <b>Chytrý M.</b> (2020): Classification of the Hyrcanian
-          forest vegetation, northern Iran. <i>Applied Vegetation Science</i> 23. –
+          forest vegetation, northern Iran. <i>Applied Vegetation Science</i> 23: 107–126.–
 		  <a href="https://doi.org/10.1111/avsc.12469">https://doi.org/10.1111/avsc.12469</a>          
 		  </li>
 		  <li>
@@ -746,19 +758,19 @@ export const project1en = {
           Churakova E.Yu., Diekmann M., Halvorsen R., Kirichok E.I., Korotkov V.N., Kryshen A.M.,
           Lugovaya D.L., Morozova O.V., Potapov P.V., Prokazina T.S., Schei F.H., Semenishchenkov
           Yu.A., Shevchenko N.E., Sidorova O.V., Smirnov N.S., Smirnova O.V., Tsvirko R., Turubanova
-          S.A. &amp; <b>Chytrý M.</b> (2020): European Boreal Forest Vegetation Database. <i>Phytocoenologia</i>.
+          S.A. &amp; <b>Chytrý M.</b> (2020): European Boreal Forest Vegetation Database. <i>Phytocoenologia</i> 50: 79–92.
           –
           <a href="https://doi.org/10.1127/phyto/2019/0336">
             https://doi.org/10.1127/phyto/2019/0336
           </a>
         </li>
 		<li>
-		<b>Landucci F.</b>, Šumberová K., <b>Tichý L.</b>, Hennekens S., Aunina L., Biță‐Nicolae C., Borsukevych L., Bobrov A., Čarni A., De Bie E., Golub V., Hrivnák R., Iemelianova S., Jandt U., Jansen F., Kącki Z., Lájer K., Papastergiadou E., Šilc U., Sinkevičienė Z., Stančić Z., Stepanovič J., Teteryuk B., Tzonev R., Venanzoni R., Zelnik I. & <b>Chytrý M.</b> (2020): Classification of the European marsh vegetation (Phragmito‐Magnocaricetea) to the association level. Applied Vegetation Science 23:297–316. – <a href="https://doi.org/10.1111/avsc.12484">
+		<b>Landucci F.</b>, Šumberová K., <b>Tichý L.</b>, Hennekens S., Aunina L., Biță‐Nicolae C., Borsukevych L., Bobrov A., Čarni A., De Bie E., Golub V., Hrivnák R., Iemelianova S., Jandt U., Jansen F., Kącki Z., Lájer K., Papastergiadou E., Šilc U., Sinkevičienė Z., Stančić Z., Stepanovič J., Teteryuk B., Tzonev R., Venanzoni R., Zelnik I. & <b>Chytrý M.</b> (2020): Classification of the European marsh vegetation (Phragmito‐Magnocaricetea) to the association level. <i>Applied Vegetation Science</i> 23: 297–316. – <a href="https://doi.org/10.1111/avsc.12484">
             https://doi.org/10.1111/avsc.12484
           </a>
 		</li>
 		<li>
-<b>Novák P.</b>, Willner W., <b>Zukal D.</b>, Kollár J., <b>Roleček J.</b>, Świerkosz K., Ewald J., Wohlgemuth T., Csiky J., Onyshchenko V. & <b>Chytrý M.</b> (2020): Oak-hornbeam forests in central Europe: a formalized classification and syntaxonomic revision. Preslia 92: 1–34. – <a href="https://doi.org/10.23855/preslia.2020.001">
+<b>Novák P.</b>, Willner W., <b>Zukal D.</b>, Kollár J., <b>Roleček J.</b>, Świerkosz K., Ewald J., Wohlgemuth T., Csiky J., Onyshchenko V. & <b>Chytrý M.</b> (2020): Oak-hornbeam forests in central Europe: a formalized classification and syntaxonomic revision. <i>Preslia</i> 92: 1–34. – <a href="https://doi.org/10.23855/preslia.2020.001">
             https://doi.org/10.23855/preslia.2020.001
           </a>
 </li>
@@ -770,9 +782,9 @@ export const project1en = {
           Bonari G., <b>Knollová I.</b>, <b>Vlčková P.</b>, Xystrakis F., Çoban S., Sağlam C., Didukh Y.P.,
           Hennekens S.M., Acosta A.T.R., Angiolini C., Bergmeier E., Bertacchi A., Costa J.C.,
           Fanfarillo E., Gigante D., Guarino R., Landi M., Neto C.S., Pesaresi S., Rosati L., Selvi
-          F., Sotiriou A., Stinca A., Turcato C., Tzonev R., Viciani D. &amp; <b>Chytrý M.</b> (2019):
+          F., Sotiriou A., Stinca A., Turcato C., Tzonev R., Viciani D. &amp; <b>Chytrý M.</b> (2019):{" "}
           CircumMed Pine Forest Database: an electronic archive for Mediterranean and
-          Submediterranean pine forest vegetation data. <i>Phytocoenologia</i> 49: 311–318. – {" "}
+          Submediterranean pine forest vegetation data. <i>Phytocoenologia</i> 49: 311–318. – 
 		  <a href="https://doi.org/10.1127/phyto/2019/0311">https://doi.org/10.1127/phyto/2019/0311</a>
         </li>
         <li>
@@ -832,19 +844,19 @@ export const project1en = {
         <li>
           Pätsch R., <b>Jašková A.</b>, <b>Chytrý M.</b>, Kucherov I.B., Schaminée J.H.J., Bergmeier E. &amp;
           Janssen J.A.M. (2019): Making them visible and usable – vegetation‐plot observations from
-          Fennoscandia based on historical species‐quantity scales. <i>Applied Vegetation Science</i> 22:
+          Fennoscandia based on historical species‐quantity scales. <i>Applied Vegetation Science</i> 22: {" "}
           465–473. – {" "}
 		  <a href="https://doi.org/10.1111/avsc.12452">https://doi.org/10.1111/avsc.12452</a>
         </li>
         <li>
           <b>Roleček J.</b>, <b>Hájek M.</b>, <b>Dřevojan P.</b>, <b>Prokešová H.</b>, Fajmon K., <b>Těšitel J.</b>, <b>Daněk P.</b>, <b>Hájková
-          P.</b>, Jongepierová I., <b>Novák P.</b>, Poluyanov A. V., Shumska N. V., &amp; Chorney I. I. (2019):
+          P.</b>, Jongepierová I., <b>Novák P.</b>, Poluyanov A. V., Shumska N. V., &amp; Chorney I. I. (2019): {" "}
           Gradients, species richness and biogeographical links of steppe grasslands in Western
           Podolia (Ukraine). <i>Phytocoenologia</i> 49: 349–367.
         </li>
         <li>
           Schaminée J.H.J., <b>Chytrý M.</b>, <b>Hájek M.</b>, Hennekens S.M., Janssen J.A.M., <b>Jiroušek M.</b>,
-          <b> Knollová I.</b>, <b>Marcenò C.</b>, <b>Peterka T.</b>, Rodwell J.S., <b>Tichý L.</b> &amp; data providers (2019):
+          <b> Knollová I.</b>, <b>Marcenò C.</b>, <b>Peterka T.</b>, Rodwell J.S., <b>Tichý L.</b> &amp; data providers (2019): {" "}
           Updated crosswalks of the revised EUNIS Habitat Classification with the European
           Vegetation Classification and the European Red List Habitats for EUNIS coastal habitats
           and wetlands. Formal query routines and indicator species. Report EEA/NSS/17/002/Lot 1.
@@ -934,7 +946,7 @@ export const project1en = {
           <b>Jiménez-Alfaro B.</b>, Suárez-Seoane S., <b>Chytrý M.</b>, Hennekens S.M., Willner W., <b>Hájek M.</b>,
           Agrillo E., Álvarez-Martínez J.M., Bergamini A., Brisse H., Brunet J., Casella L., Dítě
           D., Font X., Gillet F., <b>Hájková P.</b>, Jansen F., Jandt U., Kącki Z., Lenoir J., Rodwell
-          J.S., Schaminée J.H.J., <b>Sekulová L.</b>, Šibík J., Škvorc Ž. &amp; Tsiripidis I. (2018):
+          J.S., Schaminée J.H.J., <b>Sekulová L.</b>, Šibík J., Škvorc Ž. &amp; Tsiripidis I. (2018): {" "}
           Modelling the distribution and compositional variation of plant communities at the
           continental scale. <i>Diversity and Distributions</i> 24: 978–990. – {" "}
 		  <a href="https://doi.org/10.1111/ddi.12736">https://doi.org/10.1111/ddi.12736</a>
@@ -955,7 +967,7 @@ export const project1en = {
 		  <a href="https://doi.org/10.1016/j.palaeo.2017.12.004">https://doi.org/10.1016/j.palaeo.2017.12.004</a> 
         </li>
         <li>
-          Sabatini F.M., <b>Jiménez-Alfaro B.</b>, Burrascano S., Lora A. &amp; <b>Chytrý M.</b> (2018):
+          Sabatini F.M., <b>Jiménez-Alfaro B.</b>, Burrascano S., Lora A. &amp; <b>Chytrý M.</b> (2018): {" "}
           Beta-diversity of Central European forests decreases along an elevational gradient due to
           the variation in local community assembly processes. <i>Ecography</i> 41: 1038–1048. – {" "}
 		  <a href="http://dx.doi.org/10.1111/ecog.02809">http://dx.doi.org/10.1111/ecog.02809</a>
@@ -986,7 +998,7 @@ export const project1en = {
         </li>
         <li>
           <b>Novák P.</b>, <b>Zukal D.</b>, <b>Večeřa M.</b> &amp; <b>Píšťková K.</b> (2017): Vegetation of oak-hornbeam, scree
-          and ravine forests at lower altitudes in Transcarpathia, Western Ukraine. <i>Tuexenia</i> 37:
+          and ravine forests at lower altitudes in Transcarpathia, Western Ukraine. <i>Tuexenia</i> 37: {" "}
           47–63.
         </li>
         <li>
@@ -1003,7 +1015,7 @@ export const project1en = {
         </li>
         <li>
           Rodríguez-Rojo M.P., <b>Jiménez-Alfaro B.</b>, Jandt U., Bruelheide H., Rodwell J.S., Schaminée
-          J.H.J., Perrin P.M., Kącki Z., Willner W., Fernández-González F. &amp; <b>Chytrý M.</b> (2017):
+          J.H.J., Perrin P.M., Kącki Z., Willner W., Fernández-González F. &amp; <b>Chytrý M.</b> (2017): {" "}
           Diversity of lowland hay meadows and pastures in Western and Central Europe. <i>Applied
           Vegetation Science</i> 20: 702–719. – {" "}
 		  <a href="http://dx.doi.org/10.1111/avsc.12326">http://dx.doi.org/10.1111/avsc.12326</a> 
@@ -1083,7 +1095,7 @@ export const project1en = {
           Willner W., Dengler J., Gavilán García R., <b>Chytrý M.</b>, <b>Hájek M.</b>, Di Pietro R., Iakushenko
           D., Pallas J., Daniëls F.J.A., Bergmeier E., Santos Guerra A., Ermakov N., Valachovič M.,
           Schaminée J.H.J., Lysenko T., Didukh Ya.P., Pignatti S., Rodwell J.S., Capelo J., Weber
-          H.E., Solomeshch A., Dimopoulos P., Aguiar C., Hennekens S.M. &amp; <b>Tichý L.</b> (2016):
+          H.E., Solomeshch A., Dimopoulos P., Aguiar C., Hennekens S.M. &amp; <b>Tichý L.</b> (2016): {" "}
           Vegetation of Europe: Hierarchical floristic classification system of vascular plant,
           bryophyte, lichen, and algal communities. <i>Applied Vegetation Science</i> 19, Suppl. 1: 3–264.
         </li>
@@ -1131,7 +1143,7 @@ export const project1en = {
         </li>
         <li>
           <b><b>Kalusová V.</b></b>, <b>Chytrý M.</b>, Peet R.K. &amp; Wentworth T.R. (2015): Intercontinental comparison
-          of habitat levels of invasion between temperate North America and Europe. <i>Ecology</i> 96:
+          of habitat levels of invasion between temperate North America and Europe. <i>Ecology</i> 96: {" "}
           3363–3373.
         </li>
         <li>

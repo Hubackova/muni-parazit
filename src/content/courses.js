@@ -1,13 +1,5 @@
 export const coursesCz = [
   {
-    name: `Bakalářská práce z botaniky a ekologie`,
-    link: `https://is.muni.cz/predmet/sci/jaro2020/Bi5200`
-  },
-  {
-    name: `Bakalářská práce z ekologické a evoluční biologie`,
-    link: `https://is.muni.cz/predmet/sci/podzim2019/Bi5831`
-  },
-  {
     name: `Botanický seminář`,
     link: `http://botzool.sci.muni.cz/study/seminar_bot.pdf`
   },
@@ -22,18 +14,6 @@ export const coursesCz = [
    {
     name: `Determinační praktikum krytosemenných rostlin`,
     link: `https://is.muni.cz/predmet/sci/podzim2019/Bi8630`
-  },
-  {
-    name: `Diplomová práce z biologie`,
-    link: `https://is.muni.cz/predmet/sci/podzim2019/BI7110BZ`
-  },
-  {
-    name: `Diplomová práce z botaniky`,
-    link: `https://is.muni.cz/predmet/sci/jaro2020/Bi7701`
-  },
-  {
-    name: `Diplomová práce z ochrany přírody`,
-    link: `https://is.muni.cz/predmet/sci/podzim2019/Bi7731`
   },
   {
     name: `Ekologie lesa`,
@@ -131,14 +111,6 @@ export const coursesCz = [
 ];
 
 export const coursesEn = [
-   {
-    name: `Botany and ecology bachelor thesis`,
-    link: `https://is.muni.cz/predmet/sci/jaro2020/Bi5200?lang=en`
-  },
-  {
-    name: `Bachelor thesis of ecological and evolutionary biology `,
-    link: `https://is.muni.cz/predmet/sci/podzim2019/Bi5831?lang=en`
-  },
   {
     name: `Botany seminar`,
     link: `http://botzool.sci.muni.cz/study/seminar_bot.pdf`
@@ -154,18 +126,6 @@ export const coursesEn = [
    {
     name: `Angiosperm identification course`,
     link: `https://is.muni.cz/predmet/sci/podzim2019/Bi8630?lang=en`
-  },
-  {
-    name: `Diploma thesis tutorial`,
-    link: `https://is.muni.cz/predmet/sci/podzim2019/BI7110BZ?lang=en`
-  },
-  {
-    name: `Botany diploma thesis`,
-    link: `https://is.muni.cz/predmet/sci/jaro2020/Bi7701?lang=en`
-  },
-  {
-    name: `Nature conservation diploma thesis`,
-    link: `https://is.muni.cz/predmet/sci/podzim2019/Bi7731?lang=en`
   },
   {
     name: `Forest ecology`,
@@ -256,7 +216,7 @@ export const coursesEn = [
     link: `https://is.muni.cz/predmet/sci/jaro2020/Bi7540?lang=en`
   },
   {
-    name: `Methods of phytosociology`,
+    name: `Processing basic botanical data`,
     link: `https://is.muni.cz/predmet/sci/jaro2020/Bi6549?lang=en`
   }
 ];
