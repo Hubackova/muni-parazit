@@ -922,7 +922,7 @@ export const project2cz = {
         <li>
           Pokorný P. (2004): Velký bratr uděluje lekci. Sibiřské řešení záhady evropských ledových
           dob. <i>Vesmír</i> 83: 276–281. –{" "}
-          <a href="http://www.sci.muni.cz/botany/chytry/Pokorny2004_Vesmir.pdf">PDF</a>
+          <a href="https://vesmir.cz/cz/casopis/archiv-casopisu/2004/cislo-5/velky-bratr-udeluje-lekci.html">fulltext</a>
         </li>
         <div>
           <h3>Média</h3>
@@ -972,7 +972,7 @@ export const project2cz = {
           <a href="https://temata.rozhlas.cz/cesko-v-dobe-ledove-7851787">
             Česko v době ledové
           </a>
-          . Český rozhlas
+          , Český rozhlas
         </li>
       </div>
       

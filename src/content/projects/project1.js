@@ -108,7 +108,7 @@ export const project1cz = {
         </div>
         <b>2020</b>
 		<li>
-		Giulio S., Acosta A.T.R., Carboni M., Campos J.A., <b>Chytrý M.</b>, Loidi J., Pergl J., Pyšek P., Isermann M., Janssen J.A.M., Rodwell J.S., Schaminée J.H.J. & Marcenò C. (2020): Alien flora across European coastal dunes. <i>Applied Vegetation Science</i> 23. – <a href="https://doi.org/10.1111/avsc.12490">https://doi.org/10.1111/avsc.12490</a>
+		Giulio S., Acosta A.T.R., Carboni M., Campos J.A., <b>Chytrý M.</b>, Loidi J., Pergl J., Pyšek P., Isermann M., Janssen J.A.M., Rodwell J.S., Schaminée J.H.J. & Marcenò C. (2020): Alien flora across European coastal dunes. <i>Applied Vegetation Science</i> 23: 317-327. – <a href="https://doi.org/10.1111/avsc.12490">https://doi.org/10.1111/avsc.12490</a>
 </li>
 		  <li>
 Küzmič F., Šilc U., <b>Lososová Z.</b>, Mucina L., <b>Chytrý M.</b>, <b>Knollová I.</b>, Hennekens S.M., Berg C., Bergmeier E., Biurrun I., Fanfarillo E., Font X., Iakushenko D., Kovačević Z., Meyer S., Nagy K., Pinke G., Poranen E. & Tereshenko S. (2020): European Weed Vegetation Database – a gap-focused vegetation-plot database. <i>Phytocoenologia</i> 50: 93–100. – <a href="https://doi.org/10.1127/phyto/2019/0337">https://doi.org/10.1127/phyto/2019/0337</a>
@@ -131,7 +131,7 @@ Küzmič F., Šilc U., <b>Lososová Z.</b>, Mucina L., <b>Chytrý M.</b>, <b>Kno
           </a>
         </li>
 		<li>
-		<b>Landucci F.</b>, Šumberová K., <b>Tichý L.</b>, Hennekens S., Aunina L., Biță‐Nicolae C., Borsukevych L., Bobrov A., Čarni A., De Bie E., Golub V., Hrivnák R., Iemelianova S., Jandt U., Jansen F., Kącki Z., Lájer K., Papastergiadou E., Šilc U., Sinkevičienė Z., Stančić Z., Stepanovič J., Teteryuk B., Tzonev R., Venanzoni R., Zelnik I. & <b>Chytrý M.</b> (2020): Classification of the European marsh vegetation (Phragmito‐Magnocaricetea) to the association level. <i>Applied Vegetation Science</i> 23:297–316. – <a href="https://doi.org/10.1111/avsc.12484">
+		<b>Landucci F.</b>, Šumberová K., <b>Tichý L.</b>, Hennekens S., Aunina L., Biță‐Nicolae C., Borsukevych L., Bobrov A., Čarni A., De Bie E., Golub V., Hrivnák R., Iemelianova S., Jandt U., Jansen F., Kącki Z., Lájer K., Papastergiadou E., Šilc U., Sinkevičienė Z., Stančić Z., Stepanovič J., Teteryuk B., Tzonev R., Venanzoni R., Zelnik I. & <b>Chytrý M.</b> (2020): Classification of the European marsh vegetation (Phragmito‐Magnocaricetea) to the association level. <i>Applied Vegetation Science</i> 23: 297–316. – <a href="https://doi.org/10.1111/avsc.12484">
             https://doi.org/10.1111/avsc.12484
           </a>
 		</li>
@@ -141,7 +141,10 @@ Küzmič F., Šilc U., <b>Lososová Z.</b>, Mucina L., <b>Chytrý M.</b>, <b>Kno
           </a>
 </li>
 		<li>
-		Schaminée J.H.J., <b>Chytrý M.</b>, Hennekens S.M., Janssen J.A.M., <b>Knollová I.</b>, <b>Lososová Z.</b>, <b>Marcenò C.</b>, <b>Tichý L.</b> & data providers (2020): Updated crosswalks, formal query routines and indicator species of the revised EUNIS Habitat Classification with the European Vegetation Classification for vegetated man-made habitats and aligning of crosswalks between European Red List habitats and Annex I habitats with crosswalks between EUNIS habitats and Annex I habitats. Report EEA/NSS/17/002/Lot 1. European Environment Agency, Copenhagen.
+		Schaminée J.H.J., <b>Chytrý M.</b>, Hennekens S.M., Janssen J.A.M., <b>Knollová I.</b>, <b>Lososová Z.</b>, <b>Marcenò C.</b>, <b>Tichý L.</b> & data providers (2020): Updated crosswalks, formal query routines and indicator species of the revised EUNIS Habitat Classification with the European Vegetation Classification for vegetated man-made habitats and aligning of crosswalks between European Red List habitats and Annex I habitats with crosswalks between EUNIS habitats and Annex I habitats. Report EEA/NSS/17/002/Lot 1. European Environment Agency, Copenhagen. 
+		 – <a href="https://www.sci.muni.cz/botany/chytry/Schaminee_etal2020_EEA-Report-Man-Made-Habitats.pdf">
+		PDF
+		</a>
 		</li>
         <b>2019</b>
         <li>
@@ -205,7 +208,8 @@ Küzmič F., Šilc U., <b>Lososová Z.</b>, Mucina L., <b>Chytrý M.</b>, <b>Kno
         <li>
           <b>Novák P.</b>, <b>Zukal D.</b>, <b>Kalníková V.</b>, <b>Chytrý K.</b>, &amp; Kavgacı A. (2019): Ecology and
           syntaxonomy of Colchic forests in south-western Georgia (Caucasus region). <i>Phytocoenologia </i>
-          49: 231–248.
+          49: 231–248. – {" "}
+		  <a href="https://doi.org/10.1127/phyto/2019/0250">https://doi.org/10.1127/phyto/2019/0250</a>
         </li>
         <li>
           Pätsch R., <b>Jašková A.</b>, <b>Chytrý M.</b>, Kucherov I.B., Schaminée J.H.J., Bergmeier E. &amp;
@@ -218,16 +222,12 @@ Küzmič F., Šilc U., <b>Lososová Z.</b>, Mucina L., <b>Chytrý M.</b>, <b>Kno
           <b>Roleček J.</b>, <b>Hájek M.</b>, <b>Dřevojan P.</b>, <b>Prokešová H.</b>, Fajmon K., <b>Těšitel J.</b>, <b>Daněk P.</b>, <b>Hájková
           P.</b>, Jongepierová I., <b>Novák P.</b>, Poluyanov A. V., Shumska N. V., &amp; Chorney I. I. (2019):
           Gradients, species richness and biogeographical links of steppe grasslands in Western
-          Podolia (Ukraine). <i>Phytocoenologia</i> 49: 349–367.
+          Podolia (Ukraine). <i>Phytocoenologia</i> 49: 349–367. – {" "}
+		  <a href="https://doi.org/10.1127/phyto/2019/0255">https://doi.org/10.1127/phyto/2019/0255</a>
         </li>
-        <li>
-          Schaminée J.H.J., <b>Chytrý M.</b>, <b>Hájek M.</b>, Hennekens S.M., Janssen J.A.M., <b>Jiroušek M.</b>,
-          <b> Knollová I.</b>, <b>Marcenò C.</b>, <b>Peterka T.</b>, Rodwell J.S., <b>Tichý L.</b> &amp; data providers (2019):
-          Updated crosswalks of the revised EUNIS Habitat Classification with the European
-          Vegetation Classification and the European Red List Habitats for EUNIS coastal habitats
-          and wetlands. Formal query routines and indicator species. Report EEA/NSS/17/002/Lot 1.
-          European Environment Agency, Copenhagen.
-        </li>
+		<li>
+		  Schaminée J.H.J., <b>Chytrý M.</b>, <b>Hájek M.</b>, Hennekens S.M., Janssen J.A.M., <b>Jiroušek M.</b>, <b>Knollová I.</b>, <b>Marcenò C.</b>, <b>Peterka T.</b>, Rodwell J.S., <b>Tichý L.</b> & data providers (2019): Updated crosswalks of the revised EUNIS Habitat Classification with the European Vegetation Classification and the European Red List Habitats for EUNIS coastal habitats and wetlands. Formal query routines and indicator species. Report EEA/NSS/17/002/Lot 1. European Environment Agency, Copenhagen.
+		  </li>
         <li>
           Sporbert M., Bruelheide H., Seidler G., Keil P., Jandt U., Austrheim G., Biurrun I.,
           Campos J. A., Čarni A., <b>Chytrý M.</b>, Csiky J., Bie E. D., Dengler J., Golub V., Grytnes
@@ -292,7 +292,8 @@ Küzmič F., Šilc U., <b>Lososová Z.</b>, Mucina L., <b>Chytrý M.</b>, <b>Kno
         <li>
           Del Vecchio S., Fantinato E., Janssen J. A. M., Bioret F., Acosta A., Prisco I., Tzonev
           R.,<b> <b>Marcenò C.</b></b>, Rodwell J. &amp; Buffa G. (2018): Biogeographic variability of coastal
-          perennial grasslands at the European scale. <i>Applied Vegetation Science</i> 21: 312–321.
+          perennial grasslands at the European scale. <i>Applied Vegetation Science</i> 21: 312–321. – {" "}
+		  <a href="https://doi.org/10.1111/avsc.12356">https://doi.org/10.1111/avsc.12356</a>
         </li>
         <li>
           <b>Divíšek J.</b> &amp; <b>Chytrý M.</b> (2018): High-resolution and large-extent mapping of plant
@@ -349,7 +350,10 @@ Küzmič F., Šilc U., <b>Lososová Z.</b>, Mucina L., <b>Chytrý M.</b>, <b>Kno
         <b>2017</b>
         <li>
           <b>Kalníková V.</b> &amp; Kudrnovsky H. (2017): Gravel Bar Vegetation Database. <i>Phytocoenologia </i>
-          47: 109–110.
+          47: 109–110. – {" "}
+		  <a href="https://doi.org/10.1127/phyto/2017/0177
+">https://doi.org/10.1127/phyto/2017/0177
+</a>
         </li>
         <li>
           <b><b>Kalusová V.</b></b>, <b>Chytrý M.</b>, van Kleunen M., Mucina L., Dawson W., Essl F., Kreft H., Pergl J.,
@@ -360,12 +364,17 @@ Küzmič F., Šilc U., <b>Lososová Z.</b>, Mucina L., <b>Chytrý M.</b>, <b>Kno
         </li>
         <li>
           <b><b>Marcenò C.</b></b> &amp; <b>Jiménez-Alfaro B.</b> (2017): The Mediterranean Ammophiletea Database: a
-          comprehensive dataset of coastal dune vegetation. <i>Phytocoenologia</i> 47: 95–105.
+          comprehensive dataset of coastal dune vegetation. <i>Phytocoenologia</i> 47: 95–105. – {" "}
+		  <a href="http://doi.org/10.1127/phyto/2016/0133
+">http://doi.org/10.1127/phyto/2016/0133
+</a>
         </li>
         <li>
           <b>Novák P.</b>, <b>Zukal D.</b>, <b>Večeřa M.</b> &amp; <b>Píšťková K.</b> (2017): Vegetation of oak-hornbeam, scree
-          and ravine forests at lower altitudes in Transcarpathia, Western Ukraine. <i>Tuexenia</i> 37:
-          47–63.
+          and ravine forests at lower altitudes in Transcarpathia, Western Ukraine. <i>Tuexenia</i> 37: 47–63. – {" "}
+		  <a href="http://doi.org/10.14471/2017.37.021
+">http://doi.org/10.14471/2017.37.021
+</a>
         </li>
         <li>
           <b>Peterka T.</b>, <b>Hájek M.</b>, <b>Jiroušek M.</b>, <b>Jiménez-Alfaro B.</b>, Aunina L., Bergamini A., Dítě D.,
@@ -433,7 +442,10 @@ Küzmič F., Šilc U., <b>Lososová Z.</b>, Mucina L., <b>Chytrý M.</b>, <b>Kno
           Uğurlu E., Uogintas D., Valachovič M., Vashenyak Y., Vassilev K., Venanzoni R., Virtanen
           R., Weekes L., Willner W., Wohlgemuth T. &amp; Yamalov S. (2016): European Vegetation
           Archive (EVA): an integrated database of European vegetation plots. <i>Applied Vegetation
-          Science</i> 19: 173–180.
+          Science</i> 19: 173–180. – {" "}
+		  <a href="https://doi.org/10.1111/avsc.12191
+">https://doi.org/10.1111/avsc.12191
+</a>
         </li>
         <li>
           Douda J., Boublík K., Slezák M., Biurrun I., Nociar J., Havrdová A., Doudová J., Aćić S.,
@@ -491,7 +503,10 @@ Küzmič F., Šilc U., <b>Lososová Z.</b>, Mucina L., <b>Chytrý M.</b>, <b>Kno
           Kochjarová J., Lepš J., Leskovjanská A., <b>Merunková K.</b>, Mládek J., Slezák M., Šeffer J.,
           Šefferová V., Škodová I., Uhlířová J., Ujházyová M. &amp; <b>Vymazalová M.</b> (2015): The most
           species-rich plant communities in the Czech Republic and Slovakia (with new world
-          records). <i>Preslia</i> 87: 217–278.
+          records). <i>Preslia</i> 87: 217–278. – {" "}
+		  <a href="http://www.preslia.cz/2015.html#chytry
+">PDF
+</a>
         </li>
         <li>
           De Cáceres M., <b>Chytrý M.</b>, Agrillo E., Attorre F., Botta-Dukát Z., Capelo J., Czúcz B.,
@@ -742,7 +757,7 @@ export const project1en = {
         </div>
         <b>2020</b>
 		<li>
-		Giulio S., Acosta A.T.R., Carboni M., Campos J.A., <b>Chytrý M.</b>, Loidi J., Pergl J., Pyšek P., Isermann M., Janssen J.A.M., Rodwell J.S., Schaminée J.H.J. & Marcenò C. (2020): Alien flora across European coastal dunes. <i>Applied Vegetation Science</i> 23. – <a href="https://doi.org/10.1111/avsc.12490">https://doi.org/10.1111/avsc.12490</a>
+		Giulio S., Acosta A.T.R., Carboni M., Campos J.A., <b>Chytrý M.</b>, Loidi J., Pergl J., Pyšek P., Isermann M., Janssen J.A.M., Rodwell J.S., Schaminée J.H.J. & Marcenò C. (2020): Alien flora across European coastal dunes. <i>Applied Vegetation Science</i> 23: 317-327. – <a href="https://doi.org/10.1111/avsc.12490">https://doi.org/10.1111/avsc.12490</a>
 </li>
 		  <li>
 Küzmič F., Šilc U., <b>Lososová Z.</b>, Mucina L., <b>Chytrý M.</b>, <b>Knollová I.</b>, Hennekens S.M., Berg C., Bergmeier E., Biurrun I., Fanfarillo E., Font X., Iakushenko D., Kovačević Z., Meyer S., Nagy K., Pinke G., Poranen E. & Tereshenko S. (2020): European Weed Vegetation Database – a gap-focused vegetation-plot database. <i>Phytocoenologia</i> 50: 93–100. – <a href="https://doi.org/10.1127/phyto/2019/0337">https://doi.org/10.1127/phyto/2019/0337</a>
@@ -839,7 +854,8 @@ Küzmič F., Šilc U., <b>Lososová Z.</b>, Mucina L., <b>Chytrý M.</b>, <b>Kno
         <li>
           <b>Novák P.</b>, <b>Zukal D.</b>, <b>Kalníková V.</b>, <b>Chytrý K.</b>, &amp; Kavgacı A. (2019): Ecology and
           syntaxonomy of Colchic forests in south-western Georgia (Caucasus region). <i>Phytocoenologia </i>
-          49: 231–248.
+          49: 231–248. – {" "}
+		  <a href="https://doi.org/10.1127/phyto/2019/0250">https://doi.org/10.1127/phyto/2019/0250</a>
         </li>
         <li>
           Pätsch R., <b>Jašková A.</b>, <b>Chytrý M.</b>, Kucherov I.B., Schaminée J.H.J., Bergmeier E. &amp;
@@ -852,16 +868,12 @@ Küzmič F., Šilc U., <b>Lososová Z.</b>, Mucina L., <b>Chytrý M.</b>, <b>Kno
           <b>Roleček J.</b>, <b>Hájek M.</b>, <b>Dřevojan P.</b>, <b>Prokešová H.</b>, Fajmon K., <b>Těšitel J.</b>, <b>Daněk P.</b>, <b>Hájková
           P.</b>, Jongepierová I., <b>Novák P.</b>, Poluyanov A. V., Shumska N. V., &amp; Chorney I. I. (2019): {" "}
           Gradients, species richness and biogeographical links of steppe grasslands in Western
-          Podolia (Ukraine). <i>Phytocoenologia</i> 49: 349–367.
+          Podolia (Ukraine). <i>Phytocoenologia</i> 49: 349–367. – {" "}
+		  <a href="https://doi.org/10.1127/phyto/2019/0255">https://doi.org/10.1127/phyto/2019/0255</a>
         </li>
-        <li>
-          Schaminée J.H.J., <b>Chytrý M.</b>, <b>Hájek M.</b>, Hennekens S.M., Janssen J.A.M., <b>Jiroušek M.</b>,
-          <b> Knollová I.</b>, <b>Marcenò C.</b>, <b>Peterka T.</b>, Rodwell J.S., <b>Tichý L.</b> &amp; data providers (2019): {" "}
-          Updated crosswalks of the revised EUNIS Habitat Classification with the European
-          Vegetation Classification and the European Red List Habitats for EUNIS coastal habitats
-          and wetlands. Formal query routines and indicator species. Report EEA/NSS/17/002/Lot 1.
-          European Environment Agency, Copenhagen.
-        </li>
+		<li>
+		  Schaminée J.H.J., <b>Chytrý M.</b>, <b>Hájek M.</b>, Hennekens S.M., Janssen J.A.M., <b>Jiroušek M.</b>, <b>Knollová I.</b>, <b>Marcenò C.</b>, <b>Peterka T.</b>, Rodwell J.S., <b>Tichý L.</b> & data providers (2019): Updated crosswalks of the revised EUNIS Habitat Classification with the European Vegetation Classification and the European Red List Habitats for EUNIS coastal habitats and wetlands. Formal query routines and indicator species. Report EEA/NSS/17/002/Lot 1. European Environment Agency, Copenhagen.
+		  </li>
         <li>
           Sporbert M., Bruelheide H., Seidler G., Keil P., Jandt U., Austrheim G., Biurrun I.,
           Campos J. A., Čarni A., <b>Chytrý M.</b>, Csiky J., Bie E. D., Dengler J., Golub V., Grytnes
@@ -926,7 +938,8 @@ Küzmič F., Šilc U., <b>Lososová Z.</b>, Mucina L., <b>Chytrý M.</b>, <b>Kno
         <li>
           Del Vecchio S., Fantinato E., Janssen J. A. M., Bioret F., Acosta A., Prisco I., Tzonev
           R.,<b> <b>Marcenò C.</b></b>, Rodwell J. &amp; Buffa G. (2018): Biogeographic variability of coastal
-          perennial grasslands at the European scale. <i>Applied Vegetation Science</i> 21: 312–321.
+          perennial grasslands at the European scale. <i>Applied Vegetation Science</i> 21: 312–321. – {" "}
+		  <a href="https://doi.org/10.1111/avsc.12356">https://doi.org/10.1111/avsc.12356</a>
         </li>
         <li>
           <b>Divíšek J.</b> &amp; <b>Chytrý M.</b> (2018): High-resolution and large-extent mapping of plant
@@ -983,7 +996,10 @@ Küzmič F., Šilc U., <b>Lososová Z.</b>, Mucina L., <b>Chytrý M.</b>, <b>Kno
         <b>2017</b>
         <li>
           <b>Kalníková V.</b> &amp; Kudrnovsky H. (2017): Gravel Bar Vegetation Database. <i>Phytocoenologia </i>
-          47: 109–110.
+          47: 109–110. – {" "}
+		  <a href="https://doi.org/10.1127/phyto/2017/0177
+">https://doi.org/10.1127/phyto/2017/0177
+</a>
         </li>
         <li>
           <b><b>Kalusová V.</b></b>, <b>Chytrý M.</b>, van Kleunen M., Mucina L., Dawson W., Essl F., Kreft H., Pergl J.,
@@ -994,12 +1010,18 @@ Küzmič F., Šilc U., <b>Lososová Z.</b>, Mucina L., <b>Chytrý M.</b>, <b>Kno
         </li>
         <li>
           <b><b>Marcenò C.</b></b> &amp; <b>Jiménez-Alfaro B.</b> (2017): The Mediterranean Ammophiletea Database: a
-          comprehensive dataset of coastal dune vegetation. <i>Phytocoenologia</i> 47: 95–105.
+          comprehensive dataset of coastal dune vegetation. <i>Phytocoenologia</i> 47: 95–105. – {" "}
+		  <a href="http://doi.org/10.1127/phyto/2016/0133
+">http://doi.org/10.1127/phyto/2016/0133
+</a>
         </li>
         <li>
           <b>Novák P.</b>, <b>Zukal D.</b>, <b>Večeřa M.</b> &amp; <b>Píšťková K.</b> (2017): Vegetation of oak-hornbeam, scree
           and ravine forests at lower altitudes in Transcarpathia, Western Ukraine. <i>Tuexenia</i> 37: {" "}
-          47–63.
+          47–63. – {" "}
+		  <a href="http://doi.org/10.14471/2017.37.021
+">http://doi.org/10.14471/2017.37.021
+</a>
         </li>
         <li>
           <b>Peterka T.</b>, <b>Hájek M.</b>, <b>Jiroušek M.</b>, <b>Jiménez-Alfaro B.</b>, Aunina L., Bergamini A., Dítě D.,
@@ -1067,7 +1089,10 @@ Küzmič F., Šilc U., <b>Lososová Z.</b>, Mucina L., <b>Chytrý M.</b>, <b>Kno
           Uğurlu E., Uogintas D., Valachovič M., Vashenyak Y., Vassilev K., Venanzoni R., Virtanen
           R., Weekes L., Willner W., Wohlgemuth T. &amp; Yamalov S. (2016): European Vegetation
           Archive (EVA): an integrated database of European vegetation plots. <i>Applied Vegetation
-          Science</i> 19: 173–180.
+          Science</i> 19: 173–180. – {" "}
+		  <a href="https://doi.org/10.1111/avsc.12191
+">https://doi.org/10.1111/avsc.12191
+</a>
         </li>
         <li>
           Douda J., Boublík K., Slezák M., Biurrun I., Nociar J., Havrdová A., Doudová J., Aćić S.,
@@ -1125,7 +1150,10 @@ Küzmič F., Šilc U., <b>Lososová Z.</b>, Mucina L., <b>Chytrý M.</b>, <b>Kno
           Kochjarová J., Lepš J., Leskovjanská A., <b>Merunková K.</b>, Mládek J., Slezák M., Šeffer J.,
           Šefferová V., Škodová I., Uhlířová J., Ujházyová M. &amp; <b>Vymazalová M.</b> (2015): The most
           species-rich plant communities in the Czech Republic and Slovakia (with new world
-          records). <i>Preslia</i> 87: 217–278.
+          records). <i>Preslia</i> 87: 217–278. – {" "}
+		  <a href="http://www.preslia.cz/2015.html#chytry
+">PDF
+</a>
         </li>
         <li>
           De Cáceres M., <b>Chytrý M.</b>, Agrillo E., Attorre F., Botta-Dukát Z., Capelo J., Czúcz B.,
