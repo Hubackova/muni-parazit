@@ -43,7 +43,7 @@ exports.createPages = ({ actions: { createPage } }) => {
   });
 };
 
-exports.sourceNodes = async ({ actions, createNodeId, createContentDigest }) => {
+/* exports.sourceNodes = async ({ actions, createNodeId, createContentDigest }) => {
   const { createNode } = actions;
   const getRoutes = page => {
     const routes = page.evaluate(() => {
@@ -86,4 +86,4 @@ exports.sourceNodes = async ({ actions, createNodeId, createContentDigest }) => 
   };
   const newNode = await create()
   await createNode(Object.assign({}, newNode.nodeDbData, newNode.nodeMeta))
-};
+}; */

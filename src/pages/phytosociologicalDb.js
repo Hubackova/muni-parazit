@@ -86,6 +86,7 @@ const Container = styled.div`
 const Menu = styled.div`
   flex: 1;
   margin-right: 2em;
+  min-width: 283px;
 `;
 
 const Content = styled.div`

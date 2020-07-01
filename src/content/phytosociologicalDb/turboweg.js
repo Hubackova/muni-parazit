@@ -2,7 +2,7 @@ import React from "react";
 import { MailEmoji } from "../../components/atoms/Emoji";
 import { graphql, StaticQuery, withPrefix } from "gatsby";
 
-const DbDate = ({ type }) => (
+/* const DbDate = ({ type }) => (
   <StaticQuery
     query={graphql`
       query {
@@ -17,7 +17,8 @@ const DbDate = ({ type }) => (
       return <span>({type === "speciesDate" ? dates.speciesDate : dates.dbaseDate})</span>;
     }}
   />
-);
+); */
+const DbDate = ({ type }) =>  <span/>
 
 export const en = {
   menu: [
