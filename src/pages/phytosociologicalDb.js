@@ -4,7 +4,7 @@ import styled from "styled-components";
 import MainContainer from "../components/MainContainer";
 import { Consumer } from "../layouts/Context";
 import { cz, en } from "../content/phytosociologicalDb/phytosociologicalDb";
-import { en as turbowegEn } from "../content/phytosociologicalDb/turboweg";
+import { en as turbowegEn, cz as turbowegCz } from "../content/phytosociologicalDb/turboweg";
 import { PhytoContext } from "../layouts/PhytoContext";
 
 
@@ -17,7 +17,7 @@ const PhytosociologicalDbPage = () => {
       <Consumer>
         {({ int }) => {
           const data = int === "en" ? en : cz;
-          const turboweg = int === "en" ? turbowegEn : turbowegEn;
+          const turboweg = int === "en" ? turbowegEn : turbowegCz;
           const turbowegContent = (
             <div>
               {turboweg["intro"]}
