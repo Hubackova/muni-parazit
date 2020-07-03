@@ -28,7 +28,7 @@ export const en = {
   ],
   intro: (
     <p>
-      The data are stored in the TURBOVEG for Windows database management program developed by Stephan Hennekens <a target="_blanc" href="http://onlinelibrary.wiley.com/doi/10.2307/3237010/pdf"> Hennekens & Schaminée 2001</a>), which is a European standard software for phytosociological databases. Current network of Czech TURBOVEG users was established with the help of the UK Government funding for the Darwin Initiative project Safeguarding the Biodiversity of Eastern Europe (1995–1998), co-ordinated by John Rodwell at Lancaster University, UK. Since 1999 the database project has been funded from various projects of Masaryk University, most of them provided by the Czech Science Foundation.
+      The data are stored in the TURBOVEG for Windows database management program developed by Stephan Hennekens (<a target="_blanc" href="http://onlinelibrary.wiley.com/doi/10.2307/3237010/pdf">Hennekens & Schaminée 2001</a>), which is a European standard software for phytosociological databases. Current network of Czech TURBOVEG users was established with the help of the UK Government funding for the Darwin Initiative project Safeguarding the Biodiversity of Eastern Europe (1995–1998), co-ordinated by John Rodwell at Lancaster University, UK. Since 1999 the database project has been funded from various projects of Masaryk University, most of them provided by the Czech Science Foundation.
     </p>
   ),
   /* installation: (
@@ -49,7 +49,7 @@ export const en = {
       </p>
          <div style={{ fontWeight: "bold", color: "#94962C" }}>Actualization</div>
       <div>
-        •	Updates – we recommend to check updates of Turboveg (
+        Updates – we recommend to check updates of Turboveg (
         <a target="_blanc" href="https://www.synbiosys.alterra.nl/turboveg/">
           here
         </a>
@@ -85,46 +85,37 @@ export const en = {
         </p>
 
         <p>
-          Soubor <i>species.zip</i> rozbalte a složku <i>Czechia_Slovakia_2015</i> vložte do složky <i>species</i> {" "} (C:/Program Files/TURBOWIN/species). V Turbovegu připojte seznam druhů (species list)
-          pomocí <i>modify database attributes</i> ke konkrétní databázi. Soubor <i>popup.zip</i> rozbalte a obsah
-          vložte do složky <i>popup</i> (C:/Program Files/TURBOWIN/popup), při vkládání přepište všechny
-          staré soubory.
+          Extract the file <i>species.zip</i> and add the folder <i>Czechia_Slovakia_2015</i> to the folder <i>species</i> {" "} (C:/Program Files/TURBOWIN/species). In the Turboveg program add the list of species (species list)
+          using <i>modify database attributes</i> to the specific database. Extract the file <i>popup.zip</i> and add its content to the folder <i>popup</i> (C:/Program Files/TURBOWIN/popup). By saving of the new files rename all old files.
         </p>
       </div>
     </div>
   ),
   workPrincipals: (
     <div>
-      <div style={{ fontWeight: "bold", color: "#94962C" }}>Zásady práce</div>
+      <div style={{ fontWeight: "bold", color: "#94962C" }}>Work principals</div>
       <p>
-        Každý zadavatel smí zadávat fytocenologické snímky do databáze jen pod určitými čísly
-        přidělenými lokálním koordinátorem. Tím získává jistotu, že pod stejnými čísly nezadává jiné
-        snímky někdo jiný. V rámci stejného číselného rozsahu přiděleného lokálním koordinátorem se
-        zadávají i citace literatury, pokud jsou zadávané snímky přebírány z publikovaných zdrojů.
+        Each author may enter phytosociological relevés into the database only under specific numbers assigned by the regional coordinator. Also, citations from the literature are given within the same numerical range if the entered relevés are taken from published sources.
       </p>
       <p>
-        Autoři, kteří dosud nemají přidělen rozsah čísel, dostanou čísla přidělena při poskytnutí
-        prvního souboru snímků do centrální databáze, tj. nejprve číslují své snímky od jedničky a
-        pak celý soubor pošlou koordinátorovi centrální databáze, který snímkům přidělí volná čísla
-        a přečísluje je. Pokud se zadavatel chystá své snímky publikovat, je kvůli odkazování vhodné
-        mít již přidělená čísla z centrální databáze. Seznam rozsahů již přidělených čísel najdete{" "}
-        <a download href={withPrefix(`/rozsahy.pdf`)}>
-          zde
-        </a>
+        Authors, who want to add relevés to the database, number their relevés from Nr. 1. Afterwards they should send the set to the coordinator, who renumber the relevés.
+		The list of assigned numbers is{" "}
+        <a download href={withPrefix(`/rozsahy.pdf`)}> 
+          here
+        </a>.
         {/* TODO: (aktualizovat také). */}
       </p>
       <p>
-        Pro začátečníky doporučujeme k prostudování{" "}
+        Turboveg manual for beginners (only in Czech) is{" "}
         <a download href={withPrefix(`/manualTv.pdf`)}>
-          manuál
-        </a>{" "}
-        popisující vytváření databází a zadávání dat do Turbovegu.
+          here
+        </a>.
       </p>
       <p>
         Nomenclature of vascular plant species in the Czech National Phytosociological Database follows an updated version of Liste der Gefäßpflanzen Mitteleuropas (Ehrendorfer 1973), prepared by Harald Niklfeld and Walter Gutermann, with additions of species included in Key to the flora of the Czech Republic (Kubát et al. 2002). Names of bryophytes and lichens follow Frey et al. (1995) and Pišút et al. (1993). Species list used in the Czech National Phytosociological Database, called Czechia_Slovakia_2015, is identical with that used in the Central Database of Phytosociological Relevés in Slovakia. The list of syntaxa used in the Czech installation of TURBOVEG is according to Moravec et al. (1995).
       </p>
       <p>
-        Literatura: <br />
+        References: <br />
         <cite>
           <li>
             Ehrendorfer F. (ed.) (1973): Liste der Gefäßpflanzen Mitteleuropas. Ed. 2. G. Fischer,
@@ -171,21 +162,17 @@ export const en = {
       <div style={{ fontWeight: "bold", color: "#94962C" }}>Coordinators</div>
       <ul>
         <li>
-          Central coordinators: Ilona Knollová and Milan Chytrý, e-mail:{" "}
-          <MailEmoji mail="ikuzel@sci.muni.cz" />, <MailEmoji mail="chytry@sci.muni.cz" />
+          Central coordinators: Ilona Knollová (<MailEmoji mail="ikuzel@sci.muni.cz" />) and Milan Chytrý (<MailEmoji mail="chytry@sci.muni.cz" />)
         </li>
         <li>
-          Masaryk University and South Moravia: Ilona Knollová, e-mail:{" "}
-          <MailEmoji mail="ikuzel@sci.muni.cz" />
+          Masaryk University and South Moravia: Ilona Knollová (<MailEmoji mail="ikuzel@sci.muni.cz" />)
         </li>
         <li>
           Czech University of Life Sciences Prague, Institute of Botany
-of the Czech Academy of Sciences and Charles University in Prague: Tomáš Černý,
-          e-mail: <MailEmoji mail="cernyt@fld.czu.cz" />
+of the Czech Academy of Sciences and Charles University in Prague: Tomáš Černý (<MailEmoji mail="cernyt@fld.czu.cz" />)
         </li>
         <li>
-          University of South Bohemia and South Bohemia: Milan Štech, e-mail:{" "}
-          <MailEmoji mail="stech@prf.jcu.cz" />
+          University of South Bohemia and South Bohemia: Milan Štech (<MailEmoji mail="stech@prf.jcu.cz" />)
         </li>
       </ul>
     </div>
@@ -378,20 +365,16 @@ export const cz = {
       <div style={{ fontWeight: "bold", color: "#94962C" }}>Koordinátoři</div>
       <ul>
         <li>
-          Centrální koordinace: Ilona Knollová a Milan Chytrý, e-mail:{" "}
-          <MailEmoji mail="ikuzel@sci.muni.cz" />, <MailEmoji mail="chytry@sci.muni.cz" />
+          Centrální koordinace: Ilona Knollová (<MailEmoji mail="ikuzel@sci.muni.cz" />) a Milan Chytrý (<MailEmoji mail="chytry@sci.muni.cz" />)
+		  </li>
+        <li>
+          Masarykova univerzita a jižní Morava: Ilona Knollová (<MailEmoji mail="ikuzel@sci.muni.cz" />)
         </li>
         <li>
-          Masarykova univerzita a jižní Morava: Ilona Knollová, e-mail:{" "}
-          <MailEmoji mail="ikuzel@sci.muni.cz" />
+          Česká zemědělská univerzita, Botanický ústav Průhonice a Univerzita Karlova: Tomáš Černý (<MailEmoji mail="cernyt@fld.czu.cz" />)
         </li>
         <li>
-          Česká zemědělská univerzita, Botanický ústav Průhonice a Univerzita Karlova: Tomáš Černý,
-          e-mail: <MailEmoji mail="cernyt@fld.czu.cz" />
-        </li>
-        <li>
-          Jihočeská univerzita a jižní Čechy: Milan Štech, e-mail:{" "}
-          <MailEmoji mail="stech@prf.jcu.cz" />
+          Jihočeská univerzita a jižní Čechy: Milan Štech (<MailEmoji mail="stech@prf.jcu.cz" />)
         </li>
       </ul>
     </div>
