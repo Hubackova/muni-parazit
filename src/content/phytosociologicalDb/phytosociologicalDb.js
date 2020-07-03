@@ -42,7 +42,7 @@ export const en = {
   ],
   introduction: (
     <div>
-	<h3>Czech National Phytosociological Database (GIVD: <a href="https://www.givd.info/ID/EU-CZ-001">EU-CZ-001</a>)</h3>
+	<h3>Czech National Phytosociological Database</h3>
       <p>
         The aim of the Czech National Phytosociological Database (CNPD) is to gather computerized vegetation-plot data (phytosociological relevés) from the territory of the Czech Republic in a large database, which will facilitate easy access to relevant data for the purposes of vegetation survey, ecological analyses and applications in nature conservation. These activities are a part of wider European projects co-ordinated by the Working Group for European Vegetation Survey of the (
         <a target="_blanc" href="http://iavs.org/">
@@ -64,7 +64,11 @@ export const en = {
         <MailEmoji mail="ikuzel@sci.muni.cz" />
         ).  
         {/* TODO: link na koordinatory */}
-         {" "} An integral part of the database project is the development of methods for data analysis. Major procedures developed so far are available in the JUICE software developed by Lubomír Tichý.
+         {" "} An integral part of the database project is the development of methods for data analysis. Major procedures developed so far are available in the {" "}
+		 <a target="_blanc" href="http://www.sci.muni.cz/botany/juice.htm">
+        JUICE{" "}
+      </a>
+	  software developed by Lubomír Tichý.
       </p>
       <p>
         The basic statistics about the Czech National Phytosociological Database are published in paper in  Preslia (
@@ -82,7 +86,7 @@ export const en = {
         <a target="_blanc" href="http://www.givd.info/ID/EU-CZ-001">
           Global Index of Vegetation-plot Databases
         </a>{" "}
-        (
+        (GIVD,{" "}
         <a
           target="_blanc"
           href="http://onlinelibrary.wiley.com/doi/10.1111/j.1654-1103.2011.01265.x/abstract"
@@ -146,7 +150,7 @@ export const en = {
         Data from the Czech National Phytosociological Database (CNPD) are available directly from CNPD (only for national projects) and from EVA (for project with broader European scale). There are three regimes of data availability:
 
         <ul>
-          <li>Public data freely available <Link to="/phytosociological-online">online</Link></li>
+          <li>Public data freely available <Link to="/phytosociological-online">online</Link>.</li>
           <li>
             Data available upon request from database managers for the purposes of academic research or applications in nature conservation, but not for commercial purposes. Data requests should be sent by e-mail to Ilona Knollová (<MailEmoji mail="ikuzel@sci.muni.cz" />) or Milan Chytrý (<MailEmoji mail="chytry@sci.muni.cz" />) with a description of the intended use of the data and criteria of data selection (e.g. area, vegetation type and time period) and the required format.
           </li>
