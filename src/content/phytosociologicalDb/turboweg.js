@@ -102,7 +102,7 @@ export const en = {
 		The list of assigned numbers is{" "}
         <a download href={withPrefix(`/rozsahy.pdf`)}> 
           here
-        </a>
+        </a>.
         {/* TODO: (aktualizovat také). */}
       </p>
       <p>
