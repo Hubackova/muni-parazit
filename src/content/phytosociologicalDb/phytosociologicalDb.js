@@ -146,7 +146,7 @@ export const en = {
         Data from the Czech National Phytosociological Database (CNPD) are available directly from CNPD (only for national projects) and from EVA (for project with broader European scale). There are three regimes of data availability:
 
         <ul>
-          <li>Public data freely available <Link to="/phytosociological-online">online</Link></li>
+          <li>Public data freely available <Link to="/phytosociologicalDb-fytoonline">online</Link></li>
           <li>
             Data available upon request from database managers for the purposes of academic research or applications in nature conservation, but not for commercial purposes. Data requests should be sent by e-mail to Ilona Knollová (<MailEmoji mail="ikuzel@sci.muni.cz" />) or Milan Chytrý (<MailEmoji mail="chytry@sci.muni.cz" />) with a description of the intended use of the data and criteria of data selection (e.g. area, vegetation type and time period) and the required format.
           </li>
@@ -507,7 +507,7 @@ export const cz = {
         z centrální databáze mohou být podle přání jejich autora nebo dodavatele poskytována
         ostatním uživatelům ve třech režimech:
         <ul>
-          <li>Veřejná data volně dostupná <Link to="/phytosociological-online">online z veřejné části databáze</Link></li>
+          <li>Veřejná data volně dostupná <Link to="/phytosociologicalDb-fytoonline">online z veřejné části databáze</Link></li>
           <li>
             Veřejná data dostupná na požádání od správce centrální databáze pro účely akademického
             výzkumu nebo aplikací v ochraně přírody, nikoliv však pro komerční využití. Žádosti o
