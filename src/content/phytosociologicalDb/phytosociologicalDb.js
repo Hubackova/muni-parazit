@@ -44,45 +44,45 @@ export const en = {
     <div>
 	<h3>Czech National Phytosociological Database</h3>
       <p>
-        The aim of the Czech National Phytosociological Database (CNPD) is to gather computerized vegetation-plot data (phytosociological relevés) from the territory of the Czech Republic in a large database, which will facilitate easy access to relevant data for the purposes of vegetation survey, ecological analyses and applications in nature conservation. These activities are a part of wider European projects co-ordinated by the Working Group for European Vegetation Survey of the (
+        The Czech National Phytosociological Database (CNPD) is collecting digital vegetation-plot records (phytosociological relevés) from the territory of the Czech Republic in a single database, which facilitate easy access to relevant data for vegetation survey, ecological analyses and applications in nature conservation. These activities are a part of broader European projects coordinated by the Working Group for European Vegetation Survey of the (
         <a target="_blanc" href="http://iavs.org/">
           International Association for Vegetation Science
         </a>
-        ). CNPD closely cooperates with the European Vegetation archive (
+        ). CNPD closely cooperates with the European Vegetation Archive (
         <a target="_blanc" href="http://euroveg.org/eva-database">
           EVA
         </a>
-        ) and the Global Vegetation Database  (
+        ) and the Global Vegetation Database (
         <a target="_blanc" href="https://www.idiv.de/en/splot.html">
           sPlot
         </a>
-        ).
+        ). The database was established with the help of the Darwin Initiative project coordinated by Professor John Rodwell at Lancaster University, UK (1995–1998). Since 1999 the database project has been funded from various projects of Masaryk University, most of them provided by the Czech Science Foundation.
       </p>
       <p>
-        The Czech National Phytosociological Database is co-ordinated at the Department of Botany and Zoology, Masaryk University, Brno, with several local co-ordinators in other academic institutions in the Czech Republic. The co-ordinators of the database are Milan Chytrý  (
+        The Czech National Phytosociological Database is coordinated at the Department of Botany and Zoology, Masaryk University, Brno. The coordinators of the database are Milan Chytrý (
         <MailEmoji mail="chytry@sci.muni.cz" />) and Ilona Knollová (
         <MailEmoji mail="ikuzel@sci.muni.cz" />
-        ).  
+        ),  
         {/* TODO: link na koordinatory */}
-         {" "} An integral part of the database project is the development of methods for data analysis. Major procedures developed so far are available in the {" "}
+         {" "}and there are local coordinators in other academic institutions in the Czech Republic. An integral part of the database project is the development of methods for data analysis. Major procedures developed so far are available in the {" "}
 		 <a target="_blanc" href="http://www.sci.muni.cz/botany/juice.htm">
         JUICE{" "}
       </a>
 	  software developed by Lubomír Tichý.
       </p>
       <p>
-        The basic statistics about the Czech National Phytosociological Database are published in paper in  Preslia (
+        The basic statistics about the Czech National Phytosociological Database were published by {" "} 
         <a target="_blanc" href="http://www.sci.muni.cz/botany/chytry/Pre2003.pdf">
-          Chytrý & Rafajová 2003
+          Chytrý & Rafajová (2003)
         </a>
-        ), updated information also in short report published in Biodiversity & Ecology (
+        , with an update in a short report by {" "}
         <a
           target="_blanc"
           href="http://www.biodiversity-plants.de/biodivers_ecol/publishing/b-e.00136.pdf"
         >
-          Chytrý & Michalcová 2012
+          Chytrý & Michalcová (2012)
         </a>
-        ). Database is registered in the {" "}
+        . The database is registered in the {" "}
         <a target="_blanc" href="http://www.givd.info/ID/EU-CZ-001">
           Global Index of Vegetation-plot Databases
         </a>{" "}
@@ -93,7 +93,7 @@ export const en = {
         >
           Dengler et al. 2011
         </a>
-        ) with code EU-CZ-001.
+        ) with the code EU-CZ-001.
       </p>
       <p>
         Recommended citation: <br />
@@ -108,26 +108,30 @@ export const en = {
     </div>
   ),
   dbState: (
-        <div>
+   <div>
+	<h3>Czech National Phytosociological Database</h3>
       <p>
-        On July 2020 the central database contained more than 113 800 relevés from the territory of the Czech Republic. Most relevés belong to phytosociological classes of broad-leaved forests (<i>Querco-Fagetea</i>), meadows and mesic pastures (<i>Molinio-Arrhenatheretea</i>), marshes (<i>Phragmito-Magno-Caricetea</i>), dry grasslands (<i>Festuco-Brometea</i>) and disturbed vegetation of wet to mesic habitats (<i>Galio-Urticetea</i>). Phytosociological bibliography of the Czech Republic, with indication which data have been included in the database, is available{" "}
+        In July 2020 the central database contained more than 113 800 relevés from the territory of the Czech Republic. Most relevés belong to phytosociological classes of broad-leaved forests (<i>Querco-Fagetea</i>), meadows and mesic pastures (<i>Molinio-Arrhenatheretea</i>), marshes (<i>Phragmito-Magno-Caricetea</i>), dry grasslands (<i>Festuco-Brometea</i>) and disturbed vegetation of wet to mesic habitats (<i>Galio-Urticetea</i>). Phytosociological bibliography of the Czech Republic, with an indication which data sources have been digitized and included in the database, is available {" "}
         <a target="_blanc" href="http://www.sci.muni.cz/botany/tvref/">
           here
         </a>
         .
       </p>
 	  <CnfdMap altText="Distribution of the phytosociological relevés to the quadrats id the Czech Republic according to Czech National Phytosociological Database"/>
-      Fig. 1: Distribution of the phytosociological relevés to the quadrats id the Czech Republic according to Czech National Phytosociological Database. Symbol size = Natural Breaks.
+      Fig. 1. Distribution of relevés in the database. The symbol size scale is based on Natural Breaks.
       <p>
-        
+	  <br>
+	  </br>
         <BarChart
           data={samplesData}
           labels={samplesYears}
           tooltipLabel="počet snímků"
           title="Počet snímků z různých let"
         />
-		Fig. 2: Number of relevés in the time.<br />
+		Fig. 2. Number of relevés in the database through time.<br />
 		</p>
+			  <br>
+	  </br>
 		<p>
 		<BarChart
           data={vegetationClassesSamples}
@@ -135,55 +139,64 @@ export const en = {
           tooltipLabel="počet snímků"
           title="Počet snímků  v různých vegetačních třídách"
         />
-		Fig. 3: Number of relevés in the phytosociological classes.<br />
+		Fig. 3. Number of relevés in the database by phytosociological classes.
+		<br />
       </p>
+	  	  <br>
+	  </br>
 		<p>
-		Obr. 4: Interactive map (coming soon)
+		{/* TODO: Fig. 4: Interactive map*/}
 		</p>
       
     </div>
   ),
 
   data: (
-    <div>
+   <div>
+	<h3>Czech National Phytosociological Database</h3>
       <p>
-        Data from the Czech National Phytosociological Database (CNPD) are available directly from CNPD (only for national projects) and from EVA (for project with broader European scale). There are three regimes of data availability:
-
+        Data from the Czech National Phytosociological Database (CNPD) are available directly from CNPD (for analyses at the national scale), from <a target="_blanc" href="http://euroveg.org/eva-database">
+          EVA
+        </a> (for analyses at the international scale within Europe) and from <a target="_blanc" href="https://www.idiv.de/en/splot.html">
+          sPlot
+        </a> (for global analyses). Species occurrence data are available in the Pladias database. There are three regimes of data availability:
         <ul>
           <li>Public data freely available <Link to="/phytosociologicalDb-fytoonline">online</Link>.</li>
           <li>
-            Data available upon request from database managers for the purposes of academic research or applications in nature conservation, but not for commercial purposes. Data requests should be sent by e-mail to Ilona Knollová (<MailEmoji mail="ikuzel@sci.muni.cz" />) or Milan Chytrý (<MailEmoji mail="chytry@sci.muni.cz" />) with a description of the intended use of the data and criteria of data selection (e.g. area, vegetation type and time period) and the required format.
+            Data available upon request from database managers for academic research or applications in nature conservation, but not for commercial purposes. Data requests should be sent by e-mail to Ilona Knollová (<MailEmoji mail="ikuzel@sci.muni.cz" />) or Milan Chytrý (<MailEmoji mail="chytry@sci.muni.cz" />) with a description of the intended use of the data and criteria of data selection (e.g. area, vegetation type and time interval) and the required format.
           </li>
           <li>
-            Non-public data which are stored in the central database but not made available to the public, or made available only for specific purposes specified by the data provider.
+            Non-public data, which are stored in the central database but not made available to the public, or made available only for specific purposes specified by the data provider.
           </li>
         </ul>
         <p>
-          Data use in publication should be acknowledged using the standard database citation: <br />
+          Data use in publications should be acknowledged using the standard database citation: <br />
           <cite>
             Chytrý M. & Rafajová M. (2003): Czech National Phytosociological database: basic
             statistics of the available vegetation-plot data. Preslia 75: 1–15.
           </cite>
         </p>
         <p>
-          At the same time the papers where the data were published or authors of unpublished data should be cited. These citations can be omitted if a set of data from many different sources is used in which no source is notably prevailing, and if the type of publication does not allow citing all the sources (e.g. papers with restriction on the number of references used).
+          The papers where the data were published or authors of unpublished data should also be cited. These citations can be omitted if a data set from many different sources is used, in which no source is notably prevailing, and if the type of publication does not allow citing all the sources.
         </p>
       </p>
     </div>
   ),
   turbowegCheck: (
-    <div>
-      A specially modified database in the MS ACCESS program is used to check phytosociological relevés written in the TURBOVEG program. Its primary function is to search for errors in species and header data. In species data, these are, for example, typos in species names or incorrectly stated vegetation layers, in header data, for example, missing data in mandatory fields or incorrect coordinates. The application is controlled by a simple interface, and it is, therefore, possible to use it without knowledge of working with MS ACCESS. Errors or data in the form of summaries are displayed as clear reports that can be printed out. TURBOVEG Check-Up uses a spreadsheet for troubleshooting that can be regularly updated from this website. In addition, the application contains links to information about the Czech National Phytosociological Database. More information and links to download the application can be found {" "}
-      <a href={withPrefix(`/turboweg.pdf`)} download>
+   <div>
+	<h3>Czech National Phytosociological Database</h3>
+      Turboveg Check-Up is a tool in the MS ACCESS program used to check relevé data entered in the TURBOVEG program. Its primary function is to search for errors in species and header data. In the species data, these are, for example, typos in species names or incorrectly indicated vegetation layers; in the header data, it can be missing values in mandatory fields or incorrect coordinates. The application has a simple interface, which allows using it without previous experience with MS ACCESS. It produces errors reports and data summaries that can be printed. TURBOVEG Check-Up uses tables with error types, which can be updated from this website. More information and download is available{" "}
+      <a href={withPrefix(`/Turboveg-Check-Up.pdf`)} download>
         here
       </a> (only in Czech)
       .
     </div>
   ),
   acknowledgements: (
+   <div>
+	<h3>Czech National Phytosociological Database</h3>
     <div>
-      <div>
-	  We would like to thank all those who have contributed to the creation of the Czech National Phytosociological Database:
+	  We thank all the contributors of the Czech National Phytosociological Database:
       </div>
       <ul className="phytoSocDb-thanksList">
         <li>Irena Axmanová (Veselá)</li>
@@ -462,6 +475,7 @@ export const cz = {
   ),
   dbState: (
     <div>
+	<h3>Česká národní fytocenologické databáze</h3>
       <p>
         Databáze obsahuje přes 113 800 snímků (červenec 2020) z celého území České republiky (obr. 1) zapsané od
         roku 1922 (obr. 2, dole) více než tisícem botaniků. Největší počet snímků byl zaznamenán ve
@@ -478,7 +492,8 @@ export const cz = {
       Obr. 1: Rozmístění fytocenologických snímků do čtverců v České republice podle České národní
       fytocenologické databáze. Velikost symbolů = Natural Breaks (rozložení dat).
       <p>
-        
+	  	  <br>
+	  </br>
         <BarChart
           data={samplesData}
           labels={samplesYears}
@@ -487,6 +502,8 @@ export const cz = {
         />
 		Obr. 2: Počet fytocenologických snímků v jednotlivých letech.<br />
 		</p>
+		<br>
+	  </br>
 		<p>
 		<BarChart
           data={vegetationClassesSamples}
@@ -496,20 +513,37 @@ export const cz = {
         />
 		Obr. 3: Počty snímků v jednotlivých vegetačních třídách.<br />
       </p>
+	  	  <br>
+	  </br>
 		<p>
-		Obr. 4: Interaktivní mapa (coming soon)
+		{/* TODO: Obr. 4: Interaktivní mapa*/}
 		</p>
       
     </div>
   ),
   data: (
-    <div>
+      <div>
+	<h3>Česká národní fytocenologické databáze</h3>
       <p>
         Pro zajištění účinné výměny dat si dovolujeme požádat všechny uživatele TURBOVEGu, kteří do
         databáze zadali jakákoliv data, aby je poskytli do centrální databáze zasláním na adresu{" "}
-        <MailEmoji mail="ikuzel@sci.muni.cz" /> nebo <MailEmoji mail="chytry@sci.muni.cz" />. Data
-        z centrální databáze mohou být podle přání jejich autora nebo dodavatele poskytována
+        <MailEmoji mail="ikuzel@sci.muni.cz" /> nebo <MailEmoji mail="chytry@sci.muni.cz" />. 
+		Data z České národní fytocenologické databáze jsou dostupná přímo z ČNFD (pro analýzy v rámci národní škály), z <a target="_blanc" href="http://euroveg.org/eva-database">
+          EVA databáze
+        </a> (pro analýzy v Evropském měřítku) a z {" "}
+		<a target="_blanc" href="https://www.idiv.de/en/splot.html">
+          sPlot databáze
+        </a> (pro analýzy celosvětového měřítka). Data o výskytech druhů jsou dostupná v rámci databáze {" "}
+		<a target="_blanc" href="https://www.pladias.cz">
+          Pladias
+        </a>
+		.
+		<p>
+		</p>
+		<div>
+		Data z centrální databáze mohou být podle přání jejich autora nebo dodavatele poskytována
         ostatním uživatelům ve třech režimech:
+		</div>
         <ul>
           <li>Veřejná data volně dostupná <Link to="/phytosociologicalDb-fytoonline">online z veřejné části databáze</Link></li>
           <li>
@@ -549,17 +583,17 @@ export const cz = {
   ),
   turbowegCheck: (
     <div>
-      Speciálně upravená databáze v programu MS ACCESS slouží ke kontrole fytocenologických snímků
+<h3>Česká národní fytocenologické databáze</h3>
+      Turboveg Check-Up je speciálně upravená databáze v programu MS ACCESS, která slouží ke kontrole fytocenologických snímků
       zapsaných do programu TURBOVEG. Její hlavní funkcí je vyhledávání chyb v druhových a
       hlavičkových datech. V druhových datech jsou to například překlepy ve jménech druhů nebo
       chybně uvedená vegetační patra, v hlavičkových datech např. chybějící údaje v povinných polích
       nebo chybné souřadnice. Aplikace se ovládá pomocí jednoduchého rozhraní, a je proto možné ji
       používat i bez znalosti práce s MS ACCESS. Chyby nebo údaje ve formě souhrnů se zobrazují jako
       přehledné sestavy, které lze vytisknout. TURBOVEG Check-Up používá pro hledání chyb tabulky,
-      které lze pravidelně aktualizovat z těchto webových stránek. Kromě toho se v aplikaci
-      nacházejí odkazy na informace o České národní fytocenologické databázi. Bližší informace a
+      které lze pravidelně aktualizovat z těchto webových stránek. Bližší informace a
       odkazy na stažení aplikace najdete{" "}
-      <a href={withPrefix(`/turboweg.pdf`)} download>
+      <a href={withPrefix(`/Turboveg-Check-Up.pdf`)} download>
         zde
       </a>
       .
@@ -567,6 +601,7 @@ export const cz = {
   ),
   acknowledgements: (
     <div>
+<h3>Česká národní fytocenologické databáze</h3>
       <div>
         Dovolujeme si poděkovat všem, kteří dosud přispěli k tvorbě České národní fytocenologické
         databáze:

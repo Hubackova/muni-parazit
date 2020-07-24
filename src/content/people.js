@@ -842,7 +842,7 @@ export const peopleCz = {
       is: `https://www.muni.cz/lide/501016-katerina-knotkova`,
 	  img: knotkova
       },
-    {
+	  {
       id: `novak`,
       name: `Pavel Novák`,
       position: `Doktorand, výzkumník`,

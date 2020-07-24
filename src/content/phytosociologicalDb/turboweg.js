@@ -22,14 +22,17 @@ const DbDate = ({ type }) => (
 export const en = {
   menu: [
     /* { name: "installation", text: "Instalation" },*/
-    { name: "actualization", text: "Instalation and actualization" },
-    { name: "workPrincipals", text: "Work principals" },
+    { name: "actualization", text: "Installation and update" },
+    { name: "workPrincipals", text: "Instructions" },
     { name: "coordinators", text: "Coordinators" }
   ],
-  intro: (
+  intro: ( 
+  <div>
+	<h3>Czech National Phytosociological Database</h3>
     <p>
-      The data are stored in the TURBOVEG for Windows database management program developed by Stephan Hennekens (<a target="_blanc" href="http://onlinelibrary.wiley.com/doi/10.2307/3237010/pdf">Hennekens & Schaminée 2001</a>), which is a European standard software for phytosociological databases. Current network of Czech TURBOVEG users was established with the help of the UK Government funding for the Darwin Initiative project Safeguarding the Biodiversity of Eastern Europe (1995–1998), co-ordinated by John Rodwell at Lancaster University, UK. Since 1999 the database project has been funded from various projects of Masaryk University, most of them provided by the Czech Science Foundation.
+      The data are stored in the TURBOVEG 2 database management program developed by Stephan Hennekens (<a target="_blanc" href="http://onlinelibrary.wiley.com/doi/10.2307/3237010/pdf">Hennekens & Schaminée 2001</a>), which is a European standard software for vegetation-plot databases. 
     </p>
+	</div>
   ),
   /* installation: (
    <div>
@@ -43,25 +46,26 @@ export const en = {
     <div>
    <div style={{ fontWeight: "bold", color: "#94962C" }}>Installation</div>
       <p>
-        If you are interested in Czech version of Turboveg, contact Ilona Knollová (
+        If you are interested in the Czech version of Turboveg, contact Ilona Knollová (
       <MailEmoji mail="ikuzel@sci.muni.cz" />) or Milan Chytrý (
       <MailEmoji mail="chytry@sci.muni.cz" />). International users have to contact coordinators in their countries or directly Stephan Hennnekens.
       </p>
-         <div style={{ fontWeight: "bold", color: "#94962C" }}>Actualization</div>
+         <div style={{ fontWeight: "bold", color: "#94962C" }}>Updates</div>
       <div>
-        Updates – we recommend to check updates of Turboveg (
+        We recommend to check out for updates of Turboveg (
         <a target="_blanc" href="https://www.synbiosys.alterra.nl/turboveg/">
           here
         </a>
-        , option „International, single user version“).
+        , select „International, single user version“).
       </div>
       <div>
         <p>
           <div>
-            <u>Updates of common databases (for Czech Turboveg only):</u>
+            Updates of common databases (for Czech Turboveg only):
           </div>
           <div>
-            Update of species list:{" "}
+		  <li>
+            Species list:{" "}
             <a
               target="_blanc"
               href="https://www.sci.muni.cz/botany/vegsci/dbase/species.zip"
@@ -70,9 +74,11 @@ export const en = {
               species.zip
             </a>{" "}
             <DbDate type="speciesDate" />
-          </div>
+			</li>
+			</div>
           <div>
-            Update of popup list (database dictionary):{" "}
+		  <li>
+            Popup list (database dictionary):{" "}
             <a
               target="_blanc"
               href="https://www.sci.muni.cz/botany/vegsci/dbase/popup.zip"
@@ -81,38 +87,37 @@ export const en = {
               popup.zip
             </a>{" "}
             <DbDate />
+			</li>
           </div>
         </p>
 
         <p>
-          Extract the file <i>species.zip</i> and add the folder <i>Czechia_Slovakia_2015</i> to the folder <i>species</i> {" "} (C:/Program Files/TURBOWIN/species). In the Turboveg program add the list of species (species list)
-          using <i>modify database attributes</i> to the specific database. Extract the file <i>popup.zip</i> and add its content to the folder <i>popup</i> (C:/Program Files/TURBOWIN/popup). By saving of the new files rename all old files.
+        Extract the file <i>species.zip</i> and add the folder <i>Czechia_Slovakia_2015</i> to the folder /TURBOWIN/species. In the Turboveg program, assign the species list using <i>modify database attributes</i> to the specific database. Extract the file <i>popup.zip</i> to the folder /TURBOWIN/popup (old files should be rewritten).
         </p>
       </div>
     </div>
   ),
   workPrincipals: (
     <div>
-      <div style={{ fontWeight: "bold", color: "#94962C" }}>Work principals</div>
+      <div style={{ fontWeight: "bold", color: "#94962C" }}>Instructions</div>
       <p>
-        Each author may enter phytosociological relevés into the database only under specific numbers assigned by the regional coordinator. Also, citations from the literature are given within the same numerical range if the entered relevés are taken from published sources.
-      </p>
-      <p>
-        Authors, who want to add relevés to the database, number their relevés from Nr. 1. Afterwards they should send the set to the coordinator, who renumber the relevés.
-		The list of assigned numbers is{" "}
+        Each author may enter phytosociological relevés into the database only under specific numbers assigned by the regional coordinator. If the relevés are taken from published sources, bibliographic references entered should be from within the same numerical range. The list of assigned numbers is{" "}
         <a download href={withPrefix(`/rozsahy.pdf`)}> 
           here
         </a>.
         {/* TODO: (aktualizovat také). */}
       </p>
       <p>
-        Turboveg manual for beginners (only in Czech) is{" "}
+        The collaborators who were not assigned to a range of relevé numbers should code their relevés from No. 1. Their relevés will be renumbered by the coordinator once they are sent to the central database.
+      </p>
+      <p>
+        Turboveg manual for beginners (in Czech) is{" "}
         <a download href={withPrefix(`/manualTv.pdf`)}>
           here
         </a>.
       </p>
       <p>
-        Nomenclature of vascular plant species in the Czech National Phytosociological Database follows an updated version of Liste der Gefäßpflanzen Mitteleuropas (Ehrendorfer 1973), prepared by Harald Niklfeld and Walter Gutermann, with additions of species included in Key to the flora of the Czech Republic (Kubát et al. 2002). Names of bryophytes and lichens follow Frey et al. (1995) and Pišút et al. (1993). Species list used in the Czech National Phytosociological Database, called Czechia_Slovakia_2015, is identical with that used in the Central Database of Phytosociological Relevés in Slovakia. The list of syntaxa used in the Czech installation of TURBOVEG is according to Moravec et al. (1995).
+        Nomenclature of vascular plant species in the Czech National Phytosociological Database follows an updated version of Liste der Gefäßpflanzen Mitteleuropas (Ehrendorfer 1973), prepared by Harald Niklfeld and Walter Gutermann, with additions of species included in Key to the flora of the Czech Republic (Kubát et al. 2002). Names of bryophytes and lichens follow Frey et al. (1995) and Pišút et al. (1993). The species list used in the Czech National Phytosociological Database, called Czechia_Slovakia_2015, is identical with that used in the Central Database of Phytosociological Relevés in Slovakia. The list of syntaxa used in the Czech installation of TURBOVEG follows Moravec et al. (1995).
       </p>
       <p>
         References: <br />
@@ -146,14 +151,7 @@ export const en = {
             Pišút I., Lackovicová A. & Lisická E. (1993): Súpis lišajníkov Slovenska. Biológia, 48,
             Suppl. 1: 53–98.
           </li>
-          <li>
-            Schaminée J.H.J., Hennekens S.M., Chytrý M. & Rodwell J.S. (2009): Vegetation-plot data
-            and databases in Europe: an overview. Preslia, 81: 173–185.
-            <a target="_blanc" href="http://www.preslia.cz/P093Schaminee.pdf">
-              [pdf]
-            </a>
-          </li>
-        </cite>
+          </cite>
       </p>
     </div>
   ),
@@ -187,6 +185,9 @@ export const cz = {
     { name: "coordinators", text: "Koordinátoři" }
   ],
   intro: (
+  <div>
+    <h3>Česká národní fytocenologické databáze</h3>
+
     <p>
       Program TURBOVEG (
       <a target="_blanc" href="http://onlinelibrary.wiley.com/doi/10.2307/3237010/pdf">
@@ -213,6 +214,7 @@ export const cz = {
       </a>
       .
     </p>
+		</div>
   ),
   /* installation: (
    <div>
@@ -240,10 +242,10 @@ export const cz = {
       <div>
         <p>
           <div>
-            <u>Aktualizované verze společných databází:</u>
+            Aktualizované verze společných databází:
           </div>
           <div>
-            Aktuální verze seznamu druhů:{" "}
+            <li>Seznam druhů:{" "}
             <a
               target="_blanc"
               href="https://www.sci.muni.cz/botany/vegsci/dbase/species.zip"
@@ -252,9 +254,11 @@ export const cz = {
               species.zip
             </a>{" "}
             <DbDate type="speciesDate" />
+			</li>
           </div>
           <div>
-            Aktuální verze společných databází, tzv. popup lists:{" "}
+		  <li>
+            Společné databáze, tzv. popup lists:{" "}
             <a
               target="_blanc"
               href="https://www.sci.muni.cz/botany/vegsci/dbase/popup.zip"
@@ -263,6 +267,7 @@ export const cz = {
               popup.zip
             </a>{" "}
             <DbDate />
+			</li>
           </div>
         </p>
 
@@ -282,18 +287,18 @@ export const cz = {
         Každý zadavatel smí zadávat fytocenologické snímky do databáze jen pod určitými čísly
         přidělenými lokálním koordinátorem. Tím získává jistotu, že pod stejnými čísly nezadává jiné
         snímky někdo jiný. V rámci stejného číselného rozsahu přiděleného lokálním koordinátorem se
-        zadávají i citace literatury, pokud jsou zadávané snímky přebírány z publikovaných zdrojů.
+        zadávají i citace literatury, pokud jsou zadávané snímky přebírány z publikovaných zdrojů. Seznam rozsahů již přidělených čísel najdete{" "}
+        <a download href={withPrefix(`/rozsahy.pdf`)}>
+          zde
+        </a>
+        {/* TODO: (aktualizovat také). */}
       </p>
       <p>
         Autoři, kteří dosud nemají přidělen rozsah čísel, dostanou čísla přidělena při poskytnutí
         prvního souboru snímků do centrální databáze, tj. nejprve číslují své snímky od jedničky a
         pak celý soubor pošlou koordinátorovi centrální databáze, který snímkům přidělí volná čísla
         a přečísluje je. Pokud se zadavatel chystá své snímky publikovat, je kvůli odkazování vhodné
-        mít již přidělená čísla z centrální databáze. Seznam rozsahů již přidělených čísel najdete{" "}
-        <a download href={withPrefix(`/rozsahy.pdf`)}>
-          zde
-        </a>
-        {/* TODO: (aktualizovat také). */}
+        mít již přidělená čísla z centrální databáze. 
       </p>
       <p>
         Pro začátečníky doporučujeme k prostudování{" "}
@@ -348,13 +353,6 @@ export const cz = {
           <li>
             Pišút I., Lackovicová A. & Lisická E. (1993): Súpis lišajníkov Slovenska. Biológia, 48,
             Suppl. 1: 53–98.
-          </li>
-          <li>
-            Schaminée J.H.J., Hennekens S.M., Chytrý M. & Rodwell J.S. (2009): Vegetation-plot data
-            and databases in Europe: an overview. Preslia, 81: 173–185.
-            <a target="_blanc" href="http://www.preslia.cz/P093Schaminee.pdf">
-              [pdf]
-            </a>
           </li>
         </cite>
       </p>
