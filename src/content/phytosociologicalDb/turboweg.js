@@ -28,7 +28,7 @@ export const en = {
   ],
   intro: ( 
   <div>
-	<h3>Czech National Phytosociological Database</h3>
+	<h3>Turboveg for Windows</h3>
     <p>
       The data are stored in the TURBOVEG 2 database management program developed by Stephan Hennekens (<a target="_blanc" href="http://onlinelibrary.wiley.com/doi/10.2307/3237010/pdf">Hennekens & Schaminée 2001</a>), which is a European standard software for vegetation-plot databases. 
     </p>
@@ -186,7 +186,7 @@ export const cz = {
   ],
   intro: (
   <div>
-    <h3>Česká národní fytocenologické databáze</h3>
+    <h3>Turboveg for Windows</h3>
 
     <p>
       Program TURBOVEG (

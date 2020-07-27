@@ -184,7 +184,7 @@ export const en = {
   ),
   turbowegCheck: (
    <div>
-	<h3>Czech National Phytosociological Database</h3>
+	<h3>Turboveg Check-Up</h3>
       Turboveg Check-Up is a tool in the MS ACCESS program used to check relevé data entered in the TURBOVEG program. Its primary function is to search for errors in species and header data. In the species data, these are, for example, typos in species names or incorrectly indicated vegetation layers; in the header data, it can be missing values in mandatory fields or incorrect coordinates. The application has a simple interface, which allows using it without previous experience with MS ACCESS. It produces errors reports and data summaries that can be printed. TURBOVEG Check-Up uses tables with error types, which can be updated from this website. More information and download is available{" "}
       <a href={withPrefix(`/Turboveg-Check-Up.pdf`)} download>
         here
@@ -583,7 +583,7 @@ export const cz = {
   ),
   turbowegCheck: (
     <div>
-<h3>Česká národní fytocenologické databáze</h3>
+<h3>Turboveg Check-Up</h3>
       Turboveg Check-Up je speciálně upravená databáze v programu MS ACCESS, která slouží ke kontrole fytocenologických snímků
       zapsaných do programu TURBOVEG. Její hlavní funkcí je vyhledávání chyb v druhových a
       hlavičkových datech. V druhových datech jsou to například překlepy ve jménech druhů nebo
