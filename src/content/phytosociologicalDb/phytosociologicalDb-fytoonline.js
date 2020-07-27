@@ -5,20 +5,20 @@ export const en = {
     <div>
       <h3>Phytosociological data online</h3>
       <p>
-        This page contains open data from the Czech Republic. There are data files published in scientific papers and other documents or unpublished data provided by their authors. We thank all authors for giving their data to this open database. Online data are available in two forms:
+        This page contains selected vegetation-plot data from the Czech Republic for free download, including data published in scientific papers and other documents or unpublished data provided by their authors. We thank all the authors for providing their data to open-access source. Online data are available in three formats:
       </p>
       <ul>
         <li>
-          TURBOVEG XML – format for use in TURBOVEG or JUICE program. In TURBOVEG, create a new database and import data via the Import selection. In JUICE, open the file in the Import / Table / From TURBOVEG XML file menu.
+          TURBOVEG XML – a format for the TURBOVEG or JUICE programs. In TURBOVEG, create a new database and import the data via the Import selection. In JUICE, open the file in the Import / Table / From TURBOVEG XML file menu.
         </li>
         <li>
-          CSV soubor – format for use in MS EXCEL and other spreadsheet editors (semicolon-specified).
+          •	CSV soubor – a format for MS EXCEL and other spreadsheet editors (semicolon-delimited).
         </li>
         <li>TXT – plain text.</li>
       </ul>
       <h4>Online data</h4>
 		<div className="fyto-item"><span>
-            Phytosociological relevés from Natura 2000 mapping. Koordinator of mapping: Nature Conservation Agency of the Czech Republic. Data digitalizing: Czech National Phytosociological Database, Masaryk University, Brno.</span>
+            Vegetation plots from the national Natura 2000 mapping project. Coordinator of mapping: Nature Conservation Agency of the Czech Republic. Data digitalizing: Czech National Phytosociological Database, Masaryk University, Brno.</span>
             <a href="https://www.sci.muni.cz/botany/vegsci/fytonline/natura-2000.xml">XML</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/natura-2000.csv">CSV</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/natura-2000.txt">TXT</a></div>        
 
         
@@ -58,17 +58,17 @@ export const en = {
 
         
         <div className="fyto-item"><span>
-            Danihelka J. (1998): <i>Botanický inventarizační průzkum národní přírodní památky Dunajovické kopce s náměty pro přípravu plánu péče.</i> Ms. [Inventory research; depon. in: AOPK ČR, Brno.]</span>
+            Danihelka J. (1998): <i>Botanický inventarizační průzkum národní přírodní památky Dunajovické kopce s náměty pro přípravu plánu péče.</i> Ms. [Inventory research; depon. in: AOPK ČR, Brno].</span>
             <a href="https://www.sci.muni.cz/botany/vegsci/fytonline/danihelka-1998-ms-inventariz-pruzk.xml">XML</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/danihelka-1998-ms-inventariz-pruzk.csv">CSV</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/danihelka-1998-ms-inventariz-pruzk.txt">TXT</a></div>        
 
         
         <div className="fyto-item"><span>
-            Danihelka J. (1999): <i>Botanický inventarizační průzkum přírodní památky Kočičí skála.</i> Ms. [Inventory research; depon in: AOPK ČR, Praha.]</span>
+            Danihelka J. (1999): <i>Botanický inventarizační průzkum přírodní památky Kočičí skála.</i> Ms. [Inventory research; depon in: AOPK ČR, Praha].</span>
             <a href="https://www.sci.muni.cz/botany/vegsci/fytonline/danihelka-1999-ms-inventariz-pruzk-kocici-skala.xml">XML</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/danihelka-1999-ms-inventariz-pruzk-kocici-skala.csv">CSV</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/danihelka-1999-ms-inventariz-pruzk-kocici-skala.txt">TXT</a></div>        
 
         
         <div className="fyto-item"><span>
-            Danihelka J. (1999): <i>Botanický inventarizační průzkum přírodní rezervace Turold.</i> Ms. [Inventory research; depon in: AOPK ČR, Praha.]</span>
+            Danihelka J. (1999): <i>Botanický inventarizační průzkum přírodní rezervace Turold.</i> Ms. [Inventory research; depon in: AOPK ČR, Praha].</span>
             <a href="https://www.sci.muni.cz/botany/vegsci/fytonline/danihelka-1999-ms-inventariz-pruzk-turold.xml">XML</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/danihelka-1999-ms-inventariz-pruzk-turold.csv">CSV</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/danihelka-1999-ms-inventariz-pruzk-turold.txt">TXT</a></div>        
 
         
@@ -128,7 +128,7 @@ export const en = {
 
         
         <div className="fyto-item"><span>
-            Hettenbergerová E., unpublished data, spring fens and meadows from the White Carpathian Mountains, 2009</span>
+            Hettenbergerová E., unpublished data, spring fens and meadows from the White Carpathian Mountains, 2009.</span>
             <a href="https://www.sci.muni.cz/botany/vegsci/fytonline/hettenbergerova-ined-bile-karpaty.xml">XML</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/hettenbergerova-ined-bile-karpaty.csv">CSV</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/hettenbergerova-ined-bile-karpaty.txt">TXT</a></div>        
 
         
@@ -163,7 +163,7 @@ export const en = {
 
         
         <div className="fyto-item"><span>
-            Chytrý M., unpublished data, dry grasslands of the Svitava valley, 1984&ndash;1985</span>
+            Chytrý M., unpublished data, dry grasslands of the Svitava valley, 1984&ndash;1985.</span>
             <a href="https://www.sci.muni.cz/botany/vegsci/fytonline/chytry-ined-svitava.xml">XML</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/chytry-ined-svitava.csv">CSV</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/chytry-ined-svitava.txt">TXT</a></div>        
 
         
@@ -183,7 +183,7 @@ export const en = {
 
         
         <div className="fyto-item"><span>
-            Lososová Z., unpublished data, weed and ruderal vegetation, 1997–200X</span>
+            Lososová Z., unpublished data, weed and ruderal vegetation, 1997–onwards.</span>
             <a href="https://www.sci.muni.cz/botany/vegsci/fytonline/lososova-ined-plevele-ruderaly-1997-200X.xml">XML</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/lososova-ined-plevele-ruderaly-1997-200X.csv">CSV</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/lososova-ined-plevele-ruderaly-1997-200X.txt">TXT</a></div>        
 
         
@@ -208,7 +208,7 @@ export const en = {
 
         
         <div className="fyto-item"><span>
-            Veselá I. (2007): <i>Přirozená a polopřirozená vegetace Vizovické pahorkatiny.</i> Ms. [Master thesis; depon. in: knih. Úst. bot. a zool., PřF MU, Brno.]</span>
+            Veselá I. (2007): <i>Přirozená a polopřirozená vegetace Vizovické pahorkatiny.</i> Ms. [Master thesis; depon. in: knih. Úst. bot. a zool., PřF MU, Brno].</span>
             <a href="https://www.sci.muni.cz/botany/vegsci/fytonline/vesela-2007-ms-dipl-pr.xml">XML</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/vesela-2007-ms-dipl-pr.csv">CSV</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/vesela-2007-ms-dipl-pr.txt">TXT</a></div>        
 
         
@@ -289,17 +289,17 @@ export const cz = {
 
         
         <div className="fyto-item"><span>
-            Danihelka J. (1998): <i>Botanický inventarizační průzkum národní přírodní památky Dunajovické kopce s náměty pro přípravu plánu péče.</i> Ms. [Inventariz. průzk.; depon. in: AOPK ČR, Brno.]</span>
+            Danihelka J. (1998): <i>Botanický inventarizační průzkum národní přírodní památky Dunajovické kopce s náměty pro přípravu plánu péče.</i> Ms. [Inventariz. průzk.; depon. in: AOPK ČR, Brno].</span>
             <a href="https://www.sci.muni.cz/botany/vegsci/fytonline/danihelka-1998-ms-inventariz-pruzk.xml">XML</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/danihelka-1998-ms-inventariz-pruzk.csv">CSV</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/danihelka-1998-ms-inventariz-pruzk.txt">TXT</a></div>        
 
         
         <div className="fyto-item"><span>
-            Danihelka J. (1999): <i>Botanický inventarizační průzkum přírodní památky Kočičí skála.</i> Ms. [Inventariz. průzk.; depon in: AOPK ČR, Praha.]</span>
+            Danihelka J. (1999): <i>Botanický inventarizační průzkum přírodní památky Kočičí skála.</i> Ms. [Inventariz. průzk.; depon in: AOPK ČR, Praha].</span>
             <a href="https://www.sci.muni.cz/botany/vegsci/fytonline/danihelka-1999-ms-inventariz-pruzk-kocici-skala.xml">XML</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/danihelka-1999-ms-inventariz-pruzk-kocici-skala.csv">CSV</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/danihelka-1999-ms-inventariz-pruzk-kocici-skala.txt">TXT</a></div>        
 
         
         <div className="fyto-item"><span>
-            Danihelka J. (1999): <i>Botanický inventarizační průzkum přírodní rezervace Turold.</i> Ms. [Inventariz. průzk.; depon in: AOPK ČR, Praha.]</span>
+            Danihelka J. (1999): <i>Botanický inventarizační průzkum přírodní rezervace Turold.</i> Ms. [Inventariz. průzk.; depon in: AOPK ČR, Praha].</span>
             <a href="https://www.sci.muni.cz/botany/vegsci/fytonline/danihelka-1999-ms-inventariz-pruzk-turold.xml">XML</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/danihelka-1999-ms-inventariz-pruzk-turold.csv">CSV</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/danihelka-1999-ms-inventariz-pruzk-turold.txt">TXT</a></div>        
 
         
@@ -359,7 +359,7 @@ export const cz = {
 
         
         <div className="fyto-item"><span>
-            Hettenbergerová E., nepublikovaná data, Bílé Karpaty, 2009</span>
+            Hettenbergerová E., nepublikovaná data, Bílé Karpaty, 2009.</span>
             <a href="https://www.sci.muni.cz/botany/vegsci/fytonline/hettenbergerova-ined-bile-karpaty.xml">XML</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/hettenbergerova-ined-bile-karpaty.csv">CSV</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/hettenbergerova-ined-bile-karpaty.txt">TXT</a></div>        
 
         
@@ -394,7 +394,7 @@ export const cz = {
 
         
         <div className="fyto-item"><span>
-            Chytrý M., nepublikovaná data, suché trávníky údolí střední Svitavy, 1984&ndash;1985</span>
+            Chytrý M., nepublikovaná data, suché trávníky údolí střední Svitavy, 1984&ndash;1985.</span>
             <a href="https://www.sci.muni.cz/botany/vegsci/fytonline/chytry-ined-svitava.xml">XML</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/chytry-ined-svitava.csv">CSV</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/chytry-ined-svitava.txt">TXT</a></div>        
 
         
@@ -414,7 +414,7 @@ export const cz = {
 
         
         <div className="fyto-item"><span>
-            Lososová Z., nepublikovaná data, plevelová a ruderální vegetace, 1997–200X</span>
+            Lososová Z., nepublikovaná data, plevelová a ruderální vegetace, 1997–dosud.</span>
             <a href="https://www.sci.muni.cz/botany/vegsci/fytonline/lososova-ined-plevele-ruderaly-1997-200X.xml">XML</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/lososova-ined-plevele-ruderaly-1997-200X.csv">CSV</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/lososova-ined-plevele-ruderaly-1997-200X.txt">TXT</a></div>        
 
         
@@ -434,12 +434,12 @@ export const cz = {
 
         
         <div className="fyto-item"><span>
-            Velebil J. (2012): <i>Sorbus omissa</i>, a new endemic hybridogenous species from the lower Vltava river .<i>Preslia</i> 84: 375–390.</span>
+            Velebil J. (2012): <i>Sorbus omissa</i>, a new endemic hybridogenous species from the lower Vltava river.<i>Preslia</i> 84: 375–390.</span>
             <a href="https://www.sci.muni.cz/botany/vegsci/fytonline/velebil-2012-preslia.xml">XML</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/velebil-2012-preslia.csv">CSV</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/velebil-2012-preslia.txt">TXT</a></div>        
 
         
         <div className="fyto-item"><span>
-            Veselá I. (2007): <i>Přirozená a polopřirozená vegetace Vizovické pahorkatiny.</i> Ms. [Dipl. pr.; depon. in: knih. Úst. bot. a zool., PřF MU, Brno.]</span>
+            Veselá I. (2007): <i>Přirozená a polopřirozená vegetace Vizovické pahorkatiny.</i> Ms. [Dipl. pr.; depon. in: knih. Úst. bot. a zool., PřF MU, Brno].</span>
             <a href="https://www.sci.muni.cz/botany/vegsci/fytonline/vesela-2007-ms-dipl-pr.xml">XML</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/vesela-2007-ms-dipl-pr.csv">CSV</a><a href="https://www.sci.muni.cz/botany/vegsci/fytonline/vesela-2007-ms-dipl-pr.txt">TXT</a></div>        
 
         
