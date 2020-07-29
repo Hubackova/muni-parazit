@@ -12,7 +12,7 @@ export const en = {
           TURBOVEG XML – a format for the TURBOVEG or JUICE programs. In TURBOVEG, create a new database and import the data via the Import selection. In JUICE, open the file in the Import / Table / From TURBOVEG XML file menu.
         </li>
         <li>
-          •	CSV soubor – a format for MS EXCEL and other spreadsheet editors (semicolon-delimited).
+          CSV soubor – a format for MS EXCEL and other spreadsheet editors (semicolon-delimited).
         </li>
         <li>TXT – plain text.</li>
       </ul>
