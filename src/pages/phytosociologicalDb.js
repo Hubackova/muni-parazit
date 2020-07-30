@@ -21,17 +21,9 @@ const PhytosociologicalDbPage = () => {
           const turbowegContent = (
             <div>
               {turboweg["intro"]}
-              {turboweg.menu.map(i => (
-                <Li
-                  key={i.name}
-                  onClick={() => setTurbowegOpened(i.name)}
-                  className={opened === i.name && "active"}
-                >
-                  {i.text}
-                </Li>
-              ))}
-              <hr />
-              {turboweg[turbowegOpened]}
+              {turboweg["actualization"]}
+              {turboweg["workPrincipals"]}
+              {turboweg["coordinators"]}
             </div>
           );
           const content = opened === "turboweg" ? turbowegContent : data[opened];
@@ -45,19 +37,7 @@ const PhytosociologicalDbPage = () => {
                     className={opened === i.name && "active"}
                   >
                     {i.text}
-                    {i.name === "turboweg" && opened === "turboweg" && (
-                      <Ul>
-                        {turboweg.menu.map(i => (
-                          <Li
-                            key={i.name}
-                            onClick={() => setTurbowegOpened(i.name)}
-                            className={opened === i.name && "active"}
-                          >
-                            {i.text}
-                          </Li>
-                        ))}
-                      </Ul>
-                    )}
+     
                   </Li>
                 ))}
               </Menu>
