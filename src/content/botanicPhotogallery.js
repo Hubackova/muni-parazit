@@ -5,7 +5,7 @@ export const en = {
     <div>
       <h3>The Botanical Photogallery</h3>
       The Botanical Photogallery (
-      <a href="http://www.botanickafotogalerie.cz/">http://www.botanickafotogalerie.cz/</a>) is a
+      <a href="http://www.botanickafotogalerie.cz/index.php?lng=en">http://www.botanickafotogalerie.cz/</a>) is a
       photographic database of vascular plants and plant communities coordinated by Dana Holubová in
       the Vegetation Science Group. The database contains mainly wild and spontaneously established
       alien species of the Czech Republic. In addition to the normal viewing of photographs, it also

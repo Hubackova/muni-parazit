@@ -68,7 +68,7 @@ export const project1cz = {
         <p>
           <b>Vegetační databáze</b>
 		 <div> 
-    Založili jsme Evropský vegetační archív (EVA; Chytrý et al. 2016) a vytvořili několik tématických databází evropské vegetace (např. Landucci et al. 2015, Peterka et al. 2015, Marcenò & Jiménez-Alfaro 2017, Kalníková & Kudrnovsky 2017, Bonari et al. 2018, Jašková et al. 2020). Také dodáváme data do celosvětové vegetační databáze sPlot (Bruelheide et al. 2019).
+    Založili jsme Evropský vegetační archiv (EVA; Chytrý et al. 2016) a vytvořili několik tématických databází evropské vegetace (např. Landucci et al. 2015, Peterka et al. 2015, Marcenò & Jiménez-Alfaro 2017, Kalníková & Kudrnovsky 2017, Bonari et al. 2018, Jašková et al. 2020). Také dodáváme data do celosvětové vegetační databáze sPlot (Bruelheide et al. 2019).
 		</div>
 		</p>
         <p>
@@ -80,7 +80,7 @@ export const project1cz = {
 		<p>
           <b>Klasifikace evropské vegetace</b>
         <div>
-        Účastnili jsme se přípravy standardního seznam evropské vegetace, tzv. EuroVegChecklistu (Mucina et al. 2016). Dále jsme se podíleli na několika studiích, které na základě analýzy velkých souborů fytocenologických snímků vytvořily formalizované klasifikace vybraných vegetačních typů pro celou Evropu nebo velkou část našeho kontinentu (např. Douda et al. 2016, Rodríguez-Rojo et al. 2017, Willner et al. 2017, 2019); některé z těchto studií byly koordinovány naším týmem (e.g. Peterka et al. 2017, Marcenò et al. 2018, Landucci et al. 2020, Novák et al. 2020).
+        Účastnili jsme se přípravy standardního seznamu evropské vegetace, tzv. EuroVegChecklistu (Mucina et al. 2016). Dále jsme se podíleli na několika studiích, které na základě analýzy velkých souborů fytocenologických snímků vytvořily formalizované klasifikace vybraných vegetačních typů pro celou Evropu nebo velkou část našeho kontinentu (např. Douda et al. 2016, Rodríguez-Rojo et al. 2017, Willner et al. 2017, 2019); některé z těchto studií byly koordinovány naším týmem (e.g. Peterka et al. 2017, Marcenò et al. 2018, Landucci et al. 2020, Novák et al. 2020).
         </div>
 		</p>
 		<p>
@@ -108,7 +108,7 @@ export const project1cz = {
         </div>
         <b>2020</b>
 		<li>
-		Giulio S., Acosta A.T.R., Carboni M., Campos J.A., <b>Chytrý M.</b>, Loidi J., Pergl J., Pyšek P., Isermann M., Janssen J.A.M., Rodwell J.S., Schaminée J.H.J. & Marcenò C. (2020): Alien flora across European coastal dunes. <i>Applied Vegetation Science</i> 23: 317-327. – <a href="https://doi.org/10.1111/avsc.12490">https://doi.org/10.1111/avsc.12490</a>
+		Giulio S., Acosta A.T.R., Carboni M., Campos J.A., <b>Chytrý M.</b>, Loidi J., Pergl J., Pyšek P., Isermann M., Janssen J.A.M., Rodwell J.S., Schaminée J.H.J. & Marcenò C. (2020): Alien flora across European coastal dunes. <i>Applied Vegetation Science</i> 23: 317–327. – <a href="https://doi.org/10.1111/avsc.12490">https://doi.org/10.1111/avsc.12490</a>
 </li>
 		  <li>
 Küzmič F., Šilc U., <b>Lososová Z.</b>, Mucina L., <b>Chytrý M.</b>, <b>Knollová I.</b>, Hennekens S.M., Berg C., Bergmeier E., Biurrun I., Fanfarillo E., Font X., Iakushenko D., Kovačević Z., Meyer S., Nagy K., Pinke G., Poranen E. & Tereshenko S. (2020): European Weed Vegetation Database – a gap-focused vegetation-plot database. <i>Phytocoenologia</i> 50: 93–100. – <a href="https://doi.org/10.1127/phyto/2019/0337">https://doi.org/10.1127/phyto/2019/0337</a>
@@ -757,7 +757,7 @@ export const project1en = {
         </div>
         <b>2020</b>
 		<li>
-		Giulio S., Acosta A.T.R., Carboni M., Campos J.A., <b>Chytrý M.</b>, Loidi J., Pergl J., Pyšek P., Isermann M., Janssen J.A.M., Rodwell J.S., Schaminée J.H.J. & Marcenò C. (2020): Alien flora across European coastal dunes. <i>Applied Vegetation Science</i> 23: 317-327. – <a href="https://doi.org/10.1111/avsc.12490">https://doi.org/10.1111/avsc.12490</a>
+		Giulio S., Acosta A.T.R., Carboni M., Campos J.A., <b>Chytrý M.</b>, Loidi J., Pergl J., Pyšek P., Isermann M., Janssen J.A.M., Rodwell J.S., Schaminée J.H.J. & Marcenò C. (2020): Alien flora across European coastal dunes. <i>Applied Vegetation Science</i> 23: 317–327. – <a href="https://doi.org/10.1111/avsc.12490">https://doi.org/10.1111/avsc.12490</a>
 </li>
 		  <li>
 Küzmič F., Šilc U., <b>Lososová Z.</b>, Mucina L., <b>Chytrý M.</b>, <b>Knollová I.</b>, Hennekens S.M., Berg C., Bergmeier E., Biurrun I., Fanfarillo E., Font X., Iakushenko D., Kovačević Z., Meyer S., Nagy K., Pinke G., Poranen E. & Tereshenko S. (2020): European Weed Vegetation Database – a gap-focused vegetation-plot database. <i>Phytocoenologia</i> 50: 93–100. – <a href="https://doi.org/10.1127/phyto/2019/0337">https://doi.org/10.1127/phyto/2019/0337</a>

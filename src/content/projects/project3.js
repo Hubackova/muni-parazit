@@ -233,7 +233,7 @@ export const project3cz = {
           Projekt se zabývá biodiverzitou velkých středoevropských měst. Pomocí standardizovaných
           protokolů sběru dat jsme ve vybraných antropogenních biotopech a vybraných městech,
           reprezentujících různé makroklimatické a socioekonomické oblasti střední Evropy, studovali
-          tři modelové taxonomické a ekologické skupiny: cévnaté rostliny, terestričtí plži a
+          tři modelové taxonomické a ekologické skupiny: cévnaté rostliny, terestrické plže a
           epilitické a epixylické terestrické řasy a sinice. Na těchto organismech jsme řešili čtyři
           hlavní okruhy otázek
         </div>

@@ -348,8 +348,7 @@ export const thesesCz = {
       year: "2007"
     },
 	 {
-      name: `Variabilita luk svazu Molinion v České a Slovenské republice
-`,
+      name: `Variabilita luk svazu Molinion v České a Slovenské republice`,
       link: `https://is.muni.cz/th/tp2ys/`,
       author: "Marcela Řezníčková",
       year: "2007"

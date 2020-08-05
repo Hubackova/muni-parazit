@@ -43,8 +43,7 @@ export const en = {
   introduction: (
     <div>
 	<h3>Czech National Phytosociological Database</h3>
-      <p>
-        The Czech National Phytosociological Database (CNPD) is collecting digital vegetation-plot records (phytosociological relevés) from the territory of the Czech Republic in a single database, which facilitate easy access to relevant data for vegetation survey, ecological analyses and applications in nature conservation. These activities are a part of broader European projects coordinated by the Working Group for European Vegetation Survey of the (
+        <p align="justify">The Czech National Phytosociological Database (CNPD) is collecting digital vegetation-plot records (phytosociological relevés) from the territory of the Czech Republic in a single database, which facilitate easy access to relevant data for vegetation survey, ecological analyses and applications in nature conservation. These activities are a part of broader European projects coordinated by the Working Group for European Vegetation Survey of the (
         <a target="_blanc" href="http://iavs.org/">
           International Association for Vegetation Science
         </a>
@@ -58,7 +57,7 @@ export const en = {
         </a>
         ). The database was established with the help of the Darwin Initiative project coordinated by Professor John Rodwell at Lancaster University, UK (1995–1998). Since 1999 the database project has been funded from various projects of Masaryk University, most of them provided by the Czech Science Foundation.
       </p>
-      <p>
+      <p align="justify">
         The Czech National Phytosociological Database is coordinated at the Department of Botany and Zoology, Masaryk University, Brno. The coordinators of the database are Milan Chytrý (
         <MailEmoji mail="chytry@sci.muni.cz" />) and Ilona Knollová (
         <MailEmoji mail="ikuzel@sci.muni.cz" />
@@ -70,7 +69,7 @@ export const en = {
       </a>
 	  software developed by Lubomír Tichý.
       </p>
-      <p>
+      <p align="justify">
         The basic statistics about the Czech National Phytosociological Database were published by {" "} 
         <a target="_blanc" href="http://www.sci.muni.cz/botany/chytry/Pre2003.pdf">
           Chytrý & Rafajová (2003)
@@ -387,7 +386,7 @@ export const cz = {
   introduction: (
     <div>
 	<h3>Česká národní fytocenologické databáze</h3>
-      <p>
+      <p align="justify">
         <b>Česká národní fytocenologické databáze (ČNFD)</b> je úložiště pro digitalizované
         fytocenologické snímky zaznamenané v České republice, které jsou používány pro účely
         základního i aplikovaného ekologického výzkumu i v ochraně přírody. Tato činnost je součástí
@@ -410,7 +409,7 @@ export const cz = {
           European Vegetation Archive
         </a>
         ) a sPlot (
-        <a target="_blanc" href="https://www.idiv.de/sdiv/working_groups/wg_pool/splot.html">
+        <a target="_blanc" href="https://www.idiv.de/en/splot.html">
           Global Vegetation Database
         </a>
         ). Floristická data z fytocenologických snímků uložených v ČNFD jsou dostupná na webovém portálu{" "}
@@ -423,18 +422,16 @@ export const cz = {
         </a>
         .
       </p>
-      <p>
+      <p align="justify">
         Česká národní fytocenologická databáze je spravována pracovní skupinou Výzkum vegetace na Ústavu botaniky a zoologie
         Masarykovy univerzity v Brně, kde jsou také data z lokálních databází shromažďována v tzv.
-        centrální databázi. Hlavní koordinátoři databáze jsou Milan Chytrý (
-        <MailEmoji mail="chytry@sci.muni.cz" />) a Ilona Knollová (
-        <MailEmoji mail="ikuzel@sci.muni.cz" />
+        centrální databázi. Hlavní koordinátoři databáze jsou Milan Chytrý (<MailEmoji mail="chytry@sci.muni.cz" />) a Ilona Knollová (<MailEmoji mail="ikuzel@sci.muni.cz" />
         ), 
         {/* TODO: link na koordinatory */}
          {" "}lokální koordinátoři jsou také na jiných pracovištích <CoordinatorsLinkCz />.
         Součástí databázového projektu je také rozvoj metod pro analýzu dat.
       </p>
-      <p>
+      <p align="justify">
         Základní údaje o ČNFD lze najít v článku v časopise
         Preslia (
         <a target="_blanc" href="http://www.sci.muni.cz/botany/chytry/Pre2003.pdf">
@@ -461,7 +458,7 @@ export const cz = {
         </a>
         ) pod kódem EU-CZ-001.
       </p>
-      <p>
+      <p align="justify">
         Doporučená citace ČNFD: <br />
                 <cite>
           Chytrý M. & Rafajová M. (2003): Czech National Phytosociological Database: basic
@@ -476,11 +473,11 @@ export const cz = {
   dbState: (
     <div>
 	<h3>Česká národní fytocenologické databáze</h3>
-      <p>
+      <p align="justify">
         Databáze obsahuje přes 113 800 snímků (červenec 2020) z celého území České republiky (obr. 1) zapsané od
-        roku 1922 (obr. 2, dole) více než tisícem botaniků. Největší počet snímků byl zaznamenán ve
+        roku 1922 (obr. 2) více než tisícem botaniků. Největší počet snímků byl zaznamenán ve
         vegetaci listnatých lesů (<i>Querco-Fagetea</i>), luk a pastvin (<i>Molinio-Arrhenatheretea</i>) nebo
-        vysokých ostřic (<i>Phragmito-Magno-Caricetea</i>; obr. 2, nahoře). Fytocenologická bibliografie s
+        vysokých ostřic (<i>Phragmito-Magno-Caricetea</i>; obr. 3). Fytocenologická bibliografie s
         vyznačením publikací excerpovaných v centrální databázi je k dispozici{" "}
         <a target="_blanc" href="http://www.sci.muni.cz/botany/tvref/">
           zde
@@ -500,7 +497,7 @@ export const cz = {
           tooltipLabel="počet snímků"
           title="Počet snímků z různých let"
         />
-		Obr. 2: Počet fytocenologických snímků v jednotlivých letech.<br />
+		Obr. 2: Počty fytocenologických snímků v jednotlivých letech.<br />
 		</p>
 		<br>
 	  </br>
@@ -511,7 +508,7 @@ export const cz = {
           tooltipLabel="počet snímků"
           title="Počet snímků  v různých vegetačních třídách"
         />
-		Obr. 3: Počty snímků v jednotlivých vegetačních třídách.<br />
+		Obr. 3: Počty fytocenologických snímků v jednotlivých vegetačních třídách.<br />
       </p>
 	  	  <br>
 	  </br>
