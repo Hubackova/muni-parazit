@@ -32,6 +32,8 @@ import ceplova from "../../static/images/people/ceplova.jpg";
 import spanikova from "../../static/images/people/spanikova.jpg";
 import cubino from "../../static/images/people/cubino.jpg";
 import gotzenberger from "../../static/images/people/gotzenberger.jpg";
+import kolenyova from "../../static/images/people/kolenyova.jpg";
+
 
 
 export const peopleEn = {
@@ -415,6 +417,17 @@ export const peopleEn = {
       is: `https://www.muni.cz/en/people/501016-katerina-knotkova`,
 	  img: knotkova
       },
+	  	  {
+      id: `kolenyova`,
+      name: `Monika Kolényová`,
+      position: `PhD student, Researcher`,
+      description: `Monika Kolényová studied Botany (Mycology) at Masaryk University, Brno. She graduated with a master degree in 2020 and started her ongoing PhD study, which is aimed at the ecology, succesion and microhabitats of lignicolous fungi on logs in natural forests in Europe.`,
+      email: `424056@mail.muni.cz`,
+      phoneNumber: `549498397`,
+      is: `https://www.sci.muni.cz/en/about-us/faculty-staff/424056`,
+      researchgate: `https://www.researchgate.net/profile/Monika_Kolenyova`,
+      img: kolenyova
+    },
     {
       id: `novak`,
       name: `Pavel Novák`,
@@ -842,6 +855,17 @@ export const peopleCz = {
       is: `https://www.muni.cz/lide/501016-katerina-knotkova`,
 	  img: knotkova
       },
+	  {
+      id: `kolenyova`,
+      name: `Monika Kolényová`,
+      position: `Doktorand, výzkumník`,
+      description: `Monika Kolényová vystudovala bakalářský a magisterský studijní program ekologická a evoluční biologie na Přírodovědecké fakultě Masarykovy univerzity v Brně. Zabývala se sukcessí lignikolních hub na tlejícich kmenech v přirozených lesích a jejich mikrostanovištích nárocích. V tomto tématu pokračuje i na disertační práci. `,
+      email: `424056@mail.muni.cz`,
+      phoneNumber: `549498397`,
+      is: `https://www.sci.muni.cz/o-nas/zamestnanci-fakulty/424056`,
+      researchgate: `https://www.researchgate.net/profile/Monika_Kolenyova`,
+      img: kolenyova
+    },
 	  {
       id: `novak`,
       name: `Pavel Novák`,
