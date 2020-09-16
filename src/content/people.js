@@ -41,7 +41,7 @@ export const peopleEn = {
     {
       id: `chytry`,
       name: `Milan Chytrý`,
-      position: `Professor, Group Leader`,
+      position: `Professor, Group leader`,
       description: `Milan Chytrý got PhD in Botany at Masaryk University in 1995. He is interested in vegetation diversity, vegetation survey, methods of vegetation classification, macroecology, alien plant invasions and palaeoecology. He edited the Habitat Catalogue of the Czech Republic (2001, 2010) and the four-volume monograph Vegetation of the Czech Republic (2007–2013). In 2014–2018 he led the project PLADIAS, which synthesized information on flora and vegetation of the Czech Republic in an online database. He studied vegetation in different parts of Europe. In 2003–2015 he led projects of field research of ecosystems in different parts of Siberia, which resulted in characterizing some Siberian ecosystems as modern analogues of the Last Glacial ecosystems of Europe. Currently, he is coordinating the Centre of European Vegetation Syntheses at Masaryk University. He is a Secretary of the IAVS Working Group European Vegetation Survey, Custodian of the European Vegetation Archive (EVA) and Chief Editor of the IAVS journals (Journal of Vegetation Science and Applied Vegetation Science). He teaches Community Ecology and Macroecology, Vegetation and Habitats of the Czech Republic, Vegetation and Habitats of Europe and several field courses and seminars at Masaryk University.`,
       email: `chytry@sci.muni.cz`,
       phoneNumber: `549494595`,
