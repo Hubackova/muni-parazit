@@ -1,4 +1,5 @@
 export const galleryNames = [
+  { main: "slaniska_2020" },
   { main: "perm_plot" },
   { main: "mohelno_2019" },
   { main: "macedonia_2019" },
@@ -16,6 +17,7 @@ export const galleryNames = [
 ];
 
 export const galleryNamesCz = [
+  "2020 Dolní Dunajovice, slaniska",
   "2019 Bohunice, pokusné plochy",
   "2019 Mohelno",
   "2019 Severní Makedonie",
@@ -32,6 +34,7 @@ export const galleryNamesCz = [
   "2007 Itálie",
 ];
 export const galleryNamesEn = [
+  "2020 Dolni Dunajovice",
   "2019 Bohunice, permanent plots",
   "2019 Mohelno", 
   "2019 North Macedonia",
@@ -49,6 +52,7 @@ export const galleryNamesEn = [
 ];
 
 export const galleryLabelsCz = {
+  slaniska_2020: ["Trifolium fragiferum", "Lotus tenuis", "Sedlec", "", "", "","Slanisko u Nesytu", "Slanisko u Nesytu", "Slanisko u Nesytu", "Slanisko u Nesytu", "Dolní Dunajovice", "Dolní Dunajovice", "Zwingendorf", "Zwingendorf", "Zwingendorf", "Zwingendorf", "Zwingendorf; Althaea officinalis", "Zwingendorf", "Zwingendorf", "Nový Přerov", "Nový Přerov", "Nový Přerov", "Nový Přerov", "Starovický rybník", "Trkmanec-Rybníčky", "Trkmanec-Rybníčky", "Trkmanec-Rybníčky", "Dobré Pole", "Novosedly", "", "", "", "Dunajovické kopce; Crambe tataria", "Dunajovické kopce","Dunajovické kopce; Linum hirsutum", "Dunajovické kopce; Onopordon acanthium", "Dunajovické kopce"],
  macedonia_2019: ["", "NP Fruška Gora", "", "Nemoptera sinuata, stuholetka jižní", "kaňon Matka", "kaňon Matka", "kaňon Matka", "kaňon Matka", "Popova Shapka", "Popova Shapka", "Carex caryophyllea", "Popova Shapka", "", "Lilium albanicum", "Saxifraga sempervivum", "Popova Shapka", "Crocus scardicus", "Popova Shapka", "Popova Shapka", "", "Mavrovo", "Mavrovo", "Mavrovo", "Krani", "Krani", "NP Galičica", "NP Galičica", "NP Galičica", "NP Galičica, Dactylorhiza sambucina", "NP Galičica", "NP Galičica", "", "NP Pelister", "NP Pelister", "Demir Kapija", "Demir Kapija", "Centaurea sp.", "Demir Kapija", "Demir Kapija", "Ovče Pole", "Ovče Pole", "Ovče Pole", "Peganum harmala", ],
   corsica_2018: ["", "", "Ponte Novo", "Ponte Novo", "Monte Cintu, Calacuccia", "Monte Cintu, Daphne oleoides", "Monte Cintu, Heleborus lividus", "Lac de Nino", "Lac de Nino", "Lac de Nino", "Lac de Nino", "Lac de Nino", "Lac de Nino", "", "Bonifacio", "Bonifacio", "Bonifacio", "Bonifacio", "Bonifacio", "Bonifacio", "Bonifacio", "Bonifacio",  "", "", "", "", "", "", "Étang de Biguglia", "Étang de Biguglia", "Étang de Biguglia", "" ],
   romania_2017: ["Rodna, Manastrirea Sfanta Treime", "Rodna","Rodna","Rodna","Rodna", "Rodna, Stiol lake", "Rodna, Stiol lake","Rodna","Ceahlau", "Ceahlau, Cușma Dorobanțului",  "Ceahlau", "Ceahlau", "Lathyrus laevigatus", "Ceahlau", "Ceahlau", "Ceahlau", "Voslabeni", "Bucin", "Muntele de Sare", "Muntele de Sare", "Sovata", "Vlahita", "Vlahita", "Vlahita", "Lacul Sfanta Ana", "Salamandra salamandra", "Cheile Rasnoavei", "Cheile Rasnoavei", "Saline Turda", "Saline Turda", "Saline Turda", "Fanatele Clujului, Clematis integrifolia", "Fanatele Clujului", "Fanatele Clujului, Carex secalina", "Fanatele Clujului","Cheile Turzii", "Cheile Turzii", "Cheile Turzii", "Rachitele", "Rachitele"],
@@ -64,6 +68,7 @@ export const galleryLabelsCz = {
 };
 
 export const galleryLabelsEn = {
+  slaniska_2020: ["Trifolium fragiferum", "Lotus tenuis", "Sedlec", "", "", "","Slanisko u Nesytu", "Slanisko u Nesytu", "Slanisko u Nesytu", "Slanisko u Nesytu", "Dolní Dunajovice", "Dolní Dunajovice", "Zwingendorf", "Zwingendorf", "Zwingendorf", "Zwingendorf", "Zwingendorf; Althaea officinalis", "Zwingendorf", "Zwingendorf", "Nový Přerov", "Nový Přerov", "Nový Přerov", "Nový Přerov", "Starovický rybník", "Trkmanec-Rybníčky", "Trkmanec-Rybníčky", "Trkmanec-Rybníčky", "Dobré Pole", "Novosedly", "", "", "", "Dunajovické kopce; Crambe tataria", "Dunajovické kopce","Dunajovické kopce; Linum hirsutum", "Dunajovické kopce; Onopordon acanthium", "Dunajovické kopce"],
  macedonia_2019: ["", "NP Fruška Gora", "", "Nemoptera sinuata, stuholetka jižní", "kaňon Matka", "kaňon Matka", "kaňon Matka", "kaňon Matka", "Popova Shapka", "Popova Shapka", "Carex caryophyllea", "Popova Shapka", "", "Lilium albanicum", "Saxifraga sempervivum", "Popova Shapka", "Crocus scardicus", "Popova Shapka", "Popova Shapka", "", "Mavrovo", "Mavrovo", "Mavrovo", "Krani", "Krani", "NP Galičica", "NP Galičica", "NP Galičica", "NP Galičica, Dactylorhiza sambucina", "NP Galičica", "NP Galičica", "", "NP Pelister", "NP Pelister", "Demir Kapija", "Demir Kapija", "Centaurea sp.", "Demir Kapija", "Demir Kapija", "Ovče Pole", "Ovče Pole", "Ovče Pole", "Peganum harmala", ],
   corsica_2018: ["", "", "Ponte Novo", "Ponte Novo", "Monte Cintu, Calacuccia", "Monte Cintu, Daphne oleoides", "Monte Cintu, Heleborus lividus", "Lac de Nino", "Lac de Nino", "Lac de Nino", "Lac de Nino", "Lac de Nino", "Lac de Nino", "", "Bonifacio", "Bonifacio", "Bonifacio", "Bonifacio", "Bonifacio", "Bonifacio", "Bonifacio", "Bonifacio",  "", "", "", "", "", "", "Étang de Biguglia", "Étang de Biguglia", "Étang de Biguglia", "" ],
   romania_2017: ["Rodna, Manastrirea Sfanta Treime", "Rodna","Rodna","Rodna","Rodna", "Rodna, Stiol lake", "Rodna, Stiol lake","Rodna","Ceahlau", "Ceahlau, Cușma Dorobanțului",  "Ceahlau", "Ceahlau", "Lathyrus laevigatus", "Ceahlau", "Ceahlau", "Ceahlau", "Voslabeni", "Bucin", "Muntele de Sare", "Muntele de Sare", "Sovata", "Vlahita", "Vlahita", "Vlahita", "Lacul Sfanta Ana", "Salamandra salamandra", "Cheile Rasnoavei", "Cheile Rasnoavei", "Saline Turda", "Saline Turda", "Saline Turda", "Fanatele Clujului, Clematis integrifolia", "Fanatele Clujului", "Fanatele Clujului, Carex secalina", "Fanatele Clujului","Cheile Turzii", "Cheile Turzii", "Cheile Turzii", "Rachitele", "Rachitele"],
