@@ -144,7 +144,7 @@ export const project3en = {
         <li>
           <b>Kalusová V.</b>, <b>Čeplová N.</b> &amp; <b>Lososová Z.</b> (2017): Which traits influence the frequency of
           plant species occurrence in urban habitat types? <i>Urban Ecosystems</i> 20: 65–75. –
-		   {" "}<a href="http://download.springer.com/static/pdf/530/art%253A10.1007%252Fs11252-016-0588-3.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11252-016-0588-3&token2=exp=1487941980~acl=%2Fstatic%2Fpdf%2F530%2Fart%25253A10.1007%25252Fs11252-016-0588-3.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs11252-016-0588-3*~hmac=1d22a442a78c8b981a15fdc6bfa0e0a7d89cfbb25e0f56f3b17c81083fb1316c">fulltext on SpringerLink</a>
+		   {" "}<a href="https://www.researchgate.net/publication/306087693_Which_traits_influence_the_frequency_of_plant_species_occurrence_in_urban_habitat_types">fulltext on ResearchGate</a>
         </li>
         <li>
           <b>Lososová Z.</b>, <b>Chytrý M.</b>, <b>Tichý L.</b>, <b>Danihelka J.</b>, Fajmon K., <b>Hájek O.</b>, <b>Kintrová K.</b>, Kühn I.,
@@ -295,7 +295,7 @@ export const project3cz = {
         <li>
           <b>Kalusová V.</b>, <b>Čeplová N.</b> &amp; <b>Lososová Z.</b> (2017): Which traits influence the frequency of
           plant species occurrence in urban habitat types? <i>Urban Ecosystems</i> 20: 65–75. –
-		   {" "}<a href="http://download.springer.com/static/pdf/530/art%253A10.1007%252Fs11252-016-0588-3.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11252-016-0588-3&token2=exp=1487941980~acl=%2Fstatic%2Fpdf%2F530%2Fart%25253A10.1007%25252Fs11252-016-0588-3.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs11252-016-0588-3*~hmac=1d22a442a78c8b981a15fdc6bfa0e0a7d89cfbb25e0f56f3b17c81083fb1316c">fulltext on SpringerLink</a>
+		   {" "}<a href="https://www.researchgate.net/publication/306087693_Which_traits_influence_the_frequency_of_plant_species_occurrence_in_urban_habitat_types">fulltext on ResearchGate</a>
         </li>
         <li>
           <b>Lososová Z.</b>, <b>Chytrý M.</b>, <b>Tichý L.</b>, <b>Danihelka J.</b>, Fajmon K., <b>Hájek O.</b>, <b>Kintrová K.</b>, Kühn I.,

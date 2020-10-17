@@ -379,7 +379,6 @@ export const peopleEn = {
       description: `Since Markéta graduated in Landscape Design at Mendel University, she has been making her way through the studies of Botany at Masaryk University. Still passionate for growing plants, she is taking care of her expanding home collection of succulents. With her colleagues from the Institute of Botany, she also ventured into experimental planting of woodland herbs. Her main research domain is forests and woodlands, where she spends time all-year-round, mostly collecting data. Markéta is working on her dissertation on the origin of spatial patterns in plant communities and, as a part of her work at the Institute of Botany, she is studying their temporal dynamics. She is drawn to detail, small scale and short time periods. Once, she would like to find there the answer to long-term community changes.`,
       email: `323585@mail.muni.cz`,
       phoneNumber: `541126221`,
-      is: `https://www.muni.cz/en/people/323585-marketa-chudomelova`,
       orcid: `https://orcid.org/0000-0001-7845-4000`,
       researchgate: `https://www.researchgate.net/profile/Marketa_Chudomelova`,
       img: chudomelova
@@ -817,7 +816,6 @@ export const peopleCz = {
       description: `Markéta Chudomelová vystudovala bakalářský stupeň v oboru zahradní a krajinářské architektura na Mendelově univerzitě. Následovalo bakalářské, magisterské a současné doktorské studium botaniky na Masarykově univerzitě. Záliba v pěstování rostlin ji ale nepřešla: doma obhospodařuje postupně se rozšiřující sbírku sukulentů a spolu s kolegy z Botanického ústavu se pustila do zakládání experimentálních výsadeb lesních rostlin. Její doménou je hlavně les, kde se při sběru dat vyskytuje po celý rok. Píše doktorskou práci o původu prostorových struktur v rostlinných společenstvech a na Oddělení vegetační ekologie Botanického ústavu AV ČR se věnuje hlavně jejich změnám v čase. Zajímá ji spíš detail, drobné měřítko a kratší časové horizonty. Jednou by tam ráda našla klíč k pochopení dlouhodobých změn.`,
       email: `323585@mail.muni.cz`,
       phoneNumber: `541126221`,
-      is: `https://www.muni.cz/lide/323585-marketa-chudomelova`,
       orcid: `https://orcid.org/0000-0001-7845-4000`,
       researchgate: `https://www.researchgate.net/profile/Marketa_Chudomelova`,
       img: chudomelova
