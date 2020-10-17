@@ -29,7 +29,6 @@ import stepankova from "../../static/images/people/stepankova.jpg";
 import axmanova from "../../static/images/people/axmanova.jpg";
 import kubesova from "../../static/images/people/kubesova.jpg";
 import ceplova from "../../static/images/people/ceplova.jpg";
-import spanikova from "../../static/images/people/spanikova.jpg";
 import cubino from "../../static/images/people/cubino.jpg";
 import gotzenberger from "../../static/images/people/gotzenberger.jpg";
 import kolenyova from "../../static/images/people/kolenyova.jpg";
@@ -437,16 +436,6 @@ export const peopleEn = {
       is: `https://www.muni.cz/en/people/269109-pavel-novak`,
       researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
       img: novak
-    },
-    {
-      id: `spanikova`,
-      name: `Šárka Špániková`,
-      position: `PhD student, Researcher`,
-      description: `Šárka Špániková studied Upper Secondary School Teacher Training in Biology & Upper Secondary School Teacher Training in Geography and Cartography at the Faculty of Science of Masaryk University and also Zoology at the same faculty. In her master's theses, she dealt with modelling distribution of selected land snail species in the White Carpathians. She is using similar methods in her doctoral studies for modelling distribution of selected European habitats. `,
-      email: `408322@mail.muni.cz`,
-      phoneNumber: ``,
-      is: `https://www.muni.cz/en/people/408322-sarka-spanikova`,
-	  img: spanikova
     },
     {
       id: `vecera`,
@@ -876,16 +865,6 @@ export const peopleCz = {
       img: novak
     },
     {
-      id: `spanikova`,
-      name: `Šárka Špániková`,
-      position: `Doktorand, výzkumník`,
-      description: `Šárka Špániková studovala na Přírodovědecké fakultě Masarykovy univerzity obor učitelství biologie pro střední školy spolu s učitelstvím geografie a kartografie pro střední školy (dokončeno 2018) a obor zoologie (dokončeno 2019). V diplomové práci z učitelského oboru se věnovala modelování rozšíření suchozemských plžů v Bílých Karpatech, na doktorském studiu využívá podobné metody pro modely vybraných evropských biotopů.`,
-      email: `408322@mail.muni.cz`,
-      phoneNumber: ``,
-      is: `https://www.muni.cz/lide/408322-sarka-spanikova`, 
-	  img: spanikova
-    },
-    {
       id: `vecera`,
       name: `Martin Večeřa`,
       position: `Doktorand, výzkumník`,
@@ -912,6 +891,10 @@ export const peopleCz = {
 };
 
 export const formerPeople = [
+  {
+    name: `Šárka Špániková (2019–2020)`,
+    email: `408322@mail.muni.cz`
+  },
   {
     name: `Anna Kuzemko (2019–2020)`,
     email: `anyameadow.ak@gmail.com`
