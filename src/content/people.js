@@ -248,6 +248,17 @@ export const peopleEn = {
 	  img: landucci
     },
     {
+      id: `novak`,
+      name: `Pavel Novák`,
+      position: `PhD student, Researcher`,
+      description: `Pavel Novák studied Botany (focused on plant ecology) at Masaryk University, Brno. He graduated with a master degree in 2013. His master thesis dealt with the variability of forest vegetation in the Krumlovský les Forest and its surroundings (SW Moravia). His PhD study (2014–2020) was aimed at the variability and syntaxonomy of oak-hornbeam forests (order Carpinetalia) on the European scale. Besides Central Europe, he studies forest vegetation of the Caucasus and the Euxinian Region.`,
+      email: `269109@mail.muni.cz`,
+      phoneNumber: `549498485`,
+      is: `https://www.muni.cz/en/people/269109-pavel-novak`,
+      researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
+      img: novak
+    },
+    {
       id: `preislerova`,
       name: `Zdenka Preislerová`,
       position: `Researcher`,
@@ -393,18 +404,6 @@ export const peopleEn = {
       researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
       img: jaskova
     },
-    {
-      id: `kalnikova`,
-      name: `Veronika Kalníková`,
-      position: `PhD student, Researcher`,
-      description: `Veronika Kalníková studies PhD programme in Botany at Masaryk University, Brno. She is interested in riverine processes, mainly how are plants and their communities able to cope with harsh conditions on river gravel bars. She graduated in 2012 with the master thesis "Distribution of invasive neophytes and succession on gravel sediments along streams of the Moravskoslezské Beskydy Mts and their foothills". She is currently a PhD student, and in her thesis, she is dealing with the classification of European river gravel-bar vegetation.`,
-      email: `V.Kalnikova@seznam.cz`,
-      phoneNumber: `549498486`,
-      is: `https://www.muni.cz/en/people/222967-veronika-kalnikova`,
-      orcid: `https://orcid.org/0000-0003-2361-0816`,
-      researchgate: `https://www.researchgate.net/profile/Veronika_Kalnikova`,
-      img: kalnikova
-    },
 	 {
       id: `knotkova`,
       name: `Kateřina Knotková`,
@@ -425,17 +424,6 @@ export const peopleEn = {
       is: `https://www.sci.muni.cz/en/about-us/faculty-staff/424056`,
       researchgate: `https://www.researchgate.net/profile/Monika_Kolenyova`,
       img: kolenyova
-    },
-    {
-      id: `novak`,
-      name: `Pavel Novák`,
-      position: `PhD student, Researcher`,
-      description: `Pavel Novák studied Botany (focused on plant ecology) at Masaryk University, Brno. He graduated with a master degree in 2013. His master thesis dealt with the variability of forest vegetation in the Krumlovský les Forest and its surroundings (SW Moravia). In 2014, he started his ongoing PhD study, which is aimed at the variability and syntaxonomy of oak-hornbeam forests (order Carpinetalia) on the European scale. Besides Central Europe, he studies forest vegetation of the Caucasus and the Euxinian Region.`,
-      email: `269109@mail.muni.cz`,
-      phoneNumber: `549498485`,
-      is: `https://www.muni.cz/en/people/269109-pavel-novak`,
-      researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
-      img: novak
     },
     {
       id: `vecera`,
@@ -677,6 +665,17 @@ export const peopleCz = {
 	  img: landucci
     },
     {
+      id: `novak`,
+      name: `Pavel Novák`,
+      position: `Výzkumník`,
+      description: `Pavel Novák studoval obor botanika, směr ekologie rostlin na Přírodovědecké fakultě Masarykovy univerzity. V roce 2013 obhájil diplomovou práci zaměřenou na diverzitu lesní vegetace Krumlovského lesa a okolí (JZ Morava), území vegetačně velmi zajímavého a přitom do té doby takřka neprozkoumaného. V roce 2014 začal doktorské studium, ve kterém pokračuje dodnes. Dizertační práce (2014–2020) byla zaměřena na variabilitu a syntaxonomii dubohabřin (řád Carpinetalia) na evropské škále. Vedle vegetace střední Evropy se věnuje lesní vegetaci Kavkazu a Euxinie.`,
+      email: `269109@mail.muni.cz`,
+      phoneNumber: `549498485`,
+      is: `https://www.muni.cz/lide/269109-pavel-novak`,
+      researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
+      img: novak
+    },
+    {
       id: `preislerova`,
       name: `Zdenka Preislerová`,
       position: `Výzkumník`,
@@ -820,18 +819,6 @@ export const peopleCz = {
       researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
       img: jaskova
     },
-    {
-      id: `kalnikova`,
-      name: `Veronika Kalníková`,
-      position: `Doktorand, výzkumník`,
-      description: `Veronika Kalníková studuje obor botanika na Přírodovědecké fakultě Masarykovy univerzity. Zajímají ji procesy probíhající říčních nivách, především jak se rostliny a jejich společenstva přizpůsobují extrémním podmínkám na štěrkových náplavech divočících toků. V roce 2012 obhájila diplomovou práci na téma "Rozšíření invazních neofytů a sukcese na štěrkových náplavech na tocích Moravskoslezských Beskyd a jejich podhůří". Hlavním cílem její disertační práce je vytvoření jednotné klasifikace vegetace štěrkových náplavů v Evropě.`,
-      email: `V.Kalnikova@seznam.cz`,
-      phoneNumber: `549498486`,
-      is: `https://www.muni.cz/lide/222967-veronika-kalnikova`,
-      orcid: `https://orcid.org/0000-0003-2361-0816`,
-      researchgate: `https://www.researchgate.net/profile/Veronika_Kalnikova`,
-      img: kalnikova
-    },
 	{
       id: `knotkova`,
       name: `Kateřina Knotková`,
@@ -852,17 +839,6 @@ export const peopleCz = {
       is: `https://www.sci.muni.cz/o-nas/zamestnanci-fakulty/424056`,
       researchgate: `https://www.researchgate.net/profile/Monika_Kolenyova`,
       img: kolenyova
-    },
-	  {
-      id: `novak`,
-      name: `Pavel Novák`,
-      position: `Doktorand, výzkumník`,
-      description: `Pavel Novák studoval obor botanika, směr ekologie rostlin na Přírodovědecké fakultě Masarykovy univerzity. V roce 2013 obhájil diplomovou práci zaměřenou na diverzitu lesní vegetace Krumlovského lesa a okolí (JZ Morava), území vegetačně velmi zajímavého a přitom do té doby takřka neprozkoumaného. V roce 2014 začal doktorské studium, ve kterém pokračuje dodnes. Dizertační práce je zaměřena na variabilitu a syntaxonomii dubohabřin (řád Carpinetalia) na evropské škále. Vedle vegetace střední Evropy se věnuje lesní vegetaci Kavkazu a Euxinie.`,
-      email: `269109@mail.muni.cz`,
-      phoneNumber: `549498485`,
-      is: `https://www.muni.cz/lide/269109-pavel-novak`,
-      researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
-      img: novak
     },
     {
       id: `vecera`,
@@ -891,6 +867,10 @@ export const peopleCz = {
 };
 
 export const formerPeople = [
+  {
+    name: `Veronika Kalníková (2011–2020)`,
+    email: `V.Kalnikova@seznam.cz`
+  },
   {
     name: `Šárka Špániková (2019–2020)`,
     email: `408322@mail.muni.cz`

@@ -1,4 +1,5 @@
 export const galleryNames = [
+  { main: "slovakia_2020" },
   { main: "slaniska_2020" },
   { main: "perm_plot" },
   { main: "mohelno_2019" },
@@ -17,6 +18,7 @@ export const galleryNames = [
 ];
 
 export const galleryNamesCz = [
+  "2020 Slovensko",
   "2020 Dolní Dunajovice, slaniska",
   "2019 Bohunice, pokusné plochy",
   "2019 Mohelno",
@@ -34,6 +36,7 @@ export const galleryNamesCz = [
   "2007 Itálie",
 ];
 export const galleryNamesEn = [
+  "2020 Slovakia",
   "2020 Dolni Dunajovice",
   "2019 Bohunice, permanent plots",
   "2019 Mohelno", 
@@ -52,6 +55,7 @@ export const galleryNamesEn = [
 ];
 
 export const galleryLabelsCz = {
+  slovakia_2020: ["Terchová-Diery", "Corthusa matthioli", "Terchová-Diery","", "Cirsium eriophorum", "Terchová-Tiesňavy", "", "V. Fatra-Tlstá", "Gentianella sp.", "V. Fatra-Tlstá", "Lappula squarrosa", "Velká Fatra", "Velká Fatra", "Malá Studená dolina", "Malá Studená dolina", "Malá Studená dolina", "Malá Studená dolina", "Malá Studená dolina", "Rhodiola rosea", "Gentiana asclepiadea", "Adenostyles alliariae", "Malá Studená dolina", "Spišské pleso", "Spišské pleso","Salix herbacea", "Téryho chata", "kemp Tatranská Štrba", "kemp Tatranská Štrba", "kemp Tatranská Štrba; výstavka","Primovské skaly", "Primovské skaly", "Galatella linosyris", "Eresus kollari", "Sivá brada", "Sivá brada", "Sivá brada", "Sivá brada", "Ostrá hora", "Ostrá hora", "Aconitum anthora", "Velké Biele pleso", "Kopské sedlo", "Kopské sedlo", "Kopské sedlo", "Adenophora liliifolia", "Rosa pendulina", "Rosa spinosissima", "Prielom Hornádu" , "Prielom Hornádu" , "Prielom Hornádu" , "Prielom Hornádu" , "Prielom Hornádu" , "Geastrum sp.", "Prielom Hornádu" , "Stratenský kaňon", "Hnilecká jelšina", "Succisa pratensis + Polygonia c-album", "Ligularia sibirica", "Hnilecká jelšina", "Hnilecká jelšina", "Coronabus :-)"],
   slaniska_2020: ["Trifolium fragiferum", "Lotus tenuis", "Sedlec", "", "", "","Slanisko u Nesytu", "Slanisko u Nesytu", "Slanisko u Nesytu", "Slanisko u Nesytu", "Dolní Dunajovice", "Dolní Dunajovice", "Zwingendorf", "Zwingendorf", "Zwingendorf", "Zwingendorf", "Zwingendorf; Althaea officinalis", "Zwingendorf", "Zwingendorf", "Nový Přerov", "Nový Přerov", "Nový Přerov", "Nový Přerov", "Starovický rybník", "Trkmanec-Rybníčky", "Trkmanec-Rybníčky", "Trkmanec-Rybníčky", "Dobré Pole", "Novosedly", "", "", "", "Dunajovické kopce; Crambe tataria", "Dunajovické kopce","Dunajovické kopce; Linum hirsutum", "Dunajovické kopce; Onopordon acanthium", "Dunajovické kopce"],
  macedonia_2019: ["", "NP Fruška Gora", "", "Nemoptera sinuata, stuholetka jižní", "kaňon Matka", "kaňon Matka", "kaňon Matka", "kaňon Matka", "Popova Shapka", "Popova Shapka", "Carex caryophyllea", "Popova Shapka", "", "Lilium albanicum", "Saxifraga sempervivum", "Popova Shapka", "Crocus scardicus", "Popova Shapka", "Popova Shapka", "", "Mavrovo", "Mavrovo", "Mavrovo", "Krani", "Krani", "NP Galičica", "NP Galičica", "NP Galičica", "NP Galičica, Dactylorhiza sambucina", "NP Galičica", "NP Galičica", "", "NP Pelister", "NP Pelister", "Demir Kapija", "Demir Kapija", "Centaurea sp.", "Demir Kapija", "Demir Kapija", "Ovče Pole", "Ovče Pole", "Ovče Pole", "Peganum harmala", ],
   corsica_2018: ["", "", "Ponte Novo", "Ponte Novo", "Monte Cintu, Calacuccia", "Monte Cintu, Daphne oleoides", "Monte Cintu, Heleborus lividus", "Lac de Nino", "Lac de Nino", "Lac de Nino", "Lac de Nino", "Lac de Nino", "Lac de Nino", "", "Bonifacio", "Bonifacio", "Bonifacio", "Bonifacio", "Bonifacio", "Bonifacio", "Bonifacio", "Bonifacio",  "", "", "", "", "", "", "Étang de Biguglia", "Étang de Biguglia", "Étang de Biguglia", "" ],
@@ -68,6 +72,7 @@ export const galleryLabelsCz = {
 };
 
 export const galleryLabelsEn = {
+  slovakia_2020: ["Terchová-Diery", "Corthusa matthioli", "Terchová-Diery","", "Cirsium eriophorum", "Terchová-Tiesňavy", "", "V. Fatra-Tlstá", "Gentianella sp.", "V. Fatra-Tlstá", "Lappula squarrosa", "Velká Fatra", "Velká Fatra", "Malá Studená dolina", "Malá Studená dolina", "Malá Studená dolina", "Malá Studená dolina", "Malá Studená dolina", "Rhodiola rosea", "Gentiana asclepiadea", "Adenostyles alliariae", "Malá Studená dolina", "Spišské pleso", "Spišské pleso","Salix herbacea", "Téryho chata", "kemp Tatranská Štrba", "kemp Tatranská Štrba", "kemp Tatranská Štrba; výstavka","Primovské skaly", "Primovské skaly", "Galatella linosyris", "Eresus kollari", "Sivá brada", "Sivá brada", "Sivá brada", "Sivá brada", "Ostrá hora", "Ostrá hora", "Aconitum anthora", "Velké Biele pleso", "Kopské sedlo", "Kopské sedlo", "Kopské sedlo", "Adenophora liliifolia", "Rosa pendulina", "Rosa spinosissima", "Prielom Hornádu" , "Prielom Hornádu" , "Prielom Hornádu" , "Prielom Hornádu" , "Prielom Hornádu" , "Geastrum sp.", "Prielom Hornádu" , "Stratenský kaňon", "Hnilecká jelšina", "Succisa pratensis + Polygonia c-album", "Ligularia sibirica", "Hnilecká jelšina", "Hnilecká jelšina", "Coronabus :-)"],
   slaniska_2020: ["Trifolium fragiferum", "Lotus tenuis", "Sedlec", "", "", "","Slanisko u Nesytu", "Slanisko u Nesytu", "Slanisko u Nesytu", "Slanisko u Nesytu", "Dolní Dunajovice", "Dolní Dunajovice", "Zwingendorf", "Zwingendorf", "Zwingendorf", "Zwingendorf", "Zwingendorf; Althaea officinalis", "Zwingendorf", "Zwingendorf", "Nový Přerov", "Nový Přerov", "Nový Přerov", "Nový Přerov", "Starovický rybník", "Trkmanec-Rybníčky", "Trkmanec-Rybníčky", "Trkmanec-Rybníčky", "Dobré Pole", "Novosedly", "", "", "", "Dunajovické kopce; Crambe tataria", "Dunajovické kopce","Dunajovické kopce; Linum hirsutum", "Dunajovické kopce; Onopordon acanthium", "Dunajovické kopce"],
  macedonia_2019: ["", "NP Fruška Gora", "", "Nemoptera sinuata, stuholetka jižní", "kaňon Matka", "kaňon Matka", "kaňon Matka", "kaňon Matka", "Popova Shapka", "Popova Shapka", "Carex caryophyllea", "Popova Shapka", "", "Lilium albanicum", "Saxifraga sempervivum", "Popova Shapka", "Crocus scardicus", "Popova Shapka", "Popova Shapka", "", "Mavrovo", "Mavrovo", "Mavrovo", "Krani", "Krani", "NP Galičica", "NP Galičica", "NP Galičica", "NP Galičica, Dactylorhiza sambucina", "NP Galičica", "NP Galičica", "", "NP Pelister", "NP Pelister", "Demir Kapija", "Demir Kapija", "Centaurea sp.", "Demir Kapija", "Demir Kapija", "Ovče Pole", "Ovče Pole", "Ovče Pole", "Peganum harmala", ],
   corsica_2018: ["", "", "Ponte Novo", "Ponte Novo", "Monte Cintu, Calacuccia", "Monte Cintu, Daphne oleoides", "Monte Cintu, Heleborus lividus", "Lac de Nino", "Lac de Nino", "Lac de Nino", "Lac de Nino", "Lac de Nino", "Lac de Nino", "", "Bonifacio", "Bonifacio", "Bonifacio", "Bonifacio", "Bonifacio", "Bonifacio", "Bonifacio", "Bonifacio",  "", "", "", "", "", "", "Étang de Biguglia", "Étang de Biguglia", "Étang de Biguglia", "" ],
