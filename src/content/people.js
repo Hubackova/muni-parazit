@@ -383,20 +383,9 @@ export const peopleEn = {
 
   phdStudents: [
     {
-      id: `chudomelova`,
-      name: `Markéta Chudomelová`,
-      position: `PhD student`,
-      description: `Since Markéta graduated in Landscape Design at Mendel University, she has been making her way through the studies of Botany at Masaryk University. Still passionate for growing plants, she is taking care of her expanding home collection of succulents. With her colleagues from the Institute of Botany, she also ventured into experimental planting of woodland herbs. Her main research domain is forests and woodlands, where she spends time all-year-round, mostly collecting data. Markéta is working on her dissertation on the origin of spatial patterns in plant communities and, as a part of her work at the Institute of Botany, she is studying their temporal dynamics. She is drawn to detail, small scale and short time periods. Once, she would like to find there the answer to long-term community changes.`,
-      email: `323585@mail.muni.cz`,
-      phoneNumber: `541126221`,
-      orcid: `https://orcid.org/0000-0001-7845-4000`,
-      researchgate: `https://www.researchgate.net/profile/Marketa_Chudomelova`,
-      img: chudomelova
-    },
-    {
       id: `jaskova`,
       name: `Anni Kanerva Jašková`,
-      position: `PhD student, Researcher`,
+      position: `PhD student, Researcher (maternity leave) `,
       description: `Anni Jašková is a PhD student specializing in boreal vegetation. The main goal of her thesis is to create a unified European-scale vegetation classification of the boreal forests, but her interests also lay in theoretical ecology, especially plant strategies and plant-herbivore-interactions. Anni is originally from Finland, where she studied in the University of Turku, majoring in Ecology. Before undertaking the boreal vegetation, she started with the arctic ecosystems, investigating the interactions between lemmings and lichens in Fennoscandian tundra.`,
       email: `annipyy@mail.muni.cz`,
       phoneNumber: `549498395`,
@@ -798,20 +787,9 @@ export const peopleCz = {
   ],
   phdStudents: [
     {
-      id: `chudomelova`,
-      name: `Markéta Chudomelová`,
-      position: `Doktorand`,
-      description: `Markéta Chudomelová vystudovala bakalářský stupeň v oboru zahradní a krajinářské architektura na Mendelově univerzitě. Následovalo bakalářské, magisterské a současné doktorské studium botaniky na Masarykově univerzitě. Záliba v pěstování rostlin ji ale nepřešla: doma obhospodařuje postupně se rozšiřující sbírku sukulentů a spolu s kolegy z Botanického ústavu se pustila do zakládání experimentálních výsadeb lesních rostlin. Její doménou je hlavně les, kde se při sběru dat vyskytuje po celý rok. Píše doktorskou práci o původu prostorových struktur v rostlinných společenstvech a na Oddělení vegetační ekologie Botanického ústavu AV ČR se věnuje hlavně jejich změnám v čase. Zajímá ji spíš detail, drobné měřítko a kratší časové horizonty. Jednou by tam ráda našla klíč k pochopení dlouhodobých změn.`,
-      email: `323585@mail.muni.cz`,
-      phoneNumber: `541126221`,
-      orcid: `https://orcid.org/0000-0001-7845-4000`,
-      researchgate: `https://www.researchgate.net/profile/Marketa_Chudomelova`,
-      img: chudomelova
-    },
-    {
       id: `jaskova`,
       name: `Anni Kanerva Jašková`,
-      position: `Doktorand, výzkumník`,
+      position: `Doktorand, výzkumník (mateřská dovolená)`,
       description: `Anni Jašková pochází z Finska, kde studovala ekologii na Univerzitě v Turku. Je doktorandkou se specializací na boreální vegetaci. Hlavním cílem její práce je vytvoření jednotné klasifikace boreálních lesů v evropském měřítku, ale zajímá se také o teoretickou ekologii, zejména o rostlinné strategie a vztahy mezi rostlinami a býložravci. Před studiem boreálních společenstev zkoumala společenstva arktická, především vztahy mezi lumíky a lišejníky v tundře.`,
       email: `annipyy@mail.muni.cz`,
       phoneNumber: `549498395`,
@@ -867,6 +845,10 @@ export const peopleCz = {
 };
 
 export const formerPeople = [
+  {
+    name: `Markéta Chudomelová (2013–2020)`,
+    email: `marketa.chudomelova@ibot.cas.cz`
+  },
   {
     name: `Veronika Kalníková (2011–2020)`,
     email: `V.Kalnikova@seznam.cz`
