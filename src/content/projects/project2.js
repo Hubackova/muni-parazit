@@ -2,7 +2,7 @@ import React from "react";
 
 export const project2en = {
   name: "project2",
-  title: `Ecosystems of Siberia Diversity - Palaeoecological interpretation`,
+  title: `Ecosystems of Siberia - Diversity and palaeoecological interpretation`,
   body: (
     <div>
       <div>

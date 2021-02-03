@@ -160,20 +160,6 @@ export const peopleEn = {
 	  img: ceplova
     },
     {
-      id: `gotzenberger`,
-      name: `Lars Götzenberger`,
-      position: `Researcher`,
-      description: ``,
-      email: `lars.goetzenberger@gmail.com`,
-      phoneNumber: ``,
-      is: `https://www.muni.cz/en/people/238736-lars-goetzenberger`,
-      orcid: `https://orcid.org/0000-0003-3040-2900`,
-      publons: `https://publons.com/researcher/991157/lars-gotzenberger/`,
-      scholar: `https://scholar.google.com/citations?hl=cs&user=VD8lvYMAAAAJ`,
-      researchgate: `https://www.researchgate.net/profile/Lars_Goetzenberger`, 
-	  img: gotzenberger
-    },
-    {
       id: `hajek`,
       name: `Ondřej Hájek`,
       position: `Researcher`,
@@ -564,21 +550,7 @@ export const peopleCz = {
       researchgate: `https://www.researchgate.net/profile/Natalie_Ceplova`,
 	  img: ceplova
     },
-    {
-      id: `gotzenberger`,
-      name: `Lars Götzenberger`,
-      position: `Výzkumník`,
-      description: ``,
-      email: `lars.goetzenberger@gmail.com`,
-      phoneNumber: ``,
-      is: `https://www.muni.cz/lide/238736-lars-goetzenberger`,
-      orcid: `https://orcid.org/0000-0003-3040-2900`,
-      publons: `https://publons.com/researcher/991157/lars-gotzenberger/`,
-      scholar: `https://scholar.google.com/citations?hl=cs&user=VD8lvYMAAAAJ`,
-      researchgate: `https://www.researchgate.net/profile/Lars_Goetzenberger`, 
-	  img: gotzenberger
-    },
-    {
+       {
       id: `hajek`,
       name: `Ondřej Hájek`,
       position: `Výzkumník`,
@@ -845,6 +817,10 @@ export const peopleCz = {
 };
 
 export const formerPeople = [
+    {
+    name: `Lars Götzenberger (2018–2020)`,
+    email: `lars.goetzenberger@gmail.com`
+  },
   {
     name: `Markéta Chudomelová (2013–2020)`,
     email: `marketa.chudomelova@ibot.cas.cz`
