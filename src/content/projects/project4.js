@@ -33,7 +33,10 @@ export const project4en = {
       <div className="project-publication">
         <h3>Publications</h3>
         <h4>Research papers</h4>
-        <li>
+		<li><b>Lososová Z.</b>, <b>Divíšek J.</b>, <b>Chytrý M.</b>, <b>Götzenberger L.</b>, <b>Těšitel J.</b> & Mucina L. (2021): Macroevolutionary patterns in European vegetation. <i>Journal of Vegetation Science</i> 32: e12942. – {" "}
+          <a href="https://doi.org/10.1111/jvs.12942">DOI</a>
+        </li>
+		<li>
           <b>Divíšek J.</b>, <b>Chytrý M.</b>, Beckage B., Gotelli N.J., <b>Lososová Z.</b>, Pyšek P., Richardson D.M. &
           Molofsky J. (2018): Similarity of introduced plant species to native ones facilitates
           naturalization, but differences enhance invasion success. <i>Nature Communications</i> 9: 4631. –{" "}
@@ -129,6 +132,9 @@ export const project4cz = {
       <div className="project-publication">
         <h3>Publikace</h3>
         <h4>Odborné články</h4>
+			<li><b>Lososová Z.</b>, <b>Divíšek J.</b>, <b>Chytrý M.</b>, <b>Götzenberger L.</b>, <b>Těšitel J.</b> & Mucina L. (2021): Macroevolutionary patterns in European vegetation. <i>Journal of Vegetation Science</i> 32: e12942. – {" "}
+          <a href="https://doi.org/10.1111/jvs.12942">DOI</a>
+        </li>
         <li>
           <b>Divíšek J.</b>, <b>Chytrý M.</b>, Beckage B., Gotelli N.J., <b>Lososová Z.</b>, Pyšek P., Richardson D.M. &
           Molofsky J. (2018): Similarity of introduced plant species to native ones facilitates
