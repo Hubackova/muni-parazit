@@ -106,7 +106,7 @@ export const project3en = {
       <div className="project-publication">
         <h3>Publications</h3>
         <h4>Research papers</h4>
-        <li><b>Cubino J. P.</b>, Borowy D., Knapp S., <b>Lososová Z.</b>, Ricotta C., Siebert S., Cavender-Bares J., Sol D., Jeliazkov A. & Swan C. (2020): Contrasting Impacts of Cultivated Exotics on the Functional Diversity of Domestic Gardens in Three Regions with Different Aridity. <i>Ecosystems</i>.  – 
+        <li><b>Cubino J.P.</b>, Borowy D., Knapp S., <b>Lososová Z.</b>, Ricotta C., Siebert S., Cavender-Bares J., Sol D., Jeliazkov A. & Swan C. (2020): Contrasting Impacts of Cultivated Exotics on the Functional Diversity of Domestic Gardens in Three Regions with Different Aridity. <i>Ecosystems</i>.  – 
 {" "}<a href="https://doi.org/10.1007/s10021-020-00556-x">DOI</a>
 </li>
 <li>
