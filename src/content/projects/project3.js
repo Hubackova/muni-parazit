@@ -106,11 +106,24 @@ export const project3en = {
       <div className="project-publication">
         <h3>Publications</h3>
         <h4>Research papers</h4>
-        <li>
-          <b>Čeplová N.</b>, <b>Lososová Z.</b>, <b>Zelený D.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, Fajmon K., <b>Láníková D.</b>, 
-          <b> Preislerová Z.</b>, <b>Řehořek V.</b> &amp; <b>Tichý L.</b> (2015): Phylogenetic diversity of central-
-          European urban plant communities: effects of alien species and habitat types. <i>Preslia</i> 87:
-          1–16.
+        <li><b>Cubino J. P.</b>, Borowy D., Knapp S., <b>Lososová Z.</b>, Ricotta C., Siebert S., Cavender-Bares J., Sol D., Jeliazkov A. & Swan C. (2020): Contrasting Impacts of Cultivated Exotics on the Functional Diversity of Domestic Gardens in Three Regions with Different Aridity. <i>Ecosystems</i>.  – 
+{" "}<a href="https://doi.org/10.1007/s10021-020-00556-x">DOI</a>
+</li>
+<li>
+<b>Kalusová V.</b>, <b>Čeplová N.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, <b>Dřevojan P.</b>, Fajmon K., <b>Hájek O.</b>, <b>Kalníková V.</b>, <b>Novák P.</b>, <b>Řehořek V.</b>, <b>Těšitel J.</b>, <b>Tichý L.</b>, Wirth T. & <b>Lososová Z.</b> (2019): Similar responses of native and alien floras in European cities to climate. <i>Journal of Biogeography</i> 46: 1406–1418. –
+ {" "}<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.13591">fulltext in Wiley Online Library</a>
+</li>
+         <li>
+          <b>Lososová Z.</b>, <b>Tichý L.</b>, <b>Divíšek J.</b>, <b>Čeplová N.</b>, <b>Danihelka J.</b>, <b>Dřevojan P.</b>, Fajmon K.,
+          <b> Kalníková V.</b>, <b>Kalusová V.</b>, <b>Novák P.</b>, <b>Řehořek V.</b>, Wirth T. &amp; <b>Chytrý M.</b> (2018):
+          Projecting potential future shifts in species composition of European urban plant
+          communities. <i>Diversity and Distributions</i> 24: 765–775. –
+		  {" "}<a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/ddi.12725">fulltext in Wiley Online Library</a>
+        </li>
+<li>
+          <b>Kalusová V.</b>, <b>Čeplová N.</b> &amp; <b>Lososová Z.</b> (2017): Which traits influence the frequency of
+          plant species occurrence in urban habitat types? <i>Urban Ecosystems</i> 20: 65–75. –
+		   {" "}<a href="https://www.researchgate.net/publication/306087693_Which_traits_influence_the_frequency_of_plant_species_occurrence_in_urban_habitat_types">fulltext on ResearchGate</a>
         </li>
         <li>
           <b>Čeplová N.</b>, <b>Kalusová V.</b> &amp; <b>Lososová Z.</b> (2017): Effects of settlement size, urban heat
@@ -128,6 +141,23 @@ export const project3en = {
           pool in the representation of native and non-native species. <i>Biological Invasions</i> 18:
           3547–3560.
         </li>
+<li>
+          <b>Lososová Z.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, <b>Tichý L.</b> &amp; Ricotta C. (2016a): Biotic
+          homogenization of urban floras by alien species: the role of species turnover and richness
+          differences. <i>Journal of Vegetation Science</i> 27: 452–459.
+        </li>
+        <li>
+          <b>Lososová Z.</b>, <b>Čeplová N.</b>, <b>Chytrý M.</b>, <b>Tichý L.</b>, <b>Danihelka J.</b>, Fajmon K., <b>Láníková D.</b>,
+          <b> Preislerová Z.</b> &amp; <b>Řehořek V.</b> (2016b): Is phylogenetic diversity a good proxy for
+          functional diversity of plant communities? A case study from urban habitats. <i>Journal of
+          Vegetation Science</i> 27: 1036–1046.
+        </li>
+<li>
+          <b>Čeplová N.</b>, <b>Lososová Z.</b>, <b>Zelený D.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, Fajmon K., <b>Láníková D.</b>, 
+          <b> Preislerová Z.</b>, <b>Řehořek V.</b> &amp; <b>Tichý L.</b> (2015): Phylogenetic diversity of central-
+          European urban plant communities: effects of alien species and habitat types. <i>Preslia</i> 87:
+          1–16.
+        </li>
         <li>
           <b>Horsák M.</b>, <b>Lososová Z.</b>, Čejka T., Juřičková L. &amp; <b>Chytrý M.</b> (2013): Diversity and
           biotic homogenization of urban land-snail faunas in relation to habitat types and
@@ -141,11 +171,7 @@ export const project3en = {
           across Central European cities. <i>Journal of Biogeography</i> 39: 1101–1111. – 
 		  {" "}<a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2699.2011.02664.x/abstract">fulltext in Wiley Online Library</a>
         </li>
-        <li>
-          <b>Kalusová V.</b>, <b>Čeplová N.</b> &amp; <b>Lososová Z.</b> (2017): Which traits influence the frequency of
-          plant species occurrence in urban habitat types? <i>Urban Ecosystems</i> 20: 65–75. –
-		   {" "}<a href="https://www.researchgate.net/publication/306087693_Which_traits_influence_the_frequency_of_plant_species_occurrence_in_urban_habitat_types">fulltext on ResearchGate</a>
-        </li>
+        
         <li>
           <b>Lososová Z.</b>, <b>Chytrý M.</b>, <b>Tichý L.</b>, <b>Danihelka J.</b>, Fajmon K., <b>Hájek O.</b>, <b>Kintrová K.</b>, Kühn I.,
           <b> Láníková D.</b>, <b>Otýpková Z.</b> &amp; <b>Řehořek V.</b> (2012): Native and alien floras in urban
@@ -159,49 +185,35 @@ export const project3en = {
           floras depends on residence time of alien species and habitat types. <i>Biological
           Conservation</i> 145: 179–184.
         </li>
-        <li>
-          <b>Lososová Z.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, <b>Tichý L.</b> &amp; Ricotta C. (2016a): Biotic
-          homogenization of urban floras by alien species: the role of species turnover and richness
-          differences. <i>Journal of Vegetation Science</i> 27: 452–459.
-        </li>
-        <li>
-          <b>Lososová Z.</b>, <b>Čeplová N.</b>, <b>Chytrý M.</b>, <b>Tichý L.</b>, <b>Danihelka J.</b>, Fajmon K., <b>Láníková D.</b>,
-          <b> Preislerová Z.</b> &amp; <b>Řehořek V.</b> (2016b): Is phylogenetic diversity a good proxy for
-          functional diversity of plant communities? A case study from urban habitats. <i>Journal of
-          Vegetation Science</i> 27: 1036–1046.
-        </li>
-        <li>
-          <b>Lososová Z.</b>, <b>Tichý L.</b>, <b>Divíšek J.</b>, <b>Čeplová N.</b>, <b>Danihelka J.</b>, <b>Dřevojan P.</b>, Fajmon K.,
-          <b> Kalníková V.</b>, <b>Kalusová V.</b>, <b>Novák P.</b>, <b>Řehořek V.</b>, Wirth T. &amp; <b>Chytrý M.</b> (2018):
-          Projecting potential future shifts in species composition of European urban plant
-          communities. <i>Diversity and Distributions</i> 24: 765–775. –
-		  {" "}<a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/ddi.12725">fulltext in Wiley Online Library</a>
-        </li>
         <h4>Dissertation</h4>
         <li>
           <b>Čeplová N.</b> (2016): Diversity of European urban vegetation. Thesis. Ms. Masaryk University,
           Brno.
         </li>
         <h4>Popularizations</h4>
-        <li>
-          <b>Čeplová N.</b> &amp; <b>Kalusová V.</b> (2016): Jak velikost města ovlivňuje druhové složení
-          vegetace? <i>Fórum ochrany přírody</i> 3/4: 30–34.
-        </li>
-        <li>
+         <li>
           <b>Lososová Z.</b> (2018): Diverzita rostlinných společenstev evropských měst. <i>Zprávy České
           botanické společnosti</i> 53: 207–216.
         </li>
-        <li>
-          <b>Lososová Z.</b> &amp; <b>Danihelka J.</b> (2014): Proč je flóra velkoměst pestrá. <i>Živa</i> 2014/6:
-          278–281.
+<li>
+          Pergl J., <b>Lososová Z.</b>, Sádlo J. &amp; Štajerová K. (2018): Rostlinné invaze na
+          antropogenních stanovištích. <i>Živa</i> 5: 233–234.
+        </li>   
+ <li>
+ <b>Lososová Z.</b>, Kovář P., Medvecká J., Mudrák O., Pergl J. & Prach K. (2018): Úvod: Flóra a vegetace antropogenních stanovišť. <i>Zprávy České botanické společnosti</i> 53: 199–205.
+</li>
+
+<li>
+          <b>Čeplová N.</b> &amp; <b>Kalusová V.</b> (2016): Jak velikost města ovlivňuje druhové složení
+          vegetace? <i>Fórum ochrany přírody</i> 3/4: 30–34.
         </li>
-        <li>
+       <li>
           <b>Lososová Z.</b>, Šumberová K., <b>Tichý L.</b>, <b>Vymazalová M.</b> &amp; <b>Danihelka J.</b> (2015): Květena Brna
           – současný stav poznání. <i>Živa</i> 2015/6: 289–292.
         </li>
         <li>
-          Pergl J., <b>Lososová Z.</b>, Sádlo J. &amp; Štajerová K. (2018): Rostlinné invaze na
-          antropogenních stanovištích. <i>Živa</i> 5: 233–234.
+          <b>Lososová Z.</b> &amp; <b>Danihelka J.</b> (2014): Proč je flóra velkoměst pestrá. <i>Živa</i> 2014/6:
+          278–281.
         </li>
       </div>
     </div>
@@ -211,16 +223,21 @@ export const project3cz = {
   name: "project3",
   title: `Biodiverzita měst`,
   body: (
-    <div>
+        <div>
       <div>
         <h3>Koordinátor</h3> Zdeňka Lososová
       </div>
       <div>
-        <h3>Spolupráce</h3> Tomáš Čejka (SAV Bratislava), Natálie Čeplová, Jiří Danihelka, Karel
+        <h3>Spolupracovníci</h3> Tomáš Čejka (SAV Bratislava), Natálie Čeplová, Jiří Danihelka, Karel
         Fajmon (ČSOP Bílé Karpaty), Michal Horsák, Milan Chytrý, Lucie Juřičková (UK Praha),
         Veronika Kalusová, Deana Láníková, Zdenka Preislerová, Vladimír Řehořek, Lubomír Tichý,
         Bohuslav Uher
       </div>
+	   <div>{" "}
+	   </div>
+<div><b>Další spolupracovníci</b></div>
+<div>Kolegové podílející se na mapování květeny města Brna
+</div>
       <div>
         <h3>Finanční podpora</h3>
          <li>2014–2016: Grantová agentura České republiky, projekt č. 14-10723S</li>
@@ -230,15 +247,15 @@ export const project3cz = {
       <div>
         <h3>Cíle</h3>
         <div>
-          Projekt se zabývá biodiverzitou velkých středoevropských měst. Pomocí standardizovaných
+          Projekt se zabývá biodiverzitou velkých evropských měst. Pomocí standardizovaných
           protokolů sběru dat jsme ve vybraných antropogenních biotopech a vybraných městech,
-          reprezentujících různé makroklimatické a socioekonomické oblasti střední Evropy, studovali
-          tři modelové taxonomické a ekologické skupiny: cévnaté rostliny, terestrické plže a
-          epilitické a epixylické terestrické řasy a sinice. Na těchto organismech jsme řešili čtyři
+          reprezentujících různé makroklimatické a socioekonomické oblasti Evropy, studovali
+          především diverzitu cévnatých rostlin. Získali jsme však také údaje o výskytu terestrických plžů a
+          epilitických a epixylických terestrických řas a sinic. Na těchto organismech jsme řešili čtyři
           hlavní okruhy otázek
         </div>
         <li>
-          Jak závisí šíření nepůvodních druhů na makroklimatu různých částí střední Evropy a na
+          Jak závisí šíření nepůvodních druhů na makroklimatu různých částí Evropy a na
           různých typech městských biotopů?
         </li>
         <li>
@@ -254,14 +271,47 @@ export const project3cz = {
           Jsou trendy v diverzitě městských biotopů konzistentní v různých taxonomických skupinách?
         </li>
       </div>
+	  <div className="main-results">
+	  <div>
+        <h3>Hlavní výsledky</h3>
+        <div>
+		<h4>Diverzita evropské městské vegetace
+		</h4>
+</div>
+
+Srovnáním druhové bohatosti sedmi typických městských stanovišť v evropských velkoměstech jsme ukázali, že zatímco města v nejsušších a nejteplejších oblastech jsou druhově chudá a obsahují i menší podíl nepůvodních volně se šířících druhů, města v chladnějších a humidnějších částech Evropy jsou druhově bohatší, avšak také náchylnější k invazi nepůvodních druhů (Lososová et al. 2011, Lososová et al. 2012a,b, Chytrý et al. 2012; Čeplová et al. 2015; Kalusová et al. 2019). Podobné trendy byly prokázány u suchozemských plžů (Lososová et al. 2011, Horsák et al. 2013, 2016). Pomocí vlastností druhů jsme ukázali funkční typy rostlin, které jsou ve městském prostředí úspěšné (Lososová et al. 2016; Kalusová et al. 2017, Čeplová et al. 2017). Na základě našich data můžeme predikovat, jak se bude pravděpodobně měnit květena městského prostředí s postupnou změnou klimatu (Lososová et al. 2019). 
+</div>
+<div>
+<h4>Květena města Brna</h4>
+</div>
+<div>
+V roce 2012 jsme zahájili síťové mapování spontánně se vyskytujících cévnatých rostlin Brna. Za uplynulé sezony jsme získali více než 60 000 záznamů o výskytu 1524 taxonů. Dosud jsme potvrdili výskyt některých vzácných a ohrožených druhů rostlin. Z nich patří 16 do kategorie kriticky ohrožených (C1) a 32 do kategorie silně ohrožených (C2) červeného seznamu. Mezi nimi jsou například ty, které přežívají v ostrůvcích skalních stepí a lesostepí, např. hadinec červený (<i>Echium maculatum</i>), mochna skalní (<i>Drymocallis rupestris</i>) a lněnka Dollinerova (<i>Thesium dollineri</i>). Dále jsme zaznamenali vzácné polní plevele a ruderální druhy, např. zárazu hořčíkovou (<i>Orobanche picridis</i>), prorostlík okrouhlolistý (<i>Bupleurum rotundifolium</i>), vochlici hřebenitou (<i>Scandix pecten-veneris</i>), hojník chlumní (<i>Sideritis montana</i>), hořinku východní (<i>Conringia orientalis</i>), zběhovec trojklanný (<i>Ajuga chamaepitys</i>), merlík zední (<i>Chenopodium murale</i>) a průtržník chlupatý (<i>Herniaria hirsuta</i>). Podrobnější údaje o dosavadním stavu mapování květeny Brna byly publikovány v časopise Živa (Lososová a kol. 6/2015). V souvislosti s tímto projektem bylo obhájeno množství bakalářských a diplomových prací zabývajících se podrobným studiem květeny vybraných částí města. Na příkladu brněnské květeny jsme ukázali, že pěstované druhy mohou být významným zdrojem invazních rostlin (Čeplová et al. 2017).
+Data jsou uložena v databázi {" "}<a href="https://www.sci.muni.cz/vraticka/www/homepage/filter/">vratička</a>, která je spuštěna na webu ústavu botaniky a zoologie. 
+	Díky údajům získaným pomocí tohoto síťového mapování ukážeme rozdíly v nárocích rostlin na vybrané ekologické a socioekonomické faktory. Můžeme se ptát, co ovlivňuje v městském prostředí výskyt vybraných skupin druhů. V jakým podmínkách přežívají vzácné druhy. Co ovlivňuje šíření nepůvodních druhů. Jak se liší ekologické nároky rostlin v různých částech města.
+</div>
+</div>
+
       <div className="project-publication">
         <h3>Publikace</h3>
         <h4>Odborné články</h4>
-        <li>
-          <b>Čeplová N.</b>, <b>Lososová Z.</b>, <b>Zelený D.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, Fajmon K., <b>Láníková D.</b>, 
-          <b> Preislerová Z.</b>, <b>Řehořek V.</b> &amp; <b>Tichý L.</b> (2015): Phylogenetic diversity of central-
-          European urban plant communities: effects of alien species and habitat types. <i>Preslia</i> 87:
-          1–16.
+		<li><b>Cubino J. P.</b>, Borowy D., Knapp S., <b>Lososová Z.</b>, Ricotta C., Siebert S., Cavender-Bares J., Sol D., Jeliazkov A. & Swan C. (2020): Contrasting Impacts of Cultivated Exotics on the Functional Diversity of Domestic Gardens in Three Regions with Different Aridity. <i>Ecosystems</i>.  – 
+{" "}<a href="https://doi.org/10.1007/s10021-020-00556-x">DOI</a>
+</li>
+<li>
+<b>Kalusová V.</b>, <b>Čeplová N.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, <b>Dřevojan P.</b>, Fajmon K., <b>Hájek O.</b>, <b>Kalníková V.</b>, <b>Novák P.</b>, <b>Řehořek V.</b>, <b>Těšitel J.</b>, <b>Tichý L.</b>, Wirth T. & <b>Lososová Z.</b> (2019): Similar responses of native and alien floras in European cities to climate. <i>Journal of Biogeography</i> 46: 1406–1418. –
+ {" "}<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.13591">fulltext in Wiley Online Library</a>
+</li>
+         <li>
+          <b>Lososová Z.</b>, <b>Tichý L.</b>, <b>Divíšek J.</b>, <b>Čeplová N.</b>, <b>Danihelka J.</b>, <b>Dřevojan P.</b>, Fajmon K.,
+          <b> Kalníková V.</b>, <b>Kalusová V.</b>, <b>Novák P.</b>, <b>Řehořek V.</b>, Wirth T. &amp; <b>Chytrý M.</b> (2018):
+          Projecting potential future shifts in species composition of European urban plant
+          communities. <i>Diversity and Distributions</i> 24: 765–775. –
+		  {" "}<a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/ddi.12725">fulltext in Wiley Online Library</a>
+        </li>
+<li>
+          <b>Kalusová V.</b>, <b>Čeplová N.</b> &amp; <b>Lososová Z.</b> (2017): Which traits influence the frequency of
+          plant species occurrence in urban habitat types? <i>Urban Ecosystems</i> 20: 65–75. –
+		   {" "}<a href="https://www.researchgate.net/publication/306087693_Which_traits_influence_the_frequency_of_plant_species_occurrence_in_urban_habitat_types">fulltext on ResearchGate</a>
         </li>
         <li>
           <b>Čeplová N.</b>, <b>Kalusová V.</b> &amp; <b>Lososová Z.</b> (2017): Effects of settlement size, urban heat
@@ -279,6 +329,23 @@ export const project3cz = {
           pool in the representation of native and non-native species. <i>Biological Invasions</i> 18:
           3547–3560.
         </li>
+<li>
+          <b>Lososová Z.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, <b>Tichý L.</b> &amp; Ricotta C. (2016a): Biotic
+          homogenization of urban floras by alien species: the role of species turnover and richness
+          differences. <i>Journal of Vegetation Science</i> 27: 452–459.
+        </li>
+        <li>
+          <b>Lososová Z.</b>, <b>Čeplová N.</b>, <b>Chytrý M.</b>, <b>Tichý L.</b>, <b>Danihelka J.</b>, Fajmon K., <b>Láníková D.</b>,
+          <b> Preislerová Z.</b> &amp; <b>Řehořek V.</b> (2016b): Is phylogenetic diversity a good proxy for
+          functional diversity of plant communities? A case study from urban habitats. <i>Journal of
+          Vegetation Science</i> 27: 1036–1046.
+        </li>
+<li>
+          <b>Čeplová N.</b>, <b>Lososová Z.</b>, <b>Zelený D.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, Fajmon K., <b>Láníková D.</b>, 
+          <b> Preislerová Z.</b>, <b>Řehořek V.</b> &amp; <b>Tichý L.</b> (2015): Phylogenetic diversity of central-
+          European urban plant communities: effects of alien species and habitat types. <i>Preslia</i> 87:
+          1–16.
+        </li>
         <li>
           <b>Horsák M.</b>, <b>Lososová Z.</b>, Čejka T., Juřičková L. &amp; <b>Chytrý M.</b> (2013): Diversity and
           biotic homogenization of urban land-snail faunas in relation to habitat types and
@@ -292,11 +359,7 @@ export const project3cz = {
           across Central European cities. <i>Journal of Biogeography</i> 39: 1101–1111. – 
 		  {" "}<a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2699.2011.02664.x/abstract">fulltext in Wiley Online Library</a>
         </li>
-        <li>
-          <b>Kalusová V.</b>, <b>Čeplová N.</b> &amp; <b>Lososová Z.</b> (2017): Which traits influence the frequency of
-          plant species occurrence in urban habitat types? <i>Urban Ecosystems</i> 20: 65–75. –
-		   {" "}<a href="https://www.researchgate.net/publication/306087693_Which_traits_influence_the_frequency_of_plant_species_occurrence_in_urban_habitat_types">fulltext on ResearchGate</a>
-        </li>
+        
         <li>
           <b>Lososová Z.</b>, <b>Chytrý M.</b>, <b>Tichý L.</b>, <b>Danihelka J.</b>, Fajmon K., <b>Hájek O.</b>, <b>Kintrová K.</b>, Kühn I.,
           <b> Láníková D.</b>, <b>Otýpková Z.</b> &amp; <b>Řehořek V.</b> (2012): Native and alien floras in urban
@@ -310,24 +373,7 @@ export const project3cz = {
           floras depends on residence time of alien species and habitat types. <i>Biological
           Conservation</i> 145: 179–184.
         </li>
-        <li>
-          <b>Lososová Z.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, <b>Tichý L.</b> &amp; Ricotta C. (2016a): Biotic
-          homogenization of urban floras by alien species: the role of species turnover and richness
-          differences. <i>Journal of Vegetation Science</i> 27: 452–459.
-        </li>
-        <li>
-          <b>Lososová Z.</b>, <b>Čeplová N.</b>, <b>Chytrý M.</b>, <b>Tichý L.</b>, <b>Danihelka J.</b>, Fajmon K., <b>Láníková D.</b>,
-          <b> Preislerová Z.</b> &amp; <b>Řehořek V.</b> (2016b): Is phylogenetic diversity a good proxy for
-          functional diversity of plant communities? A case study from urban habitats. <i>Journal of
-          Vegetation Science</i> 27: 1036–1046.
-        </li>
-        <li>
-          <b>Lososová Z.</b>, <b>Tichý L.</b>, <b>Divíšek J.</b>, <b>Čeplová N.</b>, <b>Danihelka J.</b>, <b>Dřevojan P.</b>, Fajmon K.,
-          <b> Kalníková V.</b>, <b>Kalusová V.</b>, <b>Novák P.</b>, <b>Řehořek V.</b>, Wirth T. &amp; <b>Chytrý M.</b> (2018):
-          Projecting potential future shifts in species composition of European urban plant
-          communities. <i>Diversity and Distributions</i> 24: 765–775. –
-		  {" "}<a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/ddi.12725">fulltext in Wiley Online Library</a>
-        </li>
+        
         <h4>Disertace</h4>
         <li>
           <b>Čeplová N.</b> (2016): Diversity of European urban vegetation. Thesis. Ms. Masaryk University,
@@ -335,24 +381,28 @@ export const project3cz = {
         </li>
         <h4>Popularizační články</h4>
         <li>
-          <b>Čeplová N.</b> &amp; <b>Kalusová V.</b> (2016): Jak velikost města ovlivňuje druhové složení
-          vegetace? <i>Fórum ochrany přírody</i> 3/4: 30–34.
-        </li>
-        <li>
           <b>Lososová Z.</b> (2018): Diverzita rostlinných společenstev evropských měst. <i>Zprávy České
           botanické společnosti</i> 53: 207–216.
         </li>
-        <li>
-          <b>Lososová Z.</b> &amp; <b>Danihelka J.</b> (2014): Proč je flóra velkoměst pestrá. <i>Živa</i> 2014/6:
-          278–281.
+<li>
+          Pergl J., <b>Lososová Z.</b>, Sádlo J. &amp; Štajerová K. (2018): Rostlinné invaze na
+          antropogenních stanovištích. <i>Živa</i> 5: 233–234.
+        </li>   
+ <li>
+ <b>Lososová Z.</b>, Kovář P., Medvecká J., Mudrák O., Pergl J. & Prach K. (2018): Úvod: Flóra a vegetace antropogenních stanovišť. <i>Zprávy České botanické společnosti</i> 53: 199–205.
+</li>
+
+<li>
+          <b>Čeplová N.</b> &amp; <b>Kalusová V.</b> (2016): Jak velikost města ovlivňuje druhové složení
+          vegetace? <i>Fórum ochrany přírody</i> 3/4: 30–34.
         </li>
-        <li>
+       <li>
           <b>Lososová Z.</b>, Šumberová K., <b>Tichý L.</b>, <b>Vymazalová M.</b> &amp; <b>Danihelka J.</b> (2015): Květena Brna
           – současný stav poznání. <i>Živa</i> 2015/6: 289–292.
         </li>
         <li>
-          Pergl J., <b>Lososová Z.</b>, Sádlo J. &amp; Štajerová K. (2018): Rostlinné invaze na
-          antropogenních stanovištích. <i>Živa</i> 5: 233–234.
+          <b>Lososová Z.</b> &amp; <b>Danihelka J.</b> (2014): Proč je flóra velkoměst pestrá. <i>Živa</i> 2014/6:
+          278–281.
         </li>
       </div>
     </div>

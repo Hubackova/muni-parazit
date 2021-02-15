@@ -34,19 +34,6 @@ export const project4en = {
         <h3>Publications</h3>
         <h4>Research papers</h4>
         <li>
-          <b>Čeplová N.</b>, <b>Lososová Z.</b>, <b>Zelený D.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, Fajmon K., <b> Láníková D.</b>, <b>Preislerová Z.</b>, <b>Řehořek V.</b> &amp; <b>Tichý L.</b> (2015): Phylogenetic diversity of central-
-          European urban plant communities: effects of alien species and habitat types. <i>Preslia</i> 87:
-          1–16. –{" "}
-          <a href="http://www.sci.muni.cz/botany/chytry/Ceplova_etal2015_Preslia.pdf">
-            fulltext in PDF
-          </a>
-        </li>
-        <li>
-          de Bello F., Šmilauer P., Diniz-Filho J.A.F., Carmona C.P., <b>Lososová Z.</b>, Herben T. &
-          Götzenberger L. (2017): Decoupling phylogenetic and functional diversity to reveal hidden
-          signals in community assembly. <i>Methods in Ecology and Evolution</i> 8: 1200–1211.
-        </li>
-        <li>
           <b>Divíšek J.</b>, <b>Chytrý M.</b>, Beckage B., Gotelli N.J., <b>Lososová Z.</b>, Pyšek P., Richardson D.M. &
           Molofsky J. (2018): Similarity of introduced plant species to native ones facilitates
           naturalization, but differences enhance invasion success. <i>Nature Communications</i> 9: 4631. –{" "}
@@ -61,7 +48,13 @@ export const project4en = {
             fulltext in pdf
           </a>
         </li>
-        <li>
+		<li>
+          de Bello F., Šmilauer P., Diniz-Filho J.A.F., Carmona C.P., <b>Lososová Z.</b>, Herben T. &
+          Götzenberger L. (2017): Decoupling phylogenetic and functional diversity to reveal hidden
+          signals in community assembly. <i>Methods in Ecology and Evolution</i> 8: 1200–1211.
+        </li>
+
+   <li>
           <b>Lososová Z.</b>, <b>Čeplová N.</b>, <b>Chytrý M.</b>, <b>Tichý L.</b>, <b>Danihelka J.</b>, Fajmon K., <b>Láníková D.</b>,
           <b> Preislerová Z.</b> & <b>Řehořek V.</b> (2016): Is phylogenetic diversity a good proxy for functional
           diversity of plant communities? A case study from urban habitats. <i>Journal of Vegetation
@@ -70,6 +63,18 @@ export const project4en = {
             fulltext in Wiley Online Library
           </a>
         </li>
+
+<li>
+          <b>Čeplová N.</b>, <b>Lososová Z.</b>, <b>Zelený D.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, Fajmon K., <b> Láníková D.</b>, <b>Preislerová Z.</b>, <b>Řehořek V.</b> &amp; <b>Tichý L.</b> (2015): Phylogenetic diversity of central-
+          European urban plant communities: effects of alien species and habitat types. <i>Preslia</i> 87:
+          1–16. –{" "}
+          <a href="http://www.sci.muni.cz/botany/chytry/Ceplova_etal2015_Preslia.pdf">
+            fulltext in PDF
+          </a>
+        </li>
+        
+        
+     
         <li>
           <b>Lososová Z.</b>, <b>Šmarda P.</b>, <b>Chytrý M.</b>, Purschke O., Pyšek P., Sádlo J., <b>Tichý L.</b> & Winter M. 
           (2015): Phylogenetic structure of plant species pools reflects habitat age on the
@@ -125,19 +130,6 @@ export const project4cz = {
         <h3>Publikace</h3>
         <h4>Odborné články</h4>
         <li>
-          <b>Čeplová N.</b>, <b>Lososová Z.</b>, <b>Zelený D.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, Fajmon K., <b> Láníková D.</b>, <b>Preislerová Z.</b>, <b>Řehořek V.</b> &amp; <b>Tichý L.</b> (2015): Phylogenetic diversity of central-
-          European urban plant communities: effects of alien species and habitat types. <i>Preslia</i> 87:
-          1–16. –{" "}
-          <a href="http://www.sci.muni.cz/botany/chytry/Ceplova_etal2015_Preslia.pdf">
-            fulltext in PDF
-          </a>
-        </li>
-        <li>
-          de Bello F., Šmilauer P., Diniz-Filho J.A.F., Carmona C.P., <b>Lososová Z.</b>, Herben T. &
-          Götzenberger L. (2017): Decoupling phylogenetic and functional diversity to reveal hidden
-          signals in community assembly. <i>Methods in Ecology and Evolution</i> 8: 1200–1211.
-        </li>
-        <li>
           <b>Divíšek J.</b>, <b>Chytrý M.</b>, Beckage B., Gotelli N.J., <b>Lososová Z.</b>, Pyšek P., Richardson D.M. &
           Molofsky J. (2018): Similarity of introduced plant species to native ones facilitates
           naturalization, but differences enhance invasion success. <i>Nature Communications</i> 9: 4631. –{" "}
@@ -152,7 +144,13 @@ export const project4cz = {
             fulltext in pdf
           </a>
         </li>
-        <li>
+		<li>
+          de Bello F., Šmilauer P., Diniz-Filho J.A.F., Carmona C.P., <b>Lososová Z.</b>, Herben T. &
+          Götzenberger L. (2017): Decoupling phylogenetic and functional diversity to reveal hidden
+          signals in community assembly. <i>Methods in Ecology and Evolution</i> 8: 1200–1211.
+        </li>
+
+   <li>
           <b>Lososová Z.</b>, <b>Čeplová N.</b>, <b>Chytrý M.</b>, <b>Tichý L.</b>, <b>Danihelka J.</b>, Fajmon K., <b>Láníková D.</b>,
           <b> Preislerová Z.</b> & <b>Řehořek V.</b> (2016): Is phylogenetic diversity a good proxy for functional
           diversity of plant communities? A case study from urban habitats. <i>Journal of Vegetation
@@ -161,6 +159,18 @@ export const project4cz = {
             fulltext in Wiley Online Library
           </a>
         </li>
+
+<li>
+          <b>Čeplová N.</b>, <b>Lososová Z.</b>, <b>Zelený D.</b>, <b>Chytrý M.</b>, <b>Danihelka J.</b>, Fajmon K., <b> Láníková D.</b>, <b>Preislerová Z.</b>, <b>Řehořek V.</b> &amp; <b>Tichý L.</b> (2015): Phylogenetic diversity of central-
+          European urban plant communities: effects of alien species and habitat types. <i>Preslia</i> 87:
+          1–16. –{" "}
+          <a href="http://www.sci.muni.cz/botany/chytry/Ceplova_etal2015_Preslia.pdf">
+            fulltext in PDF
+          </a>
+        </li>
+        
+        
+     
         <li>
           <b>Lososová Z.</b>, <b>Šmarda P.</b>, <b>Chytrý M.</b>, Purschke O., Pyšek P., Sádlo J., <b>Tichý L.</b> & Winter M. 
           (2015): Phylogenetic structure of plant species pools reflects habitat age on the
