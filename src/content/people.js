@@ -32,6 +32,8 @@ import ceplova from "../../static/images/people/ceplova.jpg";
 import cubino from "../../static/images/people/cubino.jpg";
 import gotzenberger from "../../static/images/people/gotzenberger.jpg";
 import kolenyova from "../../static/images/people/kolenyova.jpg";
+import midolo from "../../static/images/people/midolo.jpg";
+
 
 
 
@@ -364,8 +366,22 @@ export const peopleEn = {
       scholar: `https://scholar.google.com/citations?hl=cs&user=yQeqIyQAAAAJ`,
       researchgate: `https://www.researchgate.net/profile/Corrado_Marceno`, 
 	  img: marceno
+    },
+    {
+      id: `midolo`,
+      name: `Gabriele Midolo`,
+      position: `Postdoc`,
+      description: `Gabriele Midolo concluded his PhD at the Free University of Bozen-Bolzano (Italy) in 2021 where he investigated intraspecific trait variability and individual fitness of plants across environmental and geographic gradients. Currently he is working as postdoctoral researcher at the Department of Botany and Zoology of Masaryk University, focusing on European vegetation classification for climate feedbacks within the FeedBacks project. He is broadly interested in functional ecology, elevational gradients, species distribution models and meta-analysis.`,
+      email: `gabriele.midolo@gmail.com`,
+      is: ``,
+      orcid: `https://orcid.org/0000-0003-1316-2546`,
+      publons: `https://publons.com/researcher/4162948/gabriele-midolo/`,
+      scholar: `https://scholar.google.com/citations?user=E8yonpAAAAAJ&hl=it`,
+      researchgate: `https://www.researchgate.net/profile/Gabriele-Midolo`, 
+	  img: midolo
     }
   ],
+  
 
   phdStudents: [
     {
@@ -755,6 +771,19 @@ export const peopleCz = {
       scholar: `https://scholar.google.com/citations?hl=cs&user=yQeqIyQAAAAJ`,
       researchgate: `https://www.researchgate.net/profile/Corrado_Marceno`,
 	  img: marceno
+    },
+    {
+      id: `midolo`,
+      name: `Gabriele Midolo`,
+      position: `Postdoc`,
+      description: ``,
+      email: `gabriele.midolo@gmail.com`,
+      is: ``,
+      orcid: `https://orcid.org/0000-0003-1316-2546`,
+      publons: `https://publons.com/researcher/4162948/gabriele-midolo/`,
+      scholar: `https://scholar.google.com/citations?user=E8yonpAAAAAJ&hl=it`,
+      researchgate: `https://www.researchgate.net/profile/Gabriele-Midolo`, 
+	  img: midolo
     }
   ],
   phdStudents: [
@@ -883,7 +912,16 @@ export const formerPeople = [
 ];
 
 export const visitingScientistsCz = [
+{
+    name: `Dasha Shyriaieva (Ukrajina, 2021)`
+  },
   {
+    name: `Tatyana Vakhlamova (Rusko, 2021)`
+  }, 
+  {
+    name: `Marc Riera (Španělsko, 2021)`
+  },
+   {
     name: `Tiina Kolari (Finsko, 2019)`
   },
   {
@@ -991,6 +1029,15 @@ export const visitingScientistsCz = [
 ];
 
 export const visitingScientistsEn = [
+{
+name: `Dasha Shyriaieva (Ukraine, 2021)`
+  },
+  {
+    name: `Tatyana Vakhlamova (Russia, 2021)`
+  }, 
+  {
+    name: `Marc Riera (Spain, 2021)`
+  },
   {
     name: `Tiina Kolari (Finland, 2019)`
   },
