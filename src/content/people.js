@@ -33,6 +33,7 @@ import cubino from "../../static/images/people/cubino.jpg";
 import gotzenberger from "../../static/images/people/gotzenberger.jpg";
 import kolenyova from "../../static/images/people/kolenyova.jpg";
 import midolo from "../../static/images/people/midolo.jpg";
+import patsch from "../../static/images/people/patsch.jpg";
 
 
 
@@ -379,7 +380,23 @@ export const peopleEn = {
       scholar: `https://scholar.google.com/citations?user=E8yonpAAAAAJ&hl=it`,
       researchgate: `https://www.researchgate.net/profile/Gabriele-Midolo`, 
 	  img: midolo
-    }
+    },
+		  {
+      id: `patsch`,
+      name: `Ricarda Pätsch`,
+      position: `Postdoc`,
+      description: `Ricarda Pätsch is a vegetation ecologist interested in plant diversity patterns of semi-natural and natural open landscapes on a local as well as on a transnational scale. In 2019, she defended her PhD on salt marshes of the Baltic Sea coast at the Universities of Hildesheim and Goettingen, followed by a postdoctoral stay in the Wagner Ecological Lab at the University of Alberta, Canada, where she studied Bedrock Meadows occurring in the mid-elevations of the Interior Pacific NW North America. Her research aims to describe, protect and preserve long-term resilient plant communities and habitat. She supports the idea of commonly shared vegetation databases and data repositories by formalizing non-standardized vegetation data, by digitizing historical data, and by serving as a database custodian.
+Here at the Department of Botany and Zoology of Masaryk University, Ricarda studies salt affected vegetation in Europe, aiming to facilitate the identification of geographic patterns, main driving factors of species composition and the development of European habitat typologies as an important basis for decision-making processes in nature conservation. 
+Ricarda is convinced that respectful and mutually supportive cooperation facilitates a common understanding of challenges, tasks and goal-oriented solutions.
+`,
+      email: `ricarda.paetsch@gmail.com`,
+      is: `https://www.muni.cz/en/people/245871-ricarda-paetsch`,
+      orcid: `https://orcid.org/0000-0002-3349-0910`,
+      publons: `https://publons.com/researcher/2397480/ricarda-patsch/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=C0wGH-sAAAAJ`,
+	  personal: `https://ricardapaetsch.weebly.com/`,
+	  img: patsch
+    },
   ],
   
 
@@ -784,7 +801,20 @@ export const peopleCz = {
       scholar: `https://scholar.google.com/citations?user=E8yonpAAAAAJ&hl=it`,
       researchgate: `https://www.researchgate.net/profile/Gabriele-Midolo`, 
 	  img: midolo
-    }
+    }, 
+	  {
+      id: `patsch`,
+      name: `Ricarda Pätsch`,
+      position: `Postdoc`,
+      description: ``,
+      email: `ricarda.paetsch@gmail.com`,
+      is: `https://www.muni.cz/lide/245871-ricarda-paetsch`,
+      orcid: `https://orcid.org/0000-0002-3349-0910`,
+      publons: `https://publons.com/researcher/2397480/ricarda-patsch/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=C0wGH-sAAAAJ`,
+	  personal: `https://ricardapaetsch.weebly.com/`,
+	  img: patsch
+    },
   ],
   phdStudents: [
     {
