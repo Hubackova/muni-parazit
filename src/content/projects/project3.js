@@ -106,6 +106,10 @@ export const project3en = {
       <div className="project-publication">
         <h3>Publications</h3>
         <h4>Research papers</h4>
+		<li>Swan C. M., Brown B., Borowy D., Cavender-Bares J., Jeliazkov A., Knapp S., <b>Lososová Z.</b>, <b>Cubino J. P.</b>, Pavoine S., Ricotta C. & Sol D. (2021): A framework for understanding how biodiversity patterns unfold across
+multiple spatial scales in urban ecosystems. <i>Ecosphere</i> 12:e03650.  – 
+{" "}<a href="https://doi.org/10.1002/ecs2.3650">DOI</a>
+</li>
         <li><b>Cubino J. P.</b>, Borowy D., Knapp S., <b>Lososová Z.</b>, Ricotta C., Siebert S., Cavender-Bares J., Sol D., Jeliazkov A. & Swan C. (2020): Contrasting Impacts of Cultivated Exotics on the Functional Diversity of Domestic Gardens in Three Regions with Different Aridity. <i>Ecosystems</i>.  – 
 {" "}<a href="https://doi.org/10.1007/s10021-020-00556-x">DOI</a>
 </li>
@@ -294,6 +298,10 @@ Data jsou uložena v databázi {" "}<a href="https://www.sci.muni.cz/vraticka/ww
       <div className="project-publication">
         <h3>Publikace</h3>
         <h4>Odborné články</h4>
+		<li>Swan C. M., Brown B., Borowy D., Cavender-Bares J., Jeliazkov A., Knapp S., <b>Lososová Z.</b>, <b>Cubino J. P.</b>, Pavoine S., Ricotta C. & Sol D. (2021): A framework for understanding how biodiversity patterns unfold across
+multiple spatial scales in urban ecosystems. <i>Ecosphere</i> 12:e03650.  – 
+{" "}<a href="https://doi.org/10.1002/ecs2.3650">DOI</a>
+</li>
 		<li><b>Cubino J. P.</b>, Borowy D., Knapp S., <b>Lososová Z.</b>, Ricotta C., Siebert S., Cavender-Bares J., Sol D., Jeliazkov A. & Swan C. (2020): Contrasting Impacts of Cultivated Exotics on the Functional Diversity of Domestic Gardens in Three Regions with Different Aridity. <i>Ecosystems</i>.  – 
 {" "}<a href="https://doi.org/10.1007/s10021-020-00556-x">DOI</a>
 </li>

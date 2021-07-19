@@ -793,7 +793,7 @@ export const peopleCz = {
       id: `midolo`,
       name: `Gabriele Midolo`,
       position: `Postdoc`,
-      description: ``,
+      description: `Gabriele Midolo ukončil doktorát na Free University of Bozen-Bolzano (Itálie) v roce 2021. Zkoumal vnitrodruhovou variabilitu znaků a fitness rostlin napříč environmentálními a geografickými gradienty. V současné době pracuje jako postdoc na Ústavu botaniky a zoologie Masarykovy univerzity a zaměřuje se na klasifikaci evropské vegetace v rámci projektu FeedBacks. Zajímá se o funkční ekologii, výškové gradienty, modely rozložení druhů a metaanalýzy.`,
       email: `gabriele.midolo@gmail.com`,
       is: ``,
       orcid: `https://orcid.org/0000-0003-1316-2546`,
@@ -806,7 +806,8 @@ export const peopleCz = {
       id: `patsch`,
       name: `Ricarda Pätsch`,
       position: `Postdoc`,
-      description: ``,
+      description: `Ricarda Pätsch studuje modely rozmanitosti rostlin polopřirozených a přirozených otevřených krajin jak v lokálním, tak i nadnárodním měřítku. V roce 2019 obhájila doktorát s výzkumem slanisk pobřeží Baltského moře na univerzitách v Hildesheimu a Goettingenu. Poté pobývala jako postdoc ve Wagner Ecological Lab na University of Alberta v Kanadě, kde studovala louky a trávníky na skalách. Její výzkum si klade za cíl popsat, chránit a uchovat dlouhodobě odolná společenstva rostlin a jejich stanoviště. Ricarda podporuje myšlenku sdílených vegetačních databází a datových úložišť formalizací nestandardizovaných dat vegetace, digitalizací historických dat a tím, že slouží jako správce databáze.
+Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou vegetaci ovlivněnou solemi, s cílem usnadnit jak identifikaci geografických vzorců, tak i hlavních faktorů druhového složení a vývoj evropských typologií stanovišť jako důležitého základu pro rozhodovací procesy v ochraně přírody.`,
       email: `ricarda.paetsch@gmail.com`,
       is: `https://www.muni.cz/lide/245871-ricarda-paetsch`,
       orcid: `https://orcid.org/0000-0002-3349-0910`,
