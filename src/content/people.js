@@ -11,7 +11,6 @@ import holubova from "../../static/images/people/holubova.jpg";
 import tesitel from "../../static/images/people/tesitel.jpg";
 import reznickova from "../../static/images/people/reznickova.jpg";
 import novak from "../../static/images/people/novak.jpg";
-import fisher from "../../static/images/people/fisher.jpg";
 import knollova from "../../static/images/people/knollova.jpg";
 import vecera from "../../static/images/people/vecera.jpg";
 import chytry from "../../static/images/people/chytry.jpg";
@@ -34,6 +33,7 @@ import gotzenberger from "../../static/images/people/gotzenberger.jpg";
 import kolenyova from "../../static/images/people/kolenyova.jpg";
 import midolo from "../../static/images/people/midolo.jpg";
 import patsch from "../../static/images/people/patsch.jpg";
+import erkelenz from "../../static/images/people/erkelenz.jpg";
 
 
 
@@ -280,6 +280,7 @@ export const peopleEn = {
       email: `smerdova@sci.muni.cz`,
       phoneNumber: `549498487`,
       is: `https://www.muni.cz/en/people/75764-eva-smerdova`,
+	  orcid: `https://orcid.org/0000-0003-4589-6317`,
       researchgate: `https://www.researchgate.net/scientific-contributions/85483229_Eva_Hettenbergerova`,
       img: smerdova
     },
@@ -341,20 +342,6 @@ export const peopleEn = {
 	  img: cubino
     },
     {
-      id: `fischer`,
-      name: `Felícia Miranda Fischer`,
-      position: `Postdoc`,
-      description: `Felícia Miranda Fischer got her PhD in Ecology at Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, Brazil. She started her career in Ecology as an undergraduate student in 2007 and since then she has been involved in several projects concerning vegetation science in native grasslands and forests in southern Brazil. She worked on the relationship between grazing disturbance and plant community functional structure and ecosystem processes. Specifically, in her PhD, she studied how plant community functional aspects affect stability in the face of climate-change-related disturbances. She aims to understand the processes behind spatial and temporal patterns in plant communities. She is developing the project "Plant communities through time", in which she explores changes in species composition in permanent plots at different time-scales and relates these dynamics to intrinsic community properties and environmental factors. She also works with the PLADIAS database, where she aims to undercover plant distributions and functional traits in response to natural and human factors on the national scale. She is experienced in carrying out field experiments, grassland vegetation surveys, and functional trait methodologies. She is also involved in the activities of international groups dealing with themes such as dark diversity, habitat loss, biodiversity conservation and ecosystem stability at a local and global scale.`,
-      email: `ffischer@mail.muni.cz`,
-      phoneNumber: `549498479`,
-      is: `https://www.muni.cz/en/people/243002-felicia-miranda-fischer`,
-      orcid: `https://orcid.org/0000-0002-2319-3648`,
-      publons: `https://publons.com/researcher/1657863/felicia-miranda-fischer/`,
-      scholar: `https://scholar.google.com/citations?hl=cs&user=0E5hLEcAAAAJ`,
-      researchgate: `https://www.researchgate.net/profile/Felicia_Fischer`,
-      img: fisher
-    },
-    {
       id: `marceno`,
       name: `Corrado Marcenò`,
       position: `Postdoc`,
@@ -401,6 +388,17 @@ Ricarda is convinced that respectful and mutually supportive cooperation facilit
   
 
   phdStudents: [
+    {
+      id: `erkelenz`,
+      name: `Joshua André Erkelenz`,
+      position: `PhD student`,
+      description: `Joshua Erkelenz studied forestry and forest ecology at the Georg-August University in Göttingen, Germany. Prior to and during his tropical and international forestry Master Program, he conducted several research projects abroad and graduated with a thesis on patterns of functional diversity on the oceanic island of Tenerife. Continuing in this exciting field of ecological research, he now studies functional and phylogenetic diversity in forest communities along elevational gradients in European mountain ranges at the Department of botany and zoology as part of his Ph.D. He devotes some of his time to the cultivation of tropical and subtropical crops.`,
+      email: `j-erkelenz@gmx.de`,
+      phoneNumber: ``,
+      is: ``,
+      researchgate: `https://www.researchgate.net/profile/Joshua-Erkelenz`,
+      img: erkelenz
+    },
     {
       id: `jaskova`,
       name: `Anni Kanerva Jašková`,
@@ -699,6 +697,7 @@ export const peopleCz = {
       email: `smerdova@sci.muni.cz`,
       phoneNumber: `549498487`,
       is: `https://www.muni.cz/lide/75764-eva-smerdova`,
+	  orcid: `https://orcid.org/0000-0003-4589-6317`,
       researchgate: `https://www.researchgate.net/scientific-contributions/85483229_Eva_Hettenbergerova`,
       img: smerdova
     },
@@ -762,20 +761,6 @@ export const peopleCz = {
       img: cubino
     },
     {
-      id: `fischer`,
-      name: `Felícia Miranda Fischer`,
-      position: `Postdoc`,
-      description: `Felícia Miranda Fischer získala doktorát z ekologie na Universidade Federal do Rio Grande do Sul v Porto Alegre v Brazílii. Svou kariéru v oboru ekologie začala jako vysokoškolská studentka v roce 2007 a od té doby spolupracovala na několika projektech týkajících se vegetace v původních travních porostů a lesů jižní Brazílie. Zkoumala také vztah mezi pastvou, funkční strukturou rostlinných společenstev a ekosystémovými procesy. Klade si za cíl porozumět procesům ovlivňujícím změny rostlinných společenstev v prostoru a čase. Pracuje na projektu „Rostlinná společenstva v čase“, ve kterém zkoumá změny v druhovém složení trvalých ploch v různých časových měřítcích ve vztahu rostlin a jejich funkční vlastnosti v reakci na přírodní a lidské faktory v národním měřítku. Má zkušenosti s terénními experimenty, výzkumem vegetace trávníků a metodologií studia funkčních vlastností rostlin. Spolu s dalšími mezinárodními skupinami se také podílí na tématech, jako je "dark diversity", úbytek biotopů a ochrana biodiverzity a stability ekosystémů v místním i globálním měřítku.`,
-      email: `ffischer@mail.muni.cz`,
-      phoneNumber: `549498479`,
-      is: `https://www.muni.cz/lide/243002-felicia-miranda-fischer`,
-      orcid: `https://orcid.org/0000-0002-2319-3648`,
-      publons: `https://publons.com/researcher/1657863/felicia-miranda-fischer/`,
-      scholar: `https://scholar.google.com/citations?hl=cs&user=0E5hLEcAAAAJ`,
-      researchgate: `https://www.researchgate.net/profile/Felicia_Fischer`,
-      img: fisher
-    },
-    {
       id: `marceno`,
       name: `Corrado Marcenò`,
       position: `Postdoc`,
@@ -818,6 +803,17 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
     },
   ],
   phdStudents: [
+      {
+      id: `erkelenz`,
+      name: `Joshua André Erkelenz`,
+      position: `Doktorand`,
+      description: `Joshua Erkelenz studoval lesnictví a ekologii lesa na Georg-August University v německém Göttingenu. Před a během svého magisterského programu v tropickém a mezinárodním lesnictví se podílel na několika výzkumných projektech v zahraničí a absolvoval diplomovou prací o vzorech funkční rozmanitosti na ostrově Tenerife. Na Ústavu botaniky a zoologie MU zkoumá v rámci svého doktorského studia funkční a fylogenetickou diverzitu v lesních společenstvech podél výškových gradientů v evropských pohořích. Část svého času věnuje pěstování tropických a subtropických plodin.`,
+      email: `j-erkelenz@gmx.de`,
+      phoneNumber: ``,
+      is: ``,
+      researchgate: `https://www.researchgate.net/profile/Joshua-Erkelenz`,
+      img: erkelenz
+    },
     {
       id: `jaskova`,
       name: `Anni Kanerva Jašková`,
@@ -877,6 +873,10 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
 };
 
 export const formerPeople = [
+    {
+    name: `Felícia Miranda Fischer (2019–2021)`,
+    email: `feliciafischerster@gmail.com`
+  },
     {
     name: `Lars Götzenberger (2018–2020)`,
     email: `lars.goetzenberger@gmail.com`
