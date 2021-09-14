@@ -52,6 +52,10 @@ export const coursesCz = [
     link: `https://is.muni.cz/predmet/sci/jaro2020/Bi5210`
   },
   {
+    name: `Practical Analysis of Biological Data – Seminar`,
+    link: `https://is.muni.cz/predmet/sci/Bi7550`
+  },
+  {
     name: `Právo a státní správa v ochraně přírody`,
     link: `https://is.muni.cz/predmet/sci/podzim2019/Bi7710`
   },
@@ -162,6 +166,10 @@ export const coursesEn = [
   {
     name: `Plant population ecology`,
     link: `https://is.muni.cz/predmet/sci/jaro2020/Bi5210?lang=en`
+  },
+    {
+    name: `Practical Analysis of Biological Data – Seminar`,
+    link: `https://is.muni.cz/predmet/sci/Bi7550?lang=en`
   },
   {
     name: `Nature conservation and environmental legislation`,

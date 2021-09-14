@@ -1,5 +1,11 @@
 ﻿export const thesesEn = {
   bachelorThesesList: [
+      {
+      name: `The effect of former ploughing on grassland species composition in the Hutě Nature Reserve (White Carpathians)`,
+      link: `https://is.muni.cz/th/v60d7/?lang=en`,
+      author: "Karolína Slachová",
+      year: "2020"
+    },
     {
       name: `Flora and vegetation of area near Mokrá-Horákov east of the Brno city`,
       link: `https://is.muni.cz/th/ba4ml/?lang=en`,
@@ -45,6 +51,12 @@
   ],
 
   masterThesesList: [
+      {
+      name: `Flora of selected mining sites of White Carpathians Mts.`,
+      link: `https://is.muni.cz/th/jqnqg/?lang=en`,
+      author: "Eliška Kundratová",
+      year: "2020"
+    },
     {
       name: `Alpine vegetation of Mount Smolikas (Greece) and Mount Nemërçkë (Albania)`,
       link: `https://is.muni.cz/th/nwy2q/?lang=en`,
@@ -78,6 +90,18 @@
   ],
 
   phdThesesList: [
+      {
+      name: `Diversity and ecology of the river gravel-bar vegetation`,
+      link: `https://is.muni.cz/th/sxp8e/?lang=en`,
+      author: "Veronika Kalníková",
+      year: "2020"
+    },
+	    {
+      name: `Vegetation of European oak-hornbeam forests`,
+      link: `https://is.muni.cz/th/we4du/?lang=en`,
+      author: "Pavel Novák",
+      year: "2020"
+    },
     {
       name: `Diversity and ecology of epiphytic bryophyte communities on dead wood in forest nature reserves`,
       link: `https://is.muni.cz/th/eqf1z/`,
@@ -191,6 +215,12 @@
 
 export const thesesCz = {
   bachelorThesesList: [
+        {
+      name: `Vliv minulé orby na druhové složení luk v PR Hutě v Bílých Karpatech`,
+      link: `https://is.muni.cz/th/v60d7/`,
+      author: "Karolína Slachová",
+      year: "2020"
+    },
     {
       name: `Flóra a vegetace území v okolí obce Mokrá-Horákov východně od Brna`,
       link: `https://is.muni.cz/th/ba4ml/`,
@@ -236,6 +266,12 @@ export const thesesCz = {
   ],
 
   masterThesesList: [
+      {
+      name: `Květena vybraných lomů v Bílých Karpatech`,
+      link: `https://is.muni.cz/th/jqnqg/`,
+      author: "Eliška Kundratová",
+      year: "2020"
+    },
     {
       name: `Alpínská vegetace pohoří Smolikas v Řecku a Nemërçkë v Albánii`,
       link: `https://is.muni.cz/th/nwy2q/`,
@@ -269,6 +305,18 @@ export const thesesCz = {
   ],
 
   phdThesesList: [
+        {
+      name: `Diverzita a ekologie vegetace štěrkových říčních náplavů`,
+      link: `https://is.muni.cz/th/sxp8e/`,
+      author: "Veronika Kalníková",
+      year: "2020"
+    },
+	    {
+      name: `Vegetace evropských dubohabřin`,
+      link: `https://is.muni.cz/th/we4du/`,
+      author: "Pavel Novák",
+      year: "2020"
+    },
     {
       name: `Diverzita a ekologie společenstev epifytických mechorostů na mrtvém dřevě v lesních rezervacích`,
       link: `https://is.muni.cz/th/eqf1z/`,
