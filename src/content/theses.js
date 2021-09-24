@@ -42,12 +42,6 @@
       author: "Jan Dohnal",
       year: "2018"
     },
-    {
-      name: `Natural conditions and flora of mining sites of White Carpathians Mts.`,
-      link: `https://is.muni.cz/th/rjhl3/?lang=en`,
-      author: "Eliška Kundratová",
-      year: "2017"
-    }
   ],
 
   masterThesesList: [
@@ -91,6 +85,12 @@
 
   phdThesesList: [
       {
+      name: `Determinants of spatial patterns in composition of plant communities`,
+      link: `https://is.muni.cz/th/qmtgr/`,
+      author: "Markéta Chudomelová",
+      year: "2020"
+    },
+	{
       name: `Diversity and ecology of the river gravel-bar vegetation`,
       link: `https://is.muni.cz/th/sxp8e/?lang=en`,
       author: "Veronika Kalníková",
@@ -257,12 +257,6 @@ export const thesesCz = {
       author: "Jan Dohnal",
       year: "2018"
     },
-    {
-      name: `Přírodní poměry a flóra lomů v Bílých Karpatech`,
-      link: `https://is.muni.cz/th/rjhl3/`,
-      author: "Eliška Kundratová",
-      year: "2017"
-    }
   ],
 
   masterThesesList: [
@@ -305,6 +299,12 @@ export const thesesCz = {
   ],
 
   phdThesesList: [
+      {
+      name: `Faktory ovlivňující prostorovou strukturu ve složení rostlinných společenstev`,
+      link: `https://is.muni.cz/th/qmtgr/`,
+      author: "Markéta Chudomelová",
+      year: "2020"
+    },
         {
       name: `Diverzita a ekologie vegetace štěrkových říčních náplavů`,
       link: `https://is.muni.cz/th/sxp8e/`,
