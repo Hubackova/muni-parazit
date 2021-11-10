@@ -1,5 +1,47 @@
 ﻿/* eslint-disable no-irregular-whitespace */
 export const mediaCz = [
+      {
+    date: `25/9/2021`,
+    name: `Nečekaná obnova slanisk u Šakvic – zaniklý jihomoravský biotop se vrací do krajiny`,
+    resources: [`Ekolist`, `Český rozhlas`],
+    links: [`https://ekolist.cz/cz/publicistika/priroda/necekana-obnova-slanisk-u-sakvic-zanikly-jihomoravsky-biotop-se-vraci-do-krajiny`, `https://plus.rozhlas.cz/novy-cesky-test-umi-jednoduseji-zjistit-uroven-protilatek-proti-nemoci-covid-19-8592889`]
+  },
+      {
+    date: `6/6/2021`,
+    name: ` Sčítání konikleců na Kamenném vrchu`,
+    resources: [`Ekolist`],
+    links: [`https://ekolist.cz/cz/zpravodajstvi/zpravy/scitani-koniklecu-na-kamennem-vrchu-v-brne-potvrdilo-svetovy-unikat-lokality`]
+  },  
+	  {
+    date: `27/4/2021`,
+    name: ` Jak zmírnit úbytek druhové pestrosti`,
+    resources: [`ČT Studio 6`],
+    links: [`https://www.ceskatelevize.cz/porady/1096902795-studio-6/221411010100427/video/836062`]
+  },
+  {
+    date: `27/4/2021`,
+    name: `Krize biodiverzity`,
+    resources: [`Učená společnost ČR`],
+    links: [`https://www.youtube.com/watch?v=yfUl8HM89xg`]
+  },
+    {
+    date: `16/3/2021`,
+    name: ` Vědci popsali rozdíly vývoje diverzity rostlin ve střední Evropě`,
+    resources: [`Ekolist`],
+    links: [`https://ekolist.cz/cz/zpravodajstvi/zpravy/vedci-popsali-rozdily-vyvoje-diverzity-rostlin-ve-stredni-evrope`]
+  },
+    {
+    date: `27/8/2021`,
+    name: `Rašeliništím se v Česku nedaří, říká nový červený seznam biotopů`,
+    resources: [`Magazín M`, `Český rozhlas`],
+    links: [`https://www.em.muni.cz/veda-a-vyzkum/13188-raselinistim-se-v-cesku-nedari-rika-novy-cerveny-seznam-biotopu`, `https://cesky.radio.cz/cerveny-seznam-biotopu-raselinistim-se-v-cesku-nedari-8691181`]
+  },
+    {
+    date: `24/6/2020`,
+    name: `Extrémní sucha ovlivňují i přirozeně nejsušší biotopy jižní Moravy`,
+    resources: [`Magazín M`, `iDnes`, `Ekolist`],
+    links: [`https://www.em.muni.cz/vite/13036-extremni-sucha-ovlivnuji-i-prirozene-nejsussi-biotopy-jizni-moravy`, `https://www.idnes.cz/brno/zpravy/sucho-palava-ohrozene-stepni-rostliny.A200703_557329_brno-zpravy_mls`, `https://ekolist.cz/cz/zpravodajstvi/zpravy/dlouhodobe-sucho-negativne-ovlivnuje-i-skalni-stepi-na-palave`]  
+   },
   {
     date: `12/5/2020`,
     name: `V žaludcích mamutů našli vědci krajinu doby ledové`,
@@ -165,7 +207,49 @@ export const mediaCz = [
   ];
 
 export const mediaEn = [
+        {
+    date: `25/9/2021`,
+    name: `Nečekaná obnova slanisk u Šakvic – zaniklý jihomoravský biotop se vrací do krajiny`,
+    resources: [`Ekolist`, `Český rozhlas`],
+    links: [`https://ekolist.cz/cz/publicistika/priroda/necekana-obnova-slanisk-u-sakvic-zanikly-jihomoravsky-biotop-se-vraci-do-krajiny`, `https://plus.rozhlas.cz/novy-cesky-test-umi-jednoduseji-zjistit-uroven-protilatek-proti-nemoci-covid-19-8592889`]
+  },
+      {
+    date: `6/6/2021`,
+    name: ` Sčítání konikleců na Kamenném vrchu`,
+    resources: [`Ekolist`],
+    links: [`https://ekolist.cz/cz/zpravodajstvi/zpravy/scitani-koniklecu-na-kamennem-vrchu-v-brne-potvrdilo-svetovy-unikat-lokality`]
+  },  
+	  {
+    date: `27/4/2021`,
+    name: ` Jak zmírnit úbytek druhové pestrosti`,
+    resources: [`ČT Studio 6`],
+    links: [`https://www.ceskatelevize.cz/porady/1096902795-studio-6/221411010100427/video/836062`]
+  },
   {
+    date: `27/4/2021`,
+    name: `Krize biodiverzity`,
+    resources: [`Učená společnost ČR`],
+    links: [`https://www.youtube.com/watch?v=yfUl8HM89xg`]
+  },
+    {
+    date: `16/3/2021`,
+    name: ` Vědci popsali rozdíly vývoje diverzity rostlin ve střední Evropě`,
+    resources: [`Ekolist`],
+    links: [`https://ekolist.cz/cz/zpravodajstvi/zpravy/vedci-popsali-rozdily-vyvoje-diverzity-rostlin-ve-stredni-evrope`]
+  },
+    {
+    date: `27/8/2021`,
+    name: `Rašeliništím se v Česku nedaří, říká nový červený seznam biotopů`,
+    resources: [`Magazín M`, `Český rozhlas`],
+    links: [`https://www.em.muni.cz/veda-a-vyzkum/13188-raselinistim-se-v-cesku-nedari-rika-novy-cerveny-seznam-biotopu`, `https://cesky.radio.cz/cerveny-seznam-biotopu-raselinistim-se-v-cesku-nedari-8691181`]
+  },
+    {
+    date: `24/6/2020`,
+    name: `Extrémní sucha ovlivňují i přirozeně nejsušší biotopy jižní Moravy`,
+    resources: [`Magazín M`, `iDnes`, `Ekolist`],
+    links: [`https://www.em.muni.cz/vite/13036-extremni-sucha-ovlivnuji-i-prirozene-nejsussi-biotopy-jizni-moravy`, `https://www.idnes.cz/brno/zpravy/sucho-palava-ohrozene-stepni-rostliny.A200703_557329_brno-zpravy_mls`, `https://ekolist.cz/cz/zpravodajstvi/zpravy/dlouhodobe-sucho-negativne-ovlivnuje-i-skalni-stepi-na-palave`]  
+   },
+   {
     date: `12/5/2020`,
     name: `V žaludcích mamutů našli vědci krajinu doby ledové`,
     resources: [`Magazín M`],
@@ -331,6 +415,11 @@ export const mediaEn = [
 
 export const popularizationCz = [
 {
+    date: `2021`,
+    name: `Parazitické rostliny: Pomocníci v boji s rostlinnými invazemi a expanzemi?`,
+    resources: [`Vesmír`],
+    links: [`https://vesmir.cz/cz/casopis/archiv-casopisu/2021/cislo-4/paraziticke-rostliny.html`]
+  },{
     date: `2020`,
     name: `Teplomilné rostlinstvo Podkarpatské Rusi`,
     resources: [`Živa`],
