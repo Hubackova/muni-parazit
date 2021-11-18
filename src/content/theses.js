@@ -84,7 +84,13 @@
   ],
 
   phdThesesList: [
-      {
+{
+      name: `Diversity patterns in European vegetation: Linking community ecology and macroecology`,
+      link: `https://is.muni.cz/th/xpz2o/?lang=en`,
+      author: "Martin Večeřa",
+      year: "2021"
+    },     
+	 {
       name: `Determinants of spatial patterns in composition of plant communities`,
       link: `https://is.muni.cz/th/qmtgr/`,
       author: "Markéta Chudomelová",
@@ -300,6 +306,12 @@ export const thesesCz = {
 
   phdThesesList: [
       {
+      name: `Diverzita evropské vegetace: Propojení ekologie společenstev a makroekologie`,
+      link: `https://is.muni.cz/th/xpz2o/?lang=cs`,
+      author: "Martin Večeřa",
+      year: "2021"
+    }, 
+	  {
       name: `Faktory ovlivňující prostorovou strukturu ve složení rostlinných společenstev`,
       link: `https://is.muni.cz/th/qmtgr/`,
       author: "Markéta Chudomelová",

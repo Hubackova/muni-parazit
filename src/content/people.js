@@ -306,6 +306,18 @@ export const peopleEn = {
       researchgate: `https://www.researchgate.net/profile/Marketa_Taborska`,
 	  img: taborska
     },
+	{
+      id: `vecera`,
+      name: `Martin Večeřa`,
+      position: `Researcher`,
+      description: `Martin Večeřa graduated in Geography, with a specialization in Landscape Ecology and Biogeography, at the Faculty of Science, Masaryk University. In his master thesis, he dealt with the dispersal of forest plants along the strips of woody vegetation (potential biotic corridors) in an agricultural landscape. The topic of his dissertation thesis was species diversity of forest and grassland plant communities in Europe and its various ecological and biogeographical aspects.`,
+      email: `martinvec@seznam.cz`,
+      phoneNumber: `549498494`,
+      is: `https://www.muni.cz/en/people/357693-martin-vecera`,
+      orcid: `https://orcid.org/0000-0001-8507-791X`,
+      researchgate: `https://www.researchgate.net/profile/Martin_Vecera`,
+      img: vecera
+    },
     {
       id: `drevojan`,
       name: `Pavel Dřevojan`,
@@ -430,18 +442,6 @@ Ricarda is convinced that respectful and mutually supportive cooperation facilit
       is: `https://www.sci.muni.cz/en/about-us/faculty-staff/424056`,
       researchgate: `https://www.researchgate.net/profile/Monika_Kolenyova`,
       img: kolenyova
-    },
-    {
-      id: `vecera`,
-      name: `Martin Večeřa`,
-      position: `PhD student, Researcher`,
-      description: `Martin Večeřa graduated in Geography, with a specialization in Landscape Ecology and Biogeography, at the Faculty of Science, Masaryk University. In his master thesis, he dealt with the dispersal of forest plants along the strips of woody vegetation (potential biotic corridors) in an agricultural landscape. Currently, he is a PhD student at the Department of Botany and Zoology. The topic of his dissertation thesis is species diversity of forest and grassland plant communities in Europe and its various ecological and biogeographical aspects.`,
-      email: `martinvec@seznam.cz`,
-      phoneNumber: `549498494`,
-      is: `https://www.muni.cz/en/people/357693-martin-vecera`,
-      orcid: `https://orcid.org/0000-0001-8507-791X`,
-      researchgate: `https://www.researchgate.net/profile/Martin_Vecera`,
-      img: vecera
     },
     {
       id: `zukal`,
@@ -723,6 +723,18 @@ export const peopleCz = {
       researchgate: `https://www.researchgate.net/profile/Marketa_Taborska`, 
 	  img: taborska
     },
+	{
+      id: `vecera`,
+      name: `Martin Večeřa`,
+      position: `Výzkumník`,
+      description: `Martin Večeřa vystudoval geografii se zaměřením na ekologii krajiny a biogeografii na Přírodovědecké fakultě Masarykovy univerzity. Ve své diplomové práci se věnoval šíření lesních rostlin dřevinnými pásy (potenciálními biokoridory) v zemědělské krajině. Jeho disertační práce byla zaměřená na různé ekologické a biogeografické aspekty druhové diverzity lesů a trávníků v Evropě.`,
+      email: `martinvec@seznam.cz`,
+      phoneNumber: `549498494`,
+      is: `https://www.muni.cz/lide/357693-martin-vecera`,
+      orcid: `https://orcid.org/0000-0001-8507-791X`,
+      researchgate: `https://www.researchgate.net/profile/Martin_Vecera`,
+      img: vecera
+    },
     {
       id: `drevojan`,
       name: `Pavel Dřevojan`,
@@ -845,18 +857,6 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
       is: `https://www.sci.muni.cz/o-nas/zamestnanci-fakulty/424056`,
       researchgate: `https://www.researchgate.net/profile/Monika_Kolenyova`,
       img: kolenyova
-    },
-    {
-      id: `vecera`,
-      name: `Martin Večeřa`,
-      position: `Doktorand, výzkumník`,
-      description: `Martin Večeřa vystudoval geografii se zaměřením na ekologii krajiny a biogeografii na Přírodovědecké fakultě Masarykovy univerzity. Ve své diplomové práci se věnoval šíření lesních rostlin dřevinnými pásy (potenciálními biokoridory) v zemědělské krajině. V současné době je doktorandem na Ústavu botaniky a zoologie. Tématem jeho disertační práce jsou různé ekologické a biogeografické aspekty druhové diverzity lesů a trávníků v Evropě.`,
-      email: `martinvec@seznam.cz`,
-      phoneNumber: `549498494`,
-      is: `https://www.muni.cz/lide/357693-martin-vecera`,
-      orcid: `https://orcid.org/0000-0001-8507-791X`,
-      researchgate: `https://www.researchgate.net/profile/Martin_Vecera`,
-      img: vecera
     },
     {
       id: `zukal`,
