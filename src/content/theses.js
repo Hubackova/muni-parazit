@@ -3,7 +3,7 @@
       {
       name: `The effect of former ploughing on grassland species composition in the Hutě Nature Reserve (White Carpathians)`,
       link: `https://is.muni.cz/th/v60d7/?lang=en`,
-      author: "Karolína Slachová",
+      author: "Karolína   Slachová",
       year: "2020"
     },
     {
