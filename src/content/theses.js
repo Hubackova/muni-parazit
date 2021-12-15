@@ -89,7 +89,13 @@
       link: `https://is.muni.cz/th/xpz2o/?lang=en`,
       author: "Martin Večeřa",
       year: "2021"
-    },     
+    },  
+{
+      name: `Tree-soil interactions in natural temperate forests in space and time`,
+      link: `https://is.muni.cz/th/c1hb6/?lang=en`,
+      author: "Pavel Daněk",
+      year: "2021"
+    }, 	
 	 {
       name: `Determinants of spatial patterns in composition of plant communities`,
       link: `https://is.muni.cz/th/qmtgr/`,
@@ -309,6 +315,12 @@ export const thesesCz = {
       name: `Diverzita evropské vegetace: Propojení ekologie společenstev a makroekologie`,
       link: `https://is.muni.cz/th/xpz2o/?lang=cs`,
       author: "Martin Večeřa",
+      year: "2021"
+    }, 
+	{
+      name: `Interakce mezi stromy a půdou v přirozených temperátních lesích v prostoru a čase`,
+      link: `https://is.muni.cz/th/c1hb6/`,
+      author: "Pavel Daněk",
       year: "2021"
     }, 
 	  {
