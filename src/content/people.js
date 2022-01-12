@@ -292,6 +292,7 @@ export const peopleEn = {
       email: `pstepankova@sci.muni.cz`,
       phoneNumber: `549498389`,
       is: `https://www.muni.cz/en/people/234942-petra-stepankova`,
+	  researchgate: `https://www.researchgate.net/profile/Petra-Stepankova`, 
 	  img: stepankova
     },
     {
@@ -407,7 +408,7 @@ Ricarda is convinced that respectful and mutually supportive cooperation facilit
       description: `Joshua Erkelenz studied forestry and forest ecology at the Georg-August University in Göttingen, Germany. Prior to and during his tropical and international forestry Master Program, he conducted several research projects abroad and graduated with a thesis on patterns of functional diversity on the oceanic island of Tenerife. Continuing in this exciting field of ecological research, he now studies functional and phylogenetic diversity in forest communities along elevational gradients in European mountain ranges at the Department of botany and zoology as part of his Ph.D. He devotes some of his time to the cultivation of tropical and subtropical crops.`,
       email: `erkelenz@mail.muni.cz`,
       phoneNumber: ``,
-      is: ``,
+      is: `https://is.muni.cz/osoba/erkelenz?lang=en`,
       researchgate: `https://www.researchgate.net/profile/Joshua-Erkelenz`,
       img: erkelenz
     },
@@ -420,16 +421,19 @@ Ricarda is convinced that respectful and mutually supportive cooperation facilit
       phoneNumber: `549498395`,
       is: `https://www.muni.cz/en/people/452344-anni-kanerva-pyykoenen`,
       researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
+	  orcid: `https://orcid.org/0000-0002-3510-1093`, 
       img: jaskova
     },
 	 {
       id: `knotkova`,
       name: `Kateřina Knotková`,
-      position: `PhD student, Researcher`,
+      position: `PhD student, Researcher (maternity leave)`,
       description: `Kateřina Knotková studied Landscape Architecture at Faculty of Horticulture, Mendel University in Brno. Her interests were focused mainly on plants. Her bachelor thesis was aimed at creation of a botanical garden in the National park Podyjí made of natural plant assemblages that occur in this national park. In her diploma thesis, she tested plant species that could be cultivated in cities by direct sowing and also addressed rain gardens, a much-discussed topic today. Now she is continuing in her doctoral studies at the Department of Botany and Zoology, Faculty of Science, Masaryk University. The topic of her PhD thesis is hemiparasitic plants and their influence on biodiversity and ecosystem services. In her works, she combines knowledge and approaches of horticulture and basic botanical research.`,
       email: `501016@mail.muni.cz`,
       phoneNumber: `549496974`,
       is: `https://www.muni.cz/en/people/501016-katerina-knotkova`,
+	  orcid: `https://orcid.org/0000-0001-6668-8977`,
+	  researchgate: `https://www.researchgate.net/profile/Katerina-Knotkova-3`,
 	  img: knotkova
       },
 	  	  {
@@ -452,6 +456,7 @@ Ricarda is convinced that respectful and mutually supportive cooperation facilit
       phoneNumber: `549498494`,
       is: `https://www.muni.cz/en/people/375623-dominik-zukal`,
       researchgate: `https://www.researchgate.net/profile/Dominik_Zukal`, 
+	 orcid: `https://orcid.org/0000-0003-3248-5703`, 
 	  img: zukal
     }
   ]
@@ -709,6 +714,7 @@ export const peopleCz = {
       email: `pstepankova@sci.muni.cz`,
       phoneNumber: `549498389`,
       is: `https://www.muni.cz/lide/234942-petra-stepankova`, 
+	  researchgate: `https://www.researchgate.net/profile/Petra-Stepankova`, 
 	  img: stepankova
     },
     {
@@ -822,7 +828,7 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
       description: `Joshua Erkelenz studoval lesnictví a ekologii lesa na Georg-August University v německém Göttingenu. Před a během svého magisterského programu v tropickém a mezinárodním lesnictví se podílel na několika výzkumných projektech v zahraničí a absolvoval diplomovou prací o vzorech funkční rozmanitosti na ostrově Tenerife. Na Ústavu botaniky a zoologie MU zkoumá v rámci svého doktorského studia funkční a fylogenetickou diverzitu v lesních společenstvech podél výškových gradientů v evropských pohořích. Část svého času věnuje pěstování tropických a subtropických plodin.`,
       email: `erkelenz@mail.muni.cz`,
       phoneNumber: ``,
-      is: ``,
+      is: `https://is.muni.cz/osoba/erkelenz`,
       researchgate: `https://www.researchgate.net/profile/Joshua-Erkelenz`,
       img: erkelenz
     },
@@ -835,16 +841,19 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
       phoneNumber: `549498395`,
       is: `https://www.muni.cz/lide/452344-anni-kanerva-pyykoenen`,
       researchgate: `https://www.researchgate.net/profile/Anni_Pyykoenen`,
+	  orcid: `https://orcid.org/0000-0002-3510-1093`, 
       img: jaskova
     },
 	{
       id: `knotkova`,
       name: `Kateřina Knotková`,
-      position: `Doktorand, výzkumník`,
+      position: `Doktorand, výzkumník (mateřská dovolená)`,
       description: `Kateřina Knotková je absolvenkou zahradní a krajinářské architektury na Zahradnické fakultě Mendelovy univerzity v Brně. Svou práci vždy soustředila především na rostliny. V bakalářské práci se zaměřila na tvorbu botanické zahrady z druhů typických pro rostlinná společenstva Národního parku Podyjí. V diplomové práci se pak zaměřila na testování rostlin, které by bylo možné pěstovat ve městech z přímého výsevu a také na dnes velmi diskutované téma dešťových záhonů. Nyní pokračuje ve studiích na Ústavu botaniky a zoologie, kde v rámci doktorátu řeší použití poloparazitických rostlin v ochraně přírody, jejich vliv na biodiverzitu a ekosystémové služby. Ve své práci se snaží kombinovat vědomosti a přístupy aplikované zahradnické praxe a základního botanického výzkumu.`,
       email: `501016@mail.muni.cz`,
       phoneNumber: `549496974`,
       is: `https://www.muni.cz/lide/501016-katerina-knotkova`,
+	  orcid: `https://orcid.org/0000-0001-6668-8977`,
+	  researchgate: `https://www.researchgate.net/profile/Katerina-Knotkova-3`,
 	  img: knotkova
       },
 	  {
