@@ -239,7 +239,7 @@ export const peopleEn = {
     {
       id: `novak`,
       name: `Pavel Novák`,
-      position: `Researcher`,
+      position: `PhD student, Researcher`,
       description: `Pavel Novák studied Botany (focused on plant ecology) at Masaryk University, Brno. He graduated with a master degree in 2013. His master thesis dealt with the variability of forest vegetation in the Krumlovský les Forest and its surroundings (SW Moravia). His PhD study (2014–2020) was aimed at the variability and syntaxonomy of oak-hornbeam forests (order Carpinetalia) on the European scale. Besides Central Europe, he studies forest vegetation of the Caucasus and the Euxinian Region.`,
       email: `269109@mail.muni.cz`,
       phoneNumber: `549498485`,
@@ -354,7 +354,21 @@ export const peopleEn = {
       researchgate: `https://www.researchgate.net/profile/Josep_Padulles`, 
 	  img: cubino
     },
-        {
+    {
+      id: `marceno`,
+      name: `Corrado Marcenò`,
+      position: `Postdoc`,
+      description: `Corrado Marcenò is a PhD in Environmental Science. He worked at the University of Catania on the thesis "The Classification of East Mediterranean Dune Vegetation at Associations Level". After PhD, he had the opportunity to work in several departments and research centres in Europe: University of Bilbao (Spain), National Research Council of Palermo (Italy), National Institute of Agricultural Economics of Pisa (Italy), Muséum National d'Histoire Naturelle of Paris (France) and University of Oviedo (Spain). He is specialized in storing and managing large vegetation-plot databases, vegetation classification, biogeography of plant communities and habitats monitoring and conservation.`,
+      email: `marcenocorrado@libero.it`,
+      phoneNumber: `549498477`,
+      is: `https://www.muni.cz/en/people/234828-corrado-marceno`,
+      orcid: `https://orcid.org/0000-0003-4361-5200`,
+      publons: `https://publons.com/researcher/1151820/corrado-marceno/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=yQeqIyQAAAAJ`,
+      researchgate: `https://www.researchgate.net/profile/Corrado_Marceno`, 
+	  img: marceno
+    },
+    {
       id: `midolo`,
       name: `Gabriele Midolo`,
       position: `Postdoc`,
@@ -783,7 +797,21 @@ export const peopleCz = {
       researchgate: `https://www.researchgate.net/profile/Josep_Padulles`,
       img: cubino
     },
-        {
+    {
+      id: `marceno`,
+      name: `Corrado Marcenò`,
+      position: `Postdoc`,
+      description: `Corrado Marcenò získal doktorát v oboru ekologie na Univerzitě v Catanii za disertační práci "Klasifikace vegetace dun ve východním Středomoří na úrovni asociací". Po studiu měl příležitost pracovat v několika výzkumných centrech v Evropě: University of Bilbao (Španělsko), National Research Council of Palermo (Itálie), National Institute of Agricultural Economics v Pise (Itálie), Muséum National d'Histoire Naturelle v Paříži (Francie) a University of Oviedo (Španělsko). Specializuje se na správu velkých databází, klasifikaci vegetace, biogeografii rostlinných společenstev a monitoring a ochranu biotopů.`,
+      email: `marcenocorrado@libero.it`,
+      phoneNumber: `549498477`,
+      is: `https://www.muni.cz/lide/234828-corrado-marceno`,
+      orcid: `https://orcid.org/0000-0003-4361-5200`,
+      publons: `https://publons.com/researcher/1151820/corrado-marceno/`,
+      scholar: `https://scholar.google.com/citations?hl=cs&user=yQeqIyQAAAAJ`,
+      researchgate: `https://www.researchgate.net/profile/Corrado_Marceno`,
+	  img: marceno
+    },
+    {
       id: `midolo`,
       name: `Gabriele Midolo`,
       position: `Postdoc`,
@@ -883,10 +911,6 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
 };
 
 export const formerPeople = [
-    {
-    name: `Corrado Marcenò (2019–2022)`,
-    email: `marcenocorrado@libero.it`
-  },
     {
     name: `Felícia Miranda Fischer (2019–2021)`,
     email: `feliciafischerster@gmail.com`
