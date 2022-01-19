@@ -35,7 +35,7 @@ import midolo from "../../static/images/people/midolo.jpg";
 import patsch from "../../static/images/people/patsch.jpg";
 import erkelenz from "../../static/images/people/erkelenz.jpg";
 import fahs from "../../static/images/people/fahs.jpg";
-
+import chytrykr from "../../static/images/people/chytrykr.jpg";
 
 
 export const peopleEn = {
@@ -183,6 +183,20 @@ export const peopleEn = {
       is: `https://www.muni.cz/en/people/113226-dana-holubova`,
       researchgate: `https://www.researchgate.net/scientific-contributions/2149640262_Dana_Holubova`,
       img: holubova
+    },
+	{
+      id: `chytrykr`,
+      name: `Kryštof Chytrý`,
+      position: `Researcher`,
+      description: `Kryštof Chytrý is interested in the biogeography of Central European flora and vegetation. While being interested in biogeographical patterns and gradients, he is most intrigued by what ostensibly undermines them. Through these interests, he ended up dealing with research questions such as incidence of steppe patches in mostly forested Central European landscape (Master thesis), presence of microclimatic refugia in high mountains (ongoing PhD thesis at the University of Vienna) and seasonal and interannual dynamics of dry grasslands.`,
+      email: `237932@mail.muni.cz`,
+      phoneNumber: `549498395`,
+      is: `https://www.muni.cz/en/people/237932-krystof-chytry`,
+      orcid: `https://orcid.org/0000-0003-4113-6564`,
+      researchgate: `https://www.researchgate.net/profile/Krystof-Chytry` , 
+	  publons: `https://publons.com/researcher/4044399/krystof-chytry/`,
+	  personal: `https://twitter.com/Kryshpean21`,
+	  img: chytrykr
     },
     {
       id: `kalusova`,
@@ -612,6 +626,20 @@ export const peopleCz = {
       is: `https://www.muni.cz/lide/113226-dana-holubova`,
       researchgate: `https://www.researchgate.net/scientific-contributions/2149640262_Dana_Holubova`,
       img: holubova
+    },
+	{
+      id: `chytrykr`,
+      name: `Kryštof Chytrý`,
+      position: `Researcher`,
+      description: `Kryštof Chytrý se zajímá o biogeografii středoevropské flóry a vegetace. Vedle zájmu o biogeografické patrnosti a gradienty ho však nejvíce zajímá, co je zdánlivě narušuje. Tím se dostal k otázkám jako je přítomnost stepních ok v jinak lesnatých krajinách, kterým se věnoval během magisterského studia, existence mikroklimatických refugií ve vysokých horách, čemuž se nyní věnuje během svého doktorského studia na Vídeňské univerzitě, a sezónní a meziroční dynamika suchých trávníků.`,
+      email: `237932@mail.muni.cz`,
+      phoneNumber: `549498395`,
+      is: `https://www.muni.cz/en/people/237932-krystof-chytry`,
+      orcid: `https://orcid.org/0000-0003-4113-6564`,
+      researchgate: `https://www.researchgate.net/profile/Krystof-Chytry` , 
+	  publons: `https://publons.com/researcher/4044399/krystof-chytry/`,
+	  personal: `https://twitter.com/Kryshpean21`,
+	  img: chytrykr
     },
     {
       id: `kalusova`,
