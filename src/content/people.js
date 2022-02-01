@@ -295,7 +295,8 @@ export const peopleEn = {
       phoneNumber: `549498487`,
       is: `https://www.muni.cz/en/people/75764-eva-smerdova`,
 	  orcid: `https://orcid.org/0000-0003-4589-6317`,
-      researchgate: `https://www.researchgate.net/scientific-contributions/85483229_Eva_Hettenbergerova`,
+	  researchgate: `https://www.researchgate.net/profile/Eva-Smerdova-2` , 
+	  publons: `https://publons.com/researcher/4960709/eva-smerdova/`,
       img: smerdova
     },
     {
@@ -736,7 +737,8 @@ export const peopleCz = {
       phoneNumber: `549498487`,
       is: `https://www.muni.cz/lide/75764-eva-smerdova`,
 	  orcid: `https://orcid.org/0000-0003-4589-6317`,
-      researchgate: `https://www.researchgate.net/scientific-contributions/85483229_Eva_Hettenbergerova`,
+	  researchgate: `https://www.researchgate.net/profile/Eva-Smerdova-2` , 
+	  publons: `https://publons.com/researcher/4960709/eva-smerdova/`,
       img: smerdova
     },
     {
