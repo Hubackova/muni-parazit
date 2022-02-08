@@ -36,6 +36,7 @@ import patsch from "../../static/images/people/patsch.jpg";
 import erkelenz from "../../static/images/people/erkelenz.jpg";
 import fahs from "../../static/images/people/fahs.jpg";
 import chytrykr from "../../static/images/people/chytrykr.jpg";
+import mones from "../../static/images/people/mones.jpg";
 
 
 export const peopleEn = {
@@ -467,6 +468,16 @@ and restoration of semi-natural species-rich grasslands.`,
       researchgate: `https://www.researchgate.net/profile/Monika_Kolenyova`,
       img: kolenyova
     },
+	    {
+      id: `mones`,
+      name: `Gonzalo Velasco Monés`,
+      position: `PhD student, Researcher`,
+      description: `Gonzalo is an environmental biologist bachelor with a master on Terrestrial Ecology by Universitat Autònoma de Barcelona from 2019. His main interests there were about ecological processes of Mediterranean vegetation caused by succession and climate change, with a progressive shift towards more theoretical aspects. His current work as a PhD student is on the functional ecology of Czech vegetation, both at a local and a country-wide scale, and its interrelationship with phylogenetic patterns to gain knowledge of the processes of community assembly along successional gradients. To be more confident on theoretical and statistical skills, he is also slow-pacedly obtaining a Mathematics bachelor by the (Spanish) National University of Remote Education (UNED).`,
+      email: `gonzalo95nuncius@gmail.com`,
+      phoneNumber: ``,
+      is: `https://www.muni.cz/en/people/528870-gonzalo-velasco-mones`,
+	  img: mones
+    },
     {
       id: `zukal`,
       name: `Dominik Zukal`,
@@ -897,6 +908,16 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
       is: `https://www.sci.muni.cz/o-nas/zamestnanci-fakulty/424056`,
       researchgate: `https://www.researchgate.net/profile/Monika_Kolenyova`,
       img: kolenyova
+    },
+		    {
+      id: `mones`,
+      name: `Gonzalo Velasco Monés`,
+      position: `PhD student, Researcher`,
+      description: `Gonzalo absolvoval v roce 2019 magisterský stupeň terestrické ekologie na Universitat Autònoma de Barcelona. Jeho hlavním zájmem byly ekologické procesy mediteránní vegetace způsobené sukcesí a změnou klimatu. Aby měl větší jistotu v teoretických a statistických dovednostech, získal také bakalářský titul z matematiky na (Spanish) National University of Remote Education (UNED). Jeho současná doktorská práce se zabývá funkční ekologií vegetace ČR v lokálním i celorepublikovém měřítku a jejím vzájemným vztahem k fylogenetickým vzorcům. Cílem je získat znalosti o procesech ve společenstvech podél sukcesních gradientů. `,
+      email: `gonzalo95nuncius@gmail.com`,
+      phoneNumber: ``,
+      is: `https://www.muni.cz/lide/528870-gonzalo-velasco-mones`,
+	  img: mones
     },
     {
       id: `zukal`,
