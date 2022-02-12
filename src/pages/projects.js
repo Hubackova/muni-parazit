@@ -12,14 +12,17 @@ const Projects = ({ data: imgData }) => (
       return (
         <Container>
           <GridWrapper>
-            {Object.values(projects.projectsList).map(project => {
-              const img = imgData.allImageSharp.edges.filter(i =>
+            {Object.values(projects.projectsList).map((project) => {
+              const img = imgData.allImageSharp.edges.filter((i) =>
                 i.node.fixed.src.includes(`${project.name}_${int}`)
               );
               const imgSrc = img.length ? img[0].node.fixed.src : null;
               return (
-                <ResourceBox to={project.name} key={project.name} img={imgSrc }>
-                </ResourceBox>
+                <ResourceBox
+                  to={`/${project.name}`}
+                  key={project.name}
+                  img={imgSrc}
+                ></ResourceBox>
               );
             })}
           </GridWrapper>
@@ -36,7 +39,7 @@ const GridWrapper = styled.div`
   grid-template-columns: repeat(4, 20vw);
   grid-template-rows: repeat(2, 20vw);
   grid-gap: 1vw;
-  @media (max-width: ${props => props.theme.largeDevice}) {
+  @media (max-width: ${(props) => props.theme.largeDevice}) {
     grid-template-columns: repeat(2, 40vw);
     grid-template-rows: repeat(4, 40vw);
   }
@@ -64,13 +67,13 @@ const ResourceBox = styled(Link)`
 
   ::after {
     content: "";
-    background-image: url(${props => props.img});
+    background-image: url(${(props) => props.img});
     background-repeat: no-repeat;
     background-position: 50% 0%;
     background-size: 20vw;
-    @media (max-width: ${props => props.theme.largeDevice}) {
+    @media (max-width: ${(props) => props.theme.largeDevice}) {
       background-size: 40vw;
-  }
+    }
     top: 0;
     left: 0;
     bottom: 0;

@@ -1,23 +1,21 @@
 {
-    "parser": "babel-eslint",
-    "rules": {
-      "strict": 0,
-      "react/prop-types": 1,
-      "no-unused-vars":"warn",
-      "no-console": "warn",
-      "no-debugger": "warn",
-      "no-mixed-spaces-and-tabs": "warn"
-    },
-    "extends": [
-      "eslint:recommended",
-      "plugin:react/recommended"
-    ],
-    "globals": {
-      "document": true,
-      "window": true,
-      "localStorage": true,
-      "console": true,
-      "path": true,
-      "__dirname": true
-    }
+  "parser": "babel-eslint",
+  "rules": {
+    "strict": 0,
+    "react/prop-types": 1,
+    "no-unused-vars": "warn",
+    "no-console": "warn",
+    "no-debugger": "warn",
+    "no-mixed-spaces-and-tabs": "warn",
+    "no-irregular-whitespace": "warn"
+  },
+  "extends": ["eslint:recommended", "plugin:react/recommended"],
+  "globals": {
+    "document": true,
+    "window": true,
+    "localStorage": true,
+    "console": true,
+    "path": true,
+    "__dirname": true
   }
+}
