@@ -428,7 +428,7 @@ and legumes, with a focus on grassland communities. Nina’s broad interests are
 the field of Geobotany, the use of extensive vegetation-plot databases for both
 basic and applied research and Nature Conservation, especially the conservation
 and restoration of semi-natural species-rich grasslands.`,
-      email: `528656@mail.muni.cz`,
+      email: `nina@sci.muni.cz`,
       phoneNumber: `549498395`,
       is: `https://www.muni.cz/en/people/528656-nina-fahs`,
       img: fahs
@@ -869,7 +869,7 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
       name: `Nina Fahs`,
       position: `PhD student`,
       description: `Nina Fahs vystudovala mezinárodní technickou a aplikovanou biologii na City University of Applied Sciences v Brémách v Německu. Po dokončení magisterského projektu, ve kterém Nina pracovala na popisu a klasifikaci mesických aluviálních trávníků v severním Německu, nastoupila v roce 2020 jako doktorandka na PřF MU. Ve svém studium se nyní zabývá interakcí mezi hemiparazitickými a bobovitými rostlinami se zaměřením na travní společenstva. Nina se široce zajímá o geobotaniku, využití rozsáhlých databází vegetačních dat pro základní i aplikovaný výzkum a ochranu přírody, zejména ochranu a obnovu polopřirozených druhově bohatých travních porostů.`,
-      email: `528656@mail.muni.cz`,
+      email: `nina@sci.muni.cz`,
       phoneNumber: `549498395`,
       is: `https://www.muni.cz/lide/528656-nina-fahs`,
       img: fahs
