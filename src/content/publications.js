@@ -415,6 +415,12 @@ export const mediaEn = [
 
 export const popularizationCz = [
 {
+    date: `2022`,
+    name: `Zamrzlé safari`,
+    resources: [`Vesmír`],
+    links: [`https://vesmir.cz/cz/casopis/archiv-casopisu/2022/cislo-3/zamrzle-safari.html`]
+  },
+{
     date: `2021`,
     name: `Parazitické rostliny: Pomocníci v boji s rostlinnými invazemi a expanzemi?`,
     resources: [`Vesmír`],
