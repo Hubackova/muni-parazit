@@ -356,20 +356,6 @@ export const peopleEn = {
       phoneNumber: `549494813`, 
 	  img: galuskova
     },
-    {
-      id: `cubino`,
-      name: `Josep Padullés Cubino`,
-      position: `Postdoc`,
-      description: `"Padu" finished his PhD in 2015 in the Department of Geography of the University of Girona, Catalonia. He has completed two postdoctoral appointments in the Department of Ecology of Lincoln University, New Zealand (2015–2016), and in the Department of Ecology, Evolution & Behavior of the University of Minnesota, USA (2017–2019). He is currently working as a postdoctoral associate in the Department of Botany and Zoology of Masaryk University, exploring the ecological and evolutionary determinants of vegetation diversity in Europe. He is broadly interested in the diversity and ecology of plant communities. He is passionate about exploring large-scale patterns of plant biodiversity, considering climate and land use as drivers of diversity. He has worked in urban environments, but also in alpine grasslands and forests. In all these systems, he used analysis of evolutionary relationships among plant species, and morphological and anatomical plant traits, to understand processes that shape ecosystems and the effects of human actions on these processes. He also has experience in the study of plant invasion, particularly on how they impact ecosystem functions and services.`,
-      email: `padulles@sci.muni.cz`,
-      phoneNumber: `549498477`,
-      is: `https://www.muni.cz/en/people/243613-josep-padulles-cubino`,
-      orcid: `https://orcid.org/0000-0002-2283-5004`,
-      publons: `https://publons.com/researcher/1790367/josep-padulles-cubino/`,
-      scholar: `https://scholar.google.com/citations?hl=cs&user=V-ZcDqAAAAAJ`,
-      researchgate: `https://www.researchgate.net/profile/Josep_Padulles`, 
-	  img: cubino
-    },
         {
       id: `midolo`,
       name: `Gabriele Midolo`,
@@ -810,20 +796,6 @@ export const peopleCz = {
       is: `https://www.muni.cz/lide/357936-hana-galuskova`,
 	  img: galuskova
     },
-    {
-      id: `cubino`,
-      name: `Josep Padullés Cubino`,
-      position: `Postdoc`,
-      description: `„Padu“ získal doktorát v roce 2015 na Katedře geografie Gironské univerzity v Katalánsku. Absolvoval dva postdoktorandské pobyty: na Lincolnově univerzitě na Novém Zélandu (2015–2016) a na Minnesotské univerzitě v USA (2017–2019). V současné době pracuje jako postdoc na Ústavu botaniky a zoologie Masarykovy univerzity a zkoumá ekologické a evoluční faktory evropské vegetační diverzity. Zajímá se o diverzitu a ekologii rostlinných společenstev. Zkoumá diverzitu rostlin na velké škále ve vztahu ke klimatu a dalším faktorům. Pracoval jak v městských biotopech, tak i v lesích nebo alpínských trávnících. Ve všech těchto systémech analyzoval evoluční vztahy mezi rostlinnými druhy a morfologickými a anatomickými vlastnostmi rostlin k pochopení procesů, které formují ekosystémy. Zkoumal také účinky lidské činnosti na tyto procesy. Má zkušenosti se studiem rostlinných invazí, zejména jejich vlivu na ekosystémové funkce a služby.`,
-      email: `padulles@sci.muni.cz`,
-      phoneNumber: `549498477`,
-      is: `https://www.muni.cz/lide/243613-josep-padulles-cubino`,
-      orcid: `https://orcid.org/0000-0002-2283-5004`,
-      publons: `https://publons.com/researcher/1790367/josep-padulles-cubino/`,
-      scholar: `https://scholar.google.com/citations?hl=cs&user=V-ZcDqAAAAAJ`,
-      researchgate: `https://www.researchgate.net/profile/Josep_Padulles`,
-      img: cubino
-    },
         {
       id: `midolo`,
       name: `Gabriele Midolo`,
@@ -934,7 +906,11 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
 };
 
 export const formerPeople = [
-    {
+  {
+    name: `Josep Padullés Cubino (2019–2022)`,
+    email: `padullesj@gmail.com `
+  },
+  {
     name: `Corrado Marcenò (2019–2022)`,
     email: `marcenocorrado@libero.it`
   },
@@ -1009,10 +985,13 @@ export const formerPeople = [
 
 export const visitingScientistsCz = [
 {
-    name: `Dasha Shyriaieva (Ukrajina, 2021)`
+    name: `Filip Küzmič (Slovinsko, 2022)`
   },
   {
-    name: `Tatyana Vakhlamova (Rusko, 2021)`
+    name: `Darria Shyriaieva (Ukrajina, 2021)`
+  },
+  {
+    name: `Tatyana Vakhlamova (Kazachstán, 2021)`
   }, 
   {
     name: `Marc Riera (Španělsko, 2021)`
@@ -1126,10 +1105,13 @@ export const visitingScientistsCz = [
 
 export const visitingScientistsEn = [
 {
-name: `Dasha Shyriaieva (Ukraine, 2021)`
+    name: `Filip Küzmič (Slovenia, 2022)`
+  },
+{
+name: `Darria Shyriaieva (Ukraine, 2021)`
   },
   {
-    name: `Tatyana Vakhlamova (Russia, 2021)`
+    name: `Tatyana Vakhlamova (Kazakhstan, 2021)`
   }, 
   {
     name: `Marc Riera (Spain, 2021)`
