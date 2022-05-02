@@ -37,6 +37,7 @@ import erkelenz from "../../static/images/people/erkelenz.jpg";
 import fahs from "../../static/images/people/fahs.jpg";
 import chytrykr from "../../static/images/people/chytrykr.jpg";
 import mones from "../../static/images/people/mones.jpg";
+import ottaviani from "../../static/images/people/ottaviani.jpg";
 
 
 export const peopleEn = {
@@ -368,6 +369,18 @@ export const peopleEn = {
       scholar: `https://scholar.google.com/citations?user=E8yonpAAAAAJ&hl=it`,
       researchgate: `https://www.researchgate.net/profile/Gabriele-Midolo`, 
 	  img: midolo
+    },
+	  {
+      id: `ottaviani`,
+      name: `Gianluigi Ottaviani`,
+      position: `Postdoc`,
+      description: `Gianluigi is a plant ecologist and biogeographer. He has a broad interest in examining plant-environment links at different scales and across a variety of abiotic gradients in relation to aboveground and belowground compartments. He works at different organizational levels, namely from intraspecific variability of a few species to regional species assemblages. His special focus is on functional biogeography, and he is particularly intrigued by exploring which plant traits and strategies promote species persistence in insular systems and refugia. While Gianluigi's preferred investigative lens is a functional (trait-based) one, he also uses and combines taxonomic and phylogenetic (multifaceted) approaches to tackle his main research tasks.`,
+      email: `gianluigi.ottaviani@gmail.com`,
+      is: `https://www.muni.cz/lide/247873-gianluigi-ottaviani`,
+      orcid: `https://orcid.org/0000-0003-3027-4638`,
+      publons: `https://publons.com/researcher/1224138/gianluigi-ottaviani`,
+      scholar: `https://scholar.google.com/citations?user=wl5KdhAAAAAJ&hl=cs&oi=ao`,
+	  	  img: ottaviani
     },
 		  {
       id: `patsch`,
@@ -809,6 +822,18 @@ export const peopleCz = {
       researchgate: `https://www.researchgate.net/profile/Gabriele-Midolo`, 
 	  img: midolo
     }, 
+		  {
+      id: `ottaviani`,
+      name: `Gianluigi Ottaviani`,
+      position: `Postdoc`,
+      description: `Gianluigi je rostlinný ekolog a biogeograf. Jeho zájmem je zkoumání vazeb mezi rostlinou a prostředím v různých měřítcích a napříč různými abiotickými gradienty ve vztahu k nadzemním a podzemním částem. Pracuje na různých úrovních, a to od vnitrodruhové variability několika druhů až po regionální společenstva. Jeho zvláštním zaměřením je funkční biogeografie, obzvláště otázka, které rostlinné vlastnosti a strategie podporují perzistenci druhů v ostrovních systémech a refugiích. Gianluigi používá a kombinuje také taxonomické a fylogenetické (mnohostranné) přístupy k řešení svých hlavních výzkumných úkolů.`,
+      email: `gianluigi.ottaviani@gmail.com`,
+      is: `https://www.muni.cz/lide/247873-gianluigi-ottaviani`,
+      orcid: `https://orcid.org/0000-0003-3027-4638`,
+      publons: `https://publons.com/researcher/1224138/gianluigi-ottaviani`,
+      scholar: `https://scholar.google.com/citations?user=wl5KdhAAAAAJ&hl=cs&oi=ao`,
+	  	  img: ottaviani
+    },
 	  {
       id: `patsch`,
       name: `Ricarda Pätsch`,
