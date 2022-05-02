@@ -380,6 +380,7 @@ export const peopleEn = {
       orcid: `https://orcid.org/0000-0003-3027-4638`,
       publons: `https://publons.com/researcher/1224138/gianluigi-ottaviani`,
       scholar: `https://scholar.google.com/citations?user=wl5KdhAAAAAJ&hl=cs&oi=ao`,
+	  researchgate: `https://www.researchgate.net/profile/Gianluigi-Ottaviani`, 
 	  	  img: ottaviani
     },
 		  {
@@ -832,6 +833,7 @@ export const peopleCz = {
       orcid: `https://orcid.org/0000-0003-3027-4638`,
       publons: `https://publons.com/researcher/1224138/gianluigi-ottaviani`,
       scholar: `https://scholar.google.com/citations?user=wl5KdhAAAAAJ&hl=cs&oi=ao`,
+	   researchgate: `https://www.researchgate.net/profile/Gianluigi-Ottaviani`, 
 	  	  img: ottaviani
     },
 	  {
