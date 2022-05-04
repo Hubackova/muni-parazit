@@ -38,7 +38,7 @@ import fahs from "../../static/images/people/fahs.jpg";
 import chytrykr from "../../static/images/people/chytrykr.jpg";
 import mones from "../../static/images/people/mones.jpg";
 import ottaviani from "../../static/images/people/ottaviani.jpg";
-
+import toumoulin from "../../static/images/people/toumoulin.jpg";
 
 export const peopleEn = {
   employees: [
@@ -264,6 +264,19 @@ export const peopleEn = {
       researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
       img: novak
     },
+	{
+      id: `ottaviani`,
+      name: `Gianluigi Ottaviani`,
+      position: `Researcher`,
+      description: `Gianluigi is a plant ecologist and biogeographer. He has a broad interest in examining plant-environment links at different scales and across a variety of abiotic gradients in relation to aboveground and belowground compartments. He works at different organizational levels, namely from intraspecific variability of a few species to regional species assemblages. His special focus is on functional biogeography, and he is particularly intrigued by exploring which plant traits and strategies promote species persistence in insular systems and refugia. While Gianluigi's preferred investigative lens is a functional (trait-based) one, he also uses and combines taxonomic and phylogenetic (multifaceted) approaches to tackle his main research tasks.`,
+      email: `gianluigi.ottaviani@gmail.com`,
+      is: `https://www.muni.cz/lide/247873-gianluigi-ottaviani`,
+      orcid: `https://orcid.org/0000-0003-3027-4638`,
+      publons: `https://publons.com/researcher/1224138/gianluigi-ottaviani`,
+      scholar: `https://scholar.google.com/citations?user=wl5KdhAAAAAJ&hl=cs&oi=ao`,
+	  researchgate: `https://www.researchgate.net/profile/Gianluigi-Ottaviani`, 
+	  	  img: ottaviani
+    },
     {
       id: `preislerova`,
       name: `Zdenka Preislerová`,
@@ -371,19 +384,6 @@ export const peopleEn = {
       researchgate: `https://www.researchgate.net/profile/Gabriele-Midolo`, 
 	  img: midolo
     },
-	  {
-      id: `ottaviani`,
-      name: `Gianluigi Ottaviani`,
-      position: `Postdoc`,
-      description: `Gianluigi is a plant ecologist and biogeographer. He has a broad interest in examining plant-environment links at different scales and across a variety of abiotic gradients in relation to aboveground and belowground compartments. He works at different organizational levels, namely from intraspecific variability of a few species to regional species assemblages. His special focus is on functional biogeography, and he is particularly intrigued by exploring which plant traits and strategies promote species persistence in insular systems and refugia. While Gianluigi's preferred investigative lens is a functional (trait-based) one, he also uses and combines taxonomic and phylogenetic (multifaceted) approaches to tackle his main research tasks.`,
-      email: `gianluigi.ottaviani@gmail.com`,
-      is: `https://www.muni.cz/lide/247873-gianluigi-ottaviani`,
-      orcid: `https://orcid.org/0000-0003-3027-4638`,
-      publons: `https://publons.com/researcher/1224138/gianluigi-ottaviani`,
-      scholar: `https://scholar.google.com/citations?user=wl5KdhAAAAAJ&hl=cs&oi=ao`,
-	  researchgate: `https://www.researchgate.net/profile/Gianluigi-Ottaviani`, 
-	  	  img: ottaviani
-    },
 		  {
       id: `patsch`,
       name: `Ricarda Pätsch`,
@@ -399,6 +399,18 @@ Ricarda is convinced that respectful and mutually supportive cooperation facilit
       scholar: `https://scholar.google.com/citations?hl=cs&user=C0wGH-sAAAAJ`,
 	  personal: `https://ricardapaetsch.weebly.com/`,
 	  img: patsch
+    },
+			  {
+      id: `toumoulin`,
+      name: `Agathe Toumoulin`,
+      position: `Postdoc`,
+      description: `Agathe studied biology, ecology and evolution at the University of Montpellier where she specialized in the reconstruction of paleoenvironments. She then completed a PhD in paleoclimate modelling at the French National Centre for Scientific Research, in Aix-en-Provence, during which she focussed on a major climate change of our era, the Eocene Oligocene Transition (around ~ 34 million years ago). She has experience using different types of fossil remains (including leaves and wood) and paleoclimate reconstruction tools (proxies and Earth System Models). Her postdoc project combines some of these different approaches to describe the evolution of Angiosperms' functional diversity in Europe during the Cenozoic (i.e., the last 66 million years), and to understand how this was shaped by past geographic and climate changes.`,
+      email: `agathe.toumoulin@gmail.com`,
+      is: `https://www.muni.cz/en/people/247960-agathe-toumoulin`,
+      orcid: `https://orcid.org/0000-0003-2181-3732`,
+      publons: `https://publons.com/researcher/4473505/agathe-toumoulin/`,
+      scholar: `https://scholar.google.com/citations?user=NpI6pgcAAAAJ&hl=cs&oi=ao`,
+	  img: toumoulin
     },
   ],
   
@@ -718,6 +730,19 @@ export const peopleCz = {
       researchgate: `https://www.researchgate.net/profile/Pavel_Novak21`,
       img: novak
     },
+	{
+      id: `ottaviani`,
+      name: `Gianluigi Ottaviani`,
+      position: `Výzkumník`,
+      description: `Gianluigi je rostlinný ekolog a biogeograf. Jeho zájmem je zkoumání vazeb mezi rostlinou a prostředím v různých měřítcích a napříč různými abiotickými gradienty ve vztahu k nadzemním a podzemním částem. Pracuje na různých úrovních, a to od vnitrodruhové variability několika druhů až po regionální společenstva. Jeho zvláštním zaměřením je funkční biogeografie, obzvláště otázka, které rostlinné vlastnosti a strategie podporují perzistenci druhů v ostrovních systémech a refugiích. Gianluigi používá a kombinuje také taxonomické a fylogenetické (mnohostranné) přístupy k řešení svých hlavních výzkumných úkolů.`,
+      email: `gianluigi.ottaviani@gmail.com`,
+      is: `https://www.muni.cz/lide/247873-gianluigi-ottaviani`,
+      orcid: `https://orcid.org/0000-0003-3027-4638`,
+      publons: `https://publons.com/researcher/1224138/gianluigi-ottaviani`,
+      scholar: `https://scholar.google.com/citations?user=wl5KdhAAAAAJ&hl=cs&oi=ao`,
+	   researchgate: `https://www.researchgate.net/profile/Gianluigi-Ottaviani`, 
+	  	  img: ottaviani
+    },
     {
       id: `preislerova`,
       name: `Zdenka Preislerová`,
@@ -824,19 +849,7 @@ export const peopleCz = {
       researchgate: `https://www.researchgate.net/profile/Gabriele-Midolo`, 
 	  img: midolo
     }, 
-		  {
-      id: `ottaviani`,
-      name: `Gianluigi Ottaviani`,
-      position: `Postdoc`,
-      description: `Gianluigi je rostlinný ekolog a biogeograf. Jeho zájmem je zkoumání vazeb mezi rostlinou a prostředím v různých měřítcích a napříč různými abiotickými gradienty ve vztahu k nadzemním a podzemním částem. Pracuje na různých úrovních, a to od vnitrodruhové variability několika druhů až po regionální společenstva. Jeho zvláštním zaměřením je funkční biogeografie, obzvláště otázka, které rostlinné vlastnosti a strategie podporují perzistenci druhů v ostrovních systémech a refugiích. Gianluigi používá a kombinuje také taxonomické a fylogenetické (mnohostranné) přístupy k řešení svých hlavních výzkumných úkolů.`,
-      email: `gianluigi.ottaviani@gmail.com`,
-      is: `https://www.muni.cz/lide/247873-gianluigi-ottaviani`,
-      orcid: `https://orcid.org/0000-0003-3027-4638`,
-      publons: `https://publons.com/researcher/1224138/gianluigi-ottaviani`,
-      scholar: `https://scholar.google.com/citations?user=wl5KdhAAAAAJ&hl=cs&oi=ao`,
-	   researchgate: `https://www.researchgate.net/profile/Gianluigi-Ottaviani`, 
-	  	  img: ottaviani
-    },
+
 	  {
       id: `patsch`,
       name: `Ricarda Pätsch`,
@@ -850,6 +863,18 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
       scholar: `https://scholar.google.com/citations?hl=cs&user=C0wGH-sAAAAJ`,
 	  personal: `https://ricardapaetsch.weebly.com/`,
 	  img: patsch
+    },
+				  {
+      id: `toumoulin`,
+      name: `Agathe Toumoulin`,
+      position: `Postdoc`,
+      description: `Agathe studovala biologii, ekologii a evoluci na Montpellierské univerzitě, kde se specializovala na rekonstrukci historického prostředí. Poté dokončila doktorát v oboru modelování paleoklimatu ve Francouzském národním centru pro vědecký výzkum v Aix-en-Provence, během kterého se zaměřila na hlavní klimatickou změnu naší éry, na přechodu mezi eocénem a oligocénem (asi před ~ 34 miliony lety). Má zkušenosti s různými typy fosílií (včetně listů a dřeva) a nástroji pro rekonstrukci paleoklimatu (proxy a modely zemského systému). Její postdoktorský projekt kombinuje některé z těchto různých přístupů k popisu vývoje funkční diverzity krytosemenných rostlin v Evropě během kenozoika (tj. posledních 66 milionů let) a k pochopení toho, jak bylo prostředí formováno minulými geografickými a klimatickými změnami.`,
+      email: `agathe.toumoulin@gmail.com`,
+      is: `https://www.muni.cz/en/people/247960-agathe-toumoulin`,
+      orcid: `https://orcid.org/0000-0003-2181-3732`,
+      publons: `https://publons.com/researcher/4473505/agathe-toumoulin/`,
+      scholar: `https://scholar.google.com/citations?user=NpI6pgcAAAAJ&hl=cs&oi=ao`,
+	  img: toumoulin
     },
   ],
   phdStudents: [
