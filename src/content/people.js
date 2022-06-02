@@ -39,6 +39,8 @@ import chytrykr from "../../static/images/people/chytrykr.jpg";
 import mones from "../../static/images/people/mones.jpg";
 import ottaviani from "../../static/images/people/ottaviani.jpg";
 import toumoulin from "../../static/images/people/toumoulin.jpg";
+import iemelianova from "../../static/images/people/iemelianova.jpg";
+import tesitelova from "../../static/images/people/tesitelova.jpg";
 
 export const peopleEn = {
   employees: [
@@ -201,6 +203,19 @@ export const peopleEn = {
 	  personal: `https://twitter.com/Kryshpean21`,
 	  img: chytrykr
     },
+	{
+      id: `iemelianova`,
+      name: `Svitlana Iemelianova`,
+      position: `Researcher`,
+      description: `Svitlana Iemelianova is from Ukraine. She concluded her PhD thesis in 2015 at the M.G. Kholodny Institute of Botany of the National Academy of Science of Ukraine. She focuses on vegetation classification, plant invasions in different habitat types, and nature conservation.`,
+      email: `yemelianova.sv@gmail.com`,
+      is: `https://www.muni.cz/en/people/242944-svitlana-iemelianova`,
+      orcid: `https://orcid.org/0000-0001-5885-3186`,
+      researchgate: `https://www.researchgate.net/profile/Svitlana-Iemelianova` , 
+	  publons: `https://publons.com/researcher/3340751/svitlana-iemelianova/`,
+	  img: iemelianova
+    },
+	
     {
       id: `kalusova`,
       name: `Veronika Kalusová`,
@@ -338,6 +353,16 @@ export const peopleEn = {
       researchgate: `https://www.researchgate.net/profile/Marketa_Taborska`,
 	  img: taborska
     },
+	 {
+      id: `tesitelova`,
+      name: `Tamara Těšitelová`,
+      position: `Researcher (maternity leave)`,
+      description: `Tamara Těšitelová studied botany at the Faculty of Science at the University of South Bohemia in Budweis. She finished her Ph.D. training in 2014 by defencing a thesis called „Ecological and evolutionary consequences of orchid dependence on mycorrhizal fungi“. For studies of the orchid-fungi relationship, she used numerous approaches, such as field experiments with orchid seed sowing, isolation of mycorrhizal fungi in culture, molecular barcoding, including high-throughput sequencing of root and soil samples, phylogenetic analyses, as well as electron microscopy and stable isotope analyses. Tamara joined the Department of Botany and Zoology at Masaryk University in 2021. In her current research, she focuses on the ability of hemiparasitic plants to suppress invasive plants, the ecology of mycoheterotrophic plants based on vegetation databases, and anthropogenic effects on orchid mycorrhizal fungi in soil. `,
+      email: `tamara.malinova@centrum.cz`,
+      is: `https://www.muni.cz/en/people/246803-tamara-tesitelova`,
+	  orcid: `https://orcid.org/0000-0001-6901-6359`,
+	  img: tesitelova
+    },
 	{
       id: `vecera`,
       name: `Martin Večeřa`,
@@ -410,6 +435,8 @@ Ricarda is convinced that respectful and mutually supportive cooperation facilit
       orcid: `https://orcid.org/0000-0003-2181-3732`,
       publons: `https://publons.com/researcher/4473505/agathe-toumoulin/`,
       scholar: `https://scholar.google.com/citations?user=NpI6pgcAAAAJ&hl=cs&oi=ao`,
+	  researchgate: `https://www.researchgate.net/profile/Agathe-Toumoulin`, 
+	  personal: `https://agathetoumoulin.wixsite.com/monsite`,
 	  img: toumoulin
     },
   ],
@@ -666,6 +693,19 @@ export const peopleCz = {
 	  personal: `https://twitter.com/Kryshpean21`,
 	  img: chytrykr
     },
+		{
+      id: `iemelianova`,
+      name: `Svitlana Iemelianova`,
+      position: `Výzkumník`,
+      description: `Svitlana Iemelianova je z Ukrajiny. Svou PhD práci vypracovala v roce 2015 na M.G. Kholodny Institute of Botany of the National Academy of Science of Ukraine. Zabývá se klasifikací vegetace, rostlinnými invazemi v různých typech prostředí a ochranou přírody.`,
+      email: `yemelianova.sv@gmail.com`,
+      is: `https://www.muni.cz/en/people/242944-svitlana-iemelianova`,
+      orcid: `https://orcid.org/0000-0001-5885-3186`,
+      researchgate: `https://www.researchgate.net/profile/Svitlana-Iemelianova` , 
+	  publons: `https://publons.com/researcher/3340751/svitlana-iemelianova/`,
+	  img: iemelianova
+    },
+
     {
       id: `kalusova`,
       name: `Veronika Kalusová`,
@@ -801,6 +841,16 @@ export const peopleCz = {
       researchgate: `https://www.researchgate.net/profile/Marketa_Taborska`, 
 	  img: taborska
     },
+		 {
+      id: `tesitelova`,
+      name: `Tamara Těšitelová`,
+      position: `Výzkumník (mateřská dovolená)`,
+      description: `Tamara Těšitelová vystudovala botaniku na Přírodovědecké fakultě Jihočeské univerzity, kde v roce 2014 obhájila disertační práci s názvem „Ekologické a evoluční důsledky závislosti orchidejí na mykorhizních houbách“. Pro studium orchideoidní mykorhizy využila pestrou škálu přístupů od terénních experimentů s vyséváním orchidejových semen, izolace a molekulární identifikace hub, včetně metabarkódování environmentální DNA, a fylogenetických analýz až po elektronovou mikroskopii či složení stabilních izotopů. Na Ústavu botaniky a zoologie MU působí od roku 2021 a věnuje se zde využití poloparazitických rostlin pro potlačení invazních rostlinných druhů a také využití databází pro studium ekologie mykoheterotrofních rostlin. Nadále pracuje i na Jihočeské univerzitě především na otázkách antropogenního ovlivnění společenstev orchideoidních hub v půdě a využití houbového inokula pro obnovu populací orchidejí v přírodě.`,
+      email: `tamara.malinova@centrum.cz`,
+      is: `https://www.muni.cz/en/people/246803-tamara-tesitelova`,
+	  orcid: `https://orcid.org/0000-0001-6901-6359`,
+	  img: tesitelova
+    },
 	{
       id: `vecera`,
       name: `Martin Večeřa`,
@@ -874,8 +924,10 @@ Na Ústavu botaniky a zoologie Masarykovy univerzity studuje Ricarda evropskou v
       orcid: `https://orcid.org/0000-0003-2181-3732`,
       publons: `https://publons.com/researcher/4473505/agathe-toumoulin/`,
       scholar: `https://scholar.google.com/citations?user=NpI6pgcAAAAJ&hl=cs&oi=ao`,
+	  researchgate: `https://www.researchgate.net/profile/Agathe-Toumoulin`, 
+	  personal: `https://agathetoumoulin.wixsite.com/monsite`,
 	  img: toumoulin
-    },
+	     },
   ],
   phdStudents: [
       {
