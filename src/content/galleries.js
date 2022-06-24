@@ -1,4 +1,7 @@
 export const galleryNames = [
+  { main: "italy_2022" },
+  { main: "mohelno_2022" },
+  { main: "montenegro_2022" },
   { main: "austria_2021" },
   { main: "jeseniky_2021" },
   { main: "slovakia_2020" },
@@ -20,6 +23,9 @@ export const galleryNames = [
 ];
 
 export const galleryNamesCz = [
+  "2022 Itálie",
+  "2022 Mohelno",
+  "2022 Černá Hora",
   "2021 Rakousko",
   "2021 Jeseníky",
   "2020 Slovensko",
@@ -40,6 +46,9 @@ export const galleryNamesCz = [
   "2007 Itálie",
 ];
 export const galleryNamesEn = [
+  "2022 Italy",
+  "2022 Mohelno",
+  "2022 Montenegro",
   "2021 Austria",
   "2021 Jeseníky mountains",
   "2020 Slovakia",
@@ -61,6 +70,9 @@ export const galleryNamesEn = [
 ];
 
 export const galleryLabelsCz = {
+  italy_2022: ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",  "", "", "", "", ],
+  mohelno_2022: ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",  "", "", "", "", ],
+  montenegro_2022: ["", "", "Orchis purpurea", "", "", "Orchis tridentata", "", "", "", "", "", "", "", "", "", "", "Orchis morio", "", "", "", "", "", "", "", "Quercus trojana", "", "", "Orlaya grandiflora",  "Anacamptis pyramidalis", "Boka Kotorska", "", "Ophrys sp.", "", "", ""],
   austria_2021: ["", "Neusiedler See", "Hordeum jubatum", "Erigeron podolicus", "Neusiedler See", "Neusiedler See", "Allium angulosum", "Neusiedler See", "Neusiedl am See, Kalvarienberg", "Neusiedl am See, Kalvarienberg", "Koralpen", "Gentiana pannonica", "Koralpen", "Koralpen", "Dianthus superbus", "Koralpen", "Koralpen, Grosser Speikkogel", "", "Faaker See", "Faaker See", "Faaker See", "Lienzer Dolomiten, Lasersee", "Lienzer Dolomiten, Lasersee", "Lienzer Dolomiten, Lasersee", "Lienzer Dolomiten, Lasersee", "Dryas octopetala", "Lienzer Dolomiten, Lasersee", "Pasterze", "Pasterze", "Cirsium spinosissimum", "Marmota marmota", "Leontopodium alpinum", "Sempervivum arachnoideum", "Lomatogonium carinthiacum", "", "Warscheneck", "Wienerwald, Pinus nigra"],
   jeseniky_2021: ["Velký kotel", "", "", "Trollius altissimus", "", "", "", "Plantago atrata", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "Vysoká hole", "", "", "", "Listera cordata", "", "", "", "Salix herbacea", "", "Poa riphaea", "", "", "", "", ],
   slovakia_2020: ["","Terchová-Diery", "Corthusa matthioli", "Terchová-Diery","", "Cirsium eriophorum", "Terchová-Tiesňavy", "Ranunculus alpestris", "V. Fatra-Tlstá", "Gentianella fatrae", "V. Fatra-Tlstá", "Lappula squarrosa", "Velká Fatra", "Velká Fatra", "Malá Studená dolina", "Malá Studená dolina", "Malá Studená dolina", "Malá Studená dolina", "Malá Studená dolina", "Rhodiola rosea", "Gentiana asclepiadea", "Adenostyles alliariae", "Malá Studená dolina", "Spišské pleso", "Spišské pleso","Salix herbacea", "Téryho chata", "kemp Tatranská Štrba", "kemp Tatranská Štrba", "kemp Tatranská Štrba; výstavka","Primovské skaly", "Primovské skaly", "Galatella linosyris", "Eresus kollari", "Sivá brada", "Sivá brada", "Sivá brada", "Sivá brada", "Ostrá hora", "Ostrá hora", "Aconitum anthora", "Velké Biele pleso", "Kopské sedlo", "Kopské sedlo", "Kopské sedlo", "Adenophora liliifolia", "Rosa pendulina", "Rosa spinosissima", "Prielom Hornádu" , "Prielom Hornádu" , "Prielom Hornádu" , "Prielom Hornádu" , "Prielom Hornádu" , "Geastrum sp.", "Prielom Hornádu" , "Stratenský kaňon", "Hnilecká jelšina", "Succisa pratensis + Polygonia c-album", "Ligularia sibirica", "Hnilecká jelšina", "Hnilecká jelšina", "CoronaBus :-)"],
@@ -80,6 +92,9 @@ export const galleryLabelsCz = {
 };
 
 export const galleryLabelsEn = {
+  italy_2022: ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",  "", "", "", "", ],
+  mohelno_2022: ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "",  "", "", "", "", ],
+    montenegro_2022: ["", "", "Orchis purpurea", "", "", "Orchis tridentata", "", "", "", "", "", "", "", "", "", "", "Orchis morio", "", "", "", "", "", "", "", "Quercus trojana", "", "", "Orlaya grandiflora",  "Anacamptis pyramidalis", "Boka Kotorska", "", "Ophrys sp.", "", "", ""],
   austria_2021: ["", "Neusiedler See", "Hordeum jubatum", "Erigeron podolicus", "Neusiedler See", "Neusiedler See", "Allium angulosum", "Neusiedler See", "Neusiedl am See, Kalvarienberg", "Neusiedl am See, Kalvarienberg", "Koralpen", "Gentiana pannonica", "Koralpen", "Koralpen", "Dianthus superbus", "Koralpen", "Koralpen, Grosser Speikkogel", "", "Faaker See", "Faaker See", "Faaker See", "Lienzer Dolomiten, Lasersee", "Lienzer Dolomiten, Lasersee", "Lienzer Dolomiten, Lasersee", "Lienzer Dolomiten, Lasersee", "Dryas octopetala", "Lienzer Dolomiten, Lasersee", "Pasterze", "Pasterze", "Cirsium spinosissimum", "Marmota marmota", "Leontopodium alpinum", "Sempervivum arachnoideum", "Lomatogonium carinthiacum", "", "Warscheneck", "Wienerwald, Pinus nigra"],
   jeseniky_2021: ["Velký kotel", "", "", "Trollius altissimus", "", "", "", "Plantago atrata", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "Vysoká hole", "", "", "", "Listera cordata", "", "", "", "Salix herbacea", "", "Poa riphaea", "", "", "", "", ],
   slovakia_2020: ["", "Terchová-Diery", "Corthusa matthioli", "Terchová-Diery","", "Cirsium eriophorum", "Terchová-Tiesňavy", "Ranunculus alpestris", "V. Fatra-Tlstá", "Gentianella sp.", "V. Fatra-Tlstá", "Lappula squarrosa", "Velká Fatra", "Velká Fatra", "Malá Studená dolina", "Malá Studená dolina", "Malá Studená dolina", "Malá Studená dolina", "Malá Studená dolina", "Rhodiola rosea", "Gentiana asclepiadea", "Adenostyles alliariae", "Malá Studená dolina", "Spišské pleso", "Spišské pleso","Salix herbacea", "Téryho chata", "kemp Tatranská Štrba", "kemp Tatranská Štrba", "kemp Tatranská Štrba; výstavka","Primovské skaly", "Primovské skaly", "Galatella linosyris", "Eresus kollari", "Sivá brada", "Sivá brada", "Sivá brada", "Sivá brada", "Ostrá hora", "Ostrá hora", "Aconitum anthora", "Velké Biele pleso", "Kopské sedlo", "Kopské sedlo", "Kopské sedlo", "Adenophora liliifolia", "Rosa pendulina", "Rosa spinosissima", "Prielom Hornádu" , "Prielom Hornádu" , "Prielom Hornádu" , "Prielom Hornádu" , "Prielom Hornádu" , "Geastrum sp.", "Prielom Hornádu" , "Stratenský kaňon", "Hnilecká jelšina", "Succisa pratensis + Polygonia c-album", "Ligularia sibirica", "Hnilecká jelšina", "Hnilecká jelšina", "Coronabus :-)"],

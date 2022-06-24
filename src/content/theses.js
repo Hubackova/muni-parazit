@@ -1,5 +1,29 @@
 ﻿export const thesesEn = {
   bachelorThesesList: [
+           {
+      name: `Long-term vegetation changes in selected forest areas in the Beskydy foothills`,
+      link: `https://is.muni.cz/th/pjbif/`,
+      author: "Štěpánka Pustková",
+      year: "2022"
+    },
+	       {
+      name: `Invasion of Mahonia aquifolium in the city of Brno`,
+      link: `https://is.muni.cz/th/vxcs9/`,
+      author: "Vojtěch Sobotka",
+      year: "2022"
+    },
+	       {
+      name: `Forest vegetation of the southern part of the Podkomorské lesy Nature Park`,
+      link: `https://is.muni.cz/th/wjlia/`,
+      author: "Natália Janišová",
+      year: "2022"
+    },
+		       {
+      name: `Ecological interaction between hemiparasitic Melampyrum arvense and invasive Erigeron annuus`,
+      link: `https://is.muni.cz/th/cjl5e/`,
+      author: "Terezie Chamrátová",
+      year: "2022"
+    },
       {
       name: `The effect of former ploughing on grassland species composition in the Hutě Nature Reserve (White Carpathians)`,
       link: `https://is.muni.cz/th/v60d7/?lang=en`,
@@ -45,6 +69,18 @@
   ],
 
   masterThesesList: [
+        {
+      name: `Tall-herb vegetation of the south Moravian forest-steppe`,
+      link: `https://is.muni.cz/th/hauzn/`,
+      author: "Klára Klinkovská",
+      year: "2022"
+    },
+	      {
+      name: `Alpine and subalpine vegetation of Mt Midzhur, Stara Planina, Bulgaria`,
+      link: `https://is.muni.cz/th/qzsj5/`,
+      author: "Daniel Szokala",
+      year: "2022"
+    },
       {
       name: `Flora of selected mining sites of White Carpathians Mts.`,
       link: `https://is.muni.cz/th/jqnqg/?lang=en`,
@@ -227,6 +263,30 @@
 
 export const thesesCz = {
   bachelorThesesList: [
+         {
+      name: `Dlouhodobé změny vegetace vybraných lesních komplexů Beskydského podhůří`,
+      link: `https://is.muni.cz/th/pjbif/`,
+      author: "Štěpánka Pustková",
+      year: "2022"
+    },
+	       {
+      name: `Invaze mahónie cesmínolisté (Mahonia aquifolium) na území města Brna`,
+      link: `https://is.muni.cz/th/vxcs9/`,
+      author: "Vojtěch Sobotka",
+      year: "2022"
+    },
+	       {
+      name: `Lesní vegetace jižní části přírodního parku Podkomorské lesy`,
+      link: `https://is.muni.cz/th/wjlia/`,
+      author: "Natália Janišová",
+      year: "2022"
+    },
+			{
+      name: `Ekologická interakce mezi poloparazitickým černýšem rolním (Melampyrum arvense) a invazním turanem ročním (Erigeron annuus)`,
+      link: `https://is.muni.cz/th/cjl5e/`,
+      author: "Terezie Chamrátová",
+      year: "2022"
+    },
         {
       name: `Vliv minulé orby na druhové složení luk v PR Hutě v Bílých Karpatech`,
       link: `https://is.muni.cz/th/v60d7/`,
@@ -272,6 +332,18 @@ export const thesesCz = {
   ],
 
   masterThesesList: [
+          {
+      name: `Vysokobylinná vegetace jihomoravské lesostepi`,
+      link: `https://is.muni.cz/th/hauzn/`,
+      author: "Klára Klinkovská",
+      year: "2022"
+    },
+	      {
+      name: `Alpínská a subalpínská vegetace hory Midžur, Stara planina, Bulharsko`,
+      link: `https://is.muni.cz/th/qzsj5/`,
+      author: "Daniel Szokala",
+      year: "2022"
+    },
       {
       name: `Květena vybraných lomů v Bílých Karpatech`,
       link: `https://is.muni.cz/th/jqnqg/`,
