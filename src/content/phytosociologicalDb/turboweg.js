@@ -277,6 +277,12 @@ export const cz = {
           vložte do složky <i>popup</i> (C:/Program Files/TURBOWIN/popup), při vkládání přepište všechny
           staré soubory.
         </p>
+		
+		<p>
+		<div style={{ fontWeight: "bold", color: "#e6091f" }}>NOVÉ</div>
+		8.9.2022 Do popup listu bylo přidáno pole „New syntaxon“ umístěné za pole „Coordinate system“. New syntaxon je propojený se seznamem syntaxonů podle monografie Vegetace České republiky (Chytrý et. al. 2007–2013). Toto pole se samo vytvoří v již existující databázi po aktualizaci
+popup listu.
+		</p>
       </div>
     </div>
   ),
@@ -325,6 +331,12 @@ export const cz = {
         ). Seznam syntaxonů používaný v TURBOVEGu je vytvořen podle díla Rostlinná společenstva
         České republiky a jejich ohrožení (Moravec et al. 1995).
       </p>
+	  <p>
+	  {" "}
+        <a download href={withPrefix(`/vzor.zip`)}>
+          Zde
+        </a>{" "} si můžete stáhnout …
+	  </p>
       <p>
         Literatura: <br />
         <cite>
