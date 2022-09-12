@@ -311,7 +311,10 @@ popup listu.
         <a download href={withPrefix(`/manualTv.pdf`)}>
           manuál
         </a>{" "}
-        popisující vytváření databází a zadávání dat do Turbovegu.
+        popisující vytváření databází a zadávání dat do Turbovegu. {" "}
+        <a download href={withPrefix(`/vzor.zip`)}>
+          Zde
+        </a>{" "} si můžete stáhnout prázdnou vzorovou databázi s předem definovanými standardními hlavičkami používanými v ČNFD. Prázdnou databázi si rozbalíte do složky TUBOWIN/data a přejmenujete.
       </p>
       <p>
         Seznam druhů cévnatých rostlin používaný v TURBOVEGu je modifikovanou verzí díla Liste der
@@ -331,12 +334,7 @@ popup listu.
         ). Seznam syntaxonů používaný v TURBOVEGu je vytvořen podle díla Rostlinná společenstva
         České republiky a jejich ohrožení (Moravec et al. 1995).
       </p>
-	  <p>
-	  {" "}
-        <a download href={withPrefix(`/vzor.zip`)}>
-          Zde
-        </a>{" "} si můžete stáhnout …
-	  </p>
+	  
       <p>
         Literatura: <br />
         <cite>
