@@ -94,9 +94,16 @@ export const en = {
         <p>
         Extract the file <i>species.zip</i> and add the folder <i>Czechia_Slovakia_2015</i> to the folder /TURBOWIN/species. In the Turboveg program, assign the species list using <i>modify database attributes</i> to the specific database. Extract the file <i>popup.zip</i> to the folder /TURBOWIN/popup (old files should be rewritten).
         </p>
+		<p>
+		<div style={{ fontWeight: "bold", color: "#e6091f" }}>NEW</div>
+		8.9.2022 The new header data field „New syntaxon“ was added to popup list. New syntaxon follows syntaxon list according to monography <a href="https://botzool.cz/vegsci/vegetationCR">Vegetace České republiky</a> (Chytrý et. al. 2007–2013). 
+		</p>
       </div>
     </div>
   ),
+  
+  
+  
   workPrincipals: (
     <div>
       <div style={{ fontWeight: "bold", color: "#94962C" }}>Instructions</div>
@@ -115,6 +122,10 @@ export const en = {
         <a download href={withPrefix(`/manualTv.pdf`)}>
           here
         </a>.
+		{" "} You can download empty database {" "}
+        <a download href={withPrefix(`/vzor.zip`)}>
+          here
+        </a>{" "}  with defined standard header data fields used in the Czech National Phytosociological Database. Restore the empty database to the folder /TURBOWIN/data and rename it.
       </p>
       <p>
         Nomenclature of vascular plant species in the Czech National Phytosociological Database follows an updated version of Liste der Gefäßpflanzen Mitteleuropas (Ehrendorfer 1973), prepared by Harald Niklfeld and Walter Gutermann, with additions of species included in Key to the flora of the Czech Republic (Kubát et al. 2002). Names of bryophytes and lichens follow Frey et al. (1995) and Pišút et al. (1993). The species list used in the Czech National Phytosociological Database, called Czechia_Slovakia_2015, is identical with that used in the Central Database of Phytosociological Relevés in Slovakia. The list of syntaxa used in the Czech installation of TURBOVEG follows Moravec et al. (1995).
@@ -280,7 +291,7 @@ export const cz = {
 		
 		<p>
 		<div style={{ fontWeight: "bold", color: "#e6091f" }}>NOVÉ</div>
-		8.9.2022 Do popup listu bylo přidáno pole „New syntaxon“ umístěné za pole „Coordinate system“. New syntaxon je propojený se seznamem syntaxonů podle monografie Vegetace České republiky (Chytrý et. al. 2007–2013). Toto pole se samo vytvoří v již existující databázi po aktualizaci
+		8.9.2022 Do popup listu bylo přidáno pole „New syntaxon“ umístěné za pole „Coordinate system“. New syntaxon je propojený se seznamem syntaxonů podle monografie <a href="https://botzool.cz/vegsci/vegetationCR">Vegetace České republiky</a> (Chytrý et. al. 2007–2013). Toto pole se samo vytvoří v již existující databázi po aktualizaci
 popup listu.
 		</p>
       </div>
