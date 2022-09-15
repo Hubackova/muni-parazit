@@ -26,7 +26,7 @@ export const en = {
       img: "resources-pladias_en"
     },
 	{
-      name: "FloraVeg.EU",
+      name: "",
       linkTo: "/floraveg",
       img: "resources-floraveg"
     },
@@ -77,7 +77,7 @@ export const cz = {
         img: "resources-pladias_cz"
       },
 	  {
-      name: "FloraVeg.EU",
+      name: "",
       linkTo: "/floraveg",
       img: "resources-floraveg"
     },
