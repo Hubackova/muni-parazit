@@ -25,15 +25,21 @@ export const en = {
       linkTo: "/pladias",
       img: "resources-pladias_en"
     },
-    {
-      name: "Botanická fotogalerie",
-      linkTo: "/botanicPhotogallery",
-      img: "resources-photogallery_en"
+	{
+      name: "FloraVeg.EU",
+      linkTo: "/floraveg",
+      img: "resources-floraveg"
     },
+
     {
       name: "European Vegetation Archive",
       linkTo: "/eva",
       img: "resources-eva_en"
+    },
+	    {
+      name: "Botanická fotogalerie",
+      linkTo: "/botanicPhotogallery",
+      img: "resources-photogallery_en"
     },
     {
       name: "Bibliografie vegetace ČR",
@@ -70,15 +76,21 @@ export const cz = {
         linkTo: "/pladias",
         img: "resources-pladias_cz"
       },
-      {
-        name: "Botanická fotogalerie",
-        linkTo: "/botanicPhotogallery",
-        img: "resources-photogallery_cz"
-      },
+	  {
+      name: "FloraVeg.EU",
+      linkTo: "/floraveg",
+      img: "resources-floraveg"
+    },
+     
       {
         name: "European Vegetation Archive",
         linkTo: "/eva",
         img: "resources-eva_cz"
+      },
+	   {
+        name: "Botanická fotogalerie",
+        linkTo: "/botanicPhotogallery",
+        img: "resources-photogallery_cz"
       },
       {
         name: "Bibliografie vegetace ČR",
