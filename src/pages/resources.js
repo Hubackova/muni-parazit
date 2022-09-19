@@ -12,8 +12,8 @@ const ResourcesPage = ({ data: imgData }) => (
       return (
         <Container>
           <GridWrapper>
-            {data.resourcesList.map(resource => {
-              const img = imgData.allImageSharp.edges.filter(i =>
+            {data.resourcesList.map((resource) => {
+              const img = imgData.allImageSharp.edges.filter((i) =>
                 i.node.fixed.src.includes(resource.img)
               );
               const imgSrc = img.length ? img[0].node.fixed.src : null;
@@ -42,15 +42,15 @@ export default ResourcesPage;
 const GridWrapper = styled.div`
   display: grid;
   grid-template-columns: repeat(4, 20vw);
-  grid-template-rows: repeat(2, 20vw);
+  grid-template-rows: repeat(3, 20vw);
   grid-gap: 1vw;
-  @media (max-width: ${props => props.theme.mediumDevice}) {
+  @media (max-width: ${(props) => props.theme.mediumDevice}) {
     grid-template-columns: repeat(3, 28vw);
     grid-template-rows: repeat(3, 28vw);
   }
-  @media (max-width: ${props => props.theme.smallDevice}) {
+  @media (max-width: ${(props) => props.theme.smallDevice}) {
     grid-template-columns: repeat(2, 40vw);
-    grid-template-rows: repeat(4, 40vw);
+    grid-template-rows: repeat(5, 40vw);
   }
 `;
 
@@ -75,7 +75,7 @@ const ResourceBoxLink = styled(Link)`
 
   ::after {
     content: "";
-    background-image: url(${props => props.img});
+    background-image: url(${(props) => props.img});
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: 20vw;
@@ -85,7 +85,7 @@ const ResourceBoxLink = styled(Link)`
     right: 0;
     position: absolute;
     z-index: -1;
-     border: 0.5px solid gray;
+    border: 0.5px solid gray;
     border-radius: 12%;
     box-shadow: 5px 5px 5px grey;
   }
