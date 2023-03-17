@@ -13,8 +13,9 @@ const index = () => {
     <Consumer>
       {({ int }) => (
         <ContainerWrapper>
-          <Homepage />
-          <Important text={int === "en" ? en : cz} style={{ flex: 1 }} />
+          TBD
+          {/*           <Homepage />
+          <Important text={int === "en" ? en : cz} style={{ flex: 1 }} /> */}
         </ContainerWrapper>
       )}
     </Consumer>
@@ -24,7 +25,7 @@ const index = () => {
 export default index;
 
 index.propTypes = {
-  location: PropTypes.object
+  location: PropTypes.object,
 };
 
 // TODO: move this section to gatsby-browser after solving the issue with global styles: https://github.com/gatsbyjs/gatsby/issues/7447

@@ -11,22 +11,34 @@ const FooterContent = ({ footer }) => {
     <Container>
       <FooterSection background="rgba(150,150,150, 0.9)">
         <FooterHeader>MUNI</FooterHeader>
-        <A target="_blank" rel="noopener noreferrer" href="http://botzool.sci.muni.cz">
+        <A
+          target="_blank"
+          rel="noopener noreferrer"
+          href="http://botzool.sci.muni.cz"
+        >
           {footer.botzool}
         </A>
-        <A target="_blank" rel="noopener noreferrer" href="http://www.sci.muni.cz/">
+        <A
+          target="_blank"
+          rel="noopener noreferrer"
+          href="http://www.sci.muni.cz/"
+        >
           {footer.faculty}
         </A>
-        <A target="_blank" rel="noopener noreferrer" href="https://www.muni.cz/">
+        <A
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://www.muni.cz/"
+        >
           {footer.university}
         </A>
       </FooterSection>
       <FooterSection background="rgba(150,150,150, 0.8)">
         <FooterHeader>{footer.postalAddressHeading}</FooterHeader>
         {footer.postalAddress}
-        <Webmaster>
+        {/*         <Webmaster>
           Webmaster: <A href={`mailto:eva.hette@seznam.cz`}>eva.hette@seznam.cz</A>{" "}
-        </Webmaster>
+        </Webmaster> */}
       </FooterSection>
       <FooterSection background="rgba(150,150,150, 0.7)">
         <FooterHeader>{footer.physicalAddressHeading}</FooterHeader>
@@ -34,7 +46,11 @@ const FooterContent = ({ footer }) => {
       </FooterSection>
       <FooterSection background="rgba(150,150,150, 0.6)">
         <FooterHeader>{footer.links}</FooterHeader>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/botzool">
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://www.facebook.com/botzool"
+        >
           <Img src={facebook} />
         </a>
         <a
@@ -44,7 +60,11 @@ const FooterContent = ({ footer }) => {
         >
           <Img src={youtube} />
         </a>
-        <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/BotZool_MUNI">
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://twitter.com/BotZool_MUNI"
+        >
           <Img src={twitter} />
         </a>
       </FooterSection>
@@ -56,7 +76,7 @@ export default FooterContent;
 
 FooterContent.propTypes = {
   language: PropTypes.object,
-  footer: PropTypes.object
+  footer: PropTypes.object,
 };
 
 const Container = styled.div`
@@ -68,8 +88,8 @@ const Container = styled.div`
 
 const FooterSection = styled.div`
   flex: 1;
-  color: ${props => props.theme.white};
-  background-color: ${props => props.background};
+  color: ${(props) => props.theme.white};
+  background-color: ${(props) => props.background};
   padding: 1em;
   text-align: center;
   line-height: 1.2;
@@ -78,7 +98,7 @@ const FooterSection = styled.div`
 `;
 
 const A = styled.a`
-  color: ${props => props.theme.white};
+  color: ${(props) => props.theme.white};
   text-decoration: none;
   font-weight: bold;
   &:hover {

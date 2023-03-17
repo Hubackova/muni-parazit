@@ -11,7 +11,8 @@ const ResourcesPage = ({ data: imgData }) => (
       const data = int === "en" ? en : cz;
       return (
         <Container>
-          <GridWrapper>
+          TBD
+          {/*           <GridWrapper>
             {data.resourcesList.map((resource) => {
               const img = imgData.allImageSharp.edges.filter((i) =>
                 i.node.fixed.src.includes(resource.img)
@@ -28,7 +29,7 @@ const ResourcesPage = ({ data: imgData }) => (
                 </ResourceBoxLink>
               );
             })}
-          </GridWrapper>
+          </GridWrapper> */}
         </Container>
       );
     }}

@@ -7,8 +7,8 @@ import { thesesEn, thesesCz } from "../content/theses";
 import Theses from "../components/theses/Theses";
 
 const Courses = () => {
-  const getCoursesList = courses =>
-    courses.map(i => {
+  const getCoursesList = (courses) =>
+    courses.map((i) => {
       return (
         <li key={i.name}>
           {i.link ? (
@@ -28,13 +28,14 @@ const Courses = () => {
         {({ int }) => {
           return (
             <CoursesThesesWrapper>
-              <div style={{ flex: 1 }}>
+              TBD
+              {/*               <div style={{ flex: 1 }}>
                 <h2>{int === "en" ? "Courses" : "Výuka"}</h2>
                 {int === "en" ? getCoursesList(coursesEn) : getCoursesList(coursesCz)}
               </div>
               <div style={{ flex: 1 }}>
                 <Theses thesesData={int === "en" ? thesesEn : thesesCz} />
-              </div>
+              </div> */}
             </CoursesThesesWrapper>
           );
         }}
@@ -46,7 +47,7 @@ const Courses = () => {
 export default Courses;
 
 const A = styled.a`
-  color: ${props => props.theme.darkMain};
+  color: ${(props) => props.theme.darkMain};
   text-decoration: none;
   &:hover {
     text-decoration: underline;
@@ -56,7 +57,7 @@ const A = styled.a`
 const CoursesThesesWrapper = styled.div`
   display: flex;
   flex-direction: row;
-  @media (max-width: ${props => props.theme.largeDevice}) {
+  @media (max-width: ${(props) => props.theme.largeDevice}) {
     flex-direction: column;
   }
 `;

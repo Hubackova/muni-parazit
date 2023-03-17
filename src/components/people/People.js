@@ -10,20 +10,26 @@ import { Container as MenuContainer, Li } from "../../layouts/Navigation";
 
 class People extends Component {
   render() {
-    const { peopleData, msg, formerPeopleData, visitingScientistsData } = this.props;
-    const phdStudents = peopleData.phdStudents.map(i => (
+    const { peopleData, msg, formerPeopleData, visitingScientistsData } =
+      this.props;
+    const phdStudents = peopleData.phdStudents.map((i) => (
       <PersonBox personInfo={i} key={i.id} msg={msg} />
     ));
-    const employees = peopleData.employees.map(i => (
+    const employees = peopleData.employees.map((i) => (
       <PersonBox personInfo={i} key={i.id} msg={msg} />
     ));
-    const formerPeople = formerPeopleData.map(person => (
+    const formerPeople = formerPeopleData.map((person) => (
       <div key={person.name}>
-        <strong style={{ color: "#C0C844" }}>{person.name}</strong> 
-        {person.email && <span>{" "}-{" "}<a href={`mailto:${person.email}`}>{person.email}</a></span>}
+        <strong style={{ color: "#C0C844" }}>{person.name}</strong>
+        {person.email && (
+          <span>
+            {" "}
+            - <a href={`mailto:${person.email}`}>{person.email}</a>
+          </span>
+        )}
       </div>
     ));
-    const visitingScientists = visitingScientistsData.map(person => (
+    const visitingScientists = visitingScientistsData.map((person) => (
       <div key={person.name}>
         <strong style={{ color: "#C0C844" }}>{person.name}</strong>
       </div>
@@ -32,7 +38,13 @@ class People extends Component {
       <React.Fragment>
         <MenuContainer>
           <Li isVisible={true}>
-            <StyledLink activeClass="active" to="employees" spy={true} smooth={true} duration={500}>
+            <StyledLink
+              activeClass="active"
+              to="employees"
+              spy={true}
+              smooth={true}
+              duration={500}
+            >
               {msg.people.employees}
             </StyledLink>
           </Li>
@@ -74,27 +86,26 @@ class People extends Component {
         <Element name="employees" className="element">
           <H2>{msg.people.employees}</H2>
         </Element>
-        {employees}
+        {/*    {employees} */}
         <Uparrow text={msg.up} />
 
         <Element name="phdStudents" className="element">
           <H2>{msg.people.phdStudents}</H2>
         </Element>
-        {phdStudents}
+        {/*         {phdStudents} */}
         <Uparrow text={msg.up} />
 
         <Element name="formerpeople" className="element">
           <H2>{msg.people.formerPeople}</H2>
         </Element>
-        {formerPeople}
+        {/*         {formerPeople} */}
         <Uparrow text={msg.up} />
 
         <Element name="visitingScientists" className="element">
           <H2>{msg.people.visitingScientists}</H2>
         </Element>
-        {visitingScientists}
+        {/*         {visitingScientists} */}
         <Uparrow text={msg.up} />
-
       </React.Fragment>
     );
   }
@@ -106,17 +117,17 @@ People.propTypes = {
   msg: PropTypes.object,
   studentsData: PropTypes.array,
   peopleData: PropTypes.array,
-  formerPeopleData: PropTypes.array
+  formerPeopleData: PropTypes.array,
 };
 
 const StyledLink = styled(Link)`
-  color: ${props => props.theme.grey};
+  color: ${(props) => props.theme.grey};
   text-decoration: none;
   cursor: pointer;
   &:hover {
     text-decoration: underline;
   }
   &:focus {
-    color: ${props => props.theme.secondary};
+    color: ${(props) => props.theme.secondary};
   }
 `;

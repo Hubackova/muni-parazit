@@ -8,7 +8,7 @@ import { graphql } from "gatsby";
 import {
   galleryNames as pageNames,
   galleryNamesCz,
-  galleryNamesEn
+  galleryNamesEn,
 } from "../content/galleries";
 
 const GalleryType = ({
@@ -17,7 +17,7 @@ const GalleryType = ({
   heading,
   query,
   subgalleries,
-  subgalleriesMainImgs
+  subgalleriesMainImgs,
 }) => {
   return (
     <div style={{ margin: "1em" }}>
@@ -44,10 +44,10 @@ const PhotoGallery = ({ data }) => (
       const galleryNames = int === "en" ? galleryNamesEn : galleryNamesCz;
 
       const galleries = pageNames.map((galleryName, index) => {
-        const img = data.allImageSharp.edges.filter(i =>
+        const img = data.allImageSharp.edges.filter((i) =>
           i.node.fixed.src.includes(galleryName.main)
         );
-        if (img.length === 0) return null  
+        if (img.length === 0) return null;
         return (
           <GalleryType
             key={galleryName.main}
@@ -58,7 +58,7 @@ const PhotoGallery = ({ data }) => (
           />
         );
       });
-      return <Container>{galleries}</Container>;
+      return <Container>{/* {galleries} */}TBD</Container>;
     }}
   </Consumer>
 );
@@ -67,7 +67,7 @@ export default PhotoGallery;
 
 PhotoGallery.propTypes = {
   data: PropTypes.object,
-  query: PropTypes.object
+  query: PropTypes.object,
 };
 
 const Container = styled.div`

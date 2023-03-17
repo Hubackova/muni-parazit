@@ -11,7 +11,8 @@ const Projects = ({ data: imgData }) => (
       const projects = int === "en" ? en : cz;
       return (
         <Container>
-          <GridWrapper>
+          TBD
+          {/*           <GridWrapper>
             {Object.values(projects.projectsList).map((project) => {
               const img = imgData.allImageSharp.edges.filter((i) =>
                 i.node.fixed.src.includes(`${project.name}_${int}`)
@@ -25,7 +26,7 @@ const Projects = ({ data: imgData }) => (
                 ></ResourceBox>
               );
             })}
-          </GridWrapper>
+          </GridWrapper> */}
         </Container>
       );
     }}
