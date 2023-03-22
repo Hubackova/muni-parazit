@@ -75,7 +75,7 @@ h3 {
 }
 
 a {
-  color: green;
+  color: darkBlue;
 }
 
 .carousel .slide {

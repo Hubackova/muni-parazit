@@ -102,8 +102,8 @@ const LogoLink = styled.a`
 `;
 
 const Logo = styled.img`
-  max-width: 50%;
-  margin: 10px;
+  max-width: 180px;
+  margin: 30px;
 `;
 
 const MainLogo = styled.img`

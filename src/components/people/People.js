@@ -86,26 +86,31 @@ class People extends Component {
         <Element name="employees" className="element">
           <H2>{msg.people.employees}</H2>
         </Element>
-        {/*    {employees} */}
+        {employees}
+        <br />
         <Uparrow text={msg.up} />
-
+        <br />
         <Element name="phdStudents" className="element">
           <H2>{msg.people.phdStudents}</H2>
         </Element>
         {/*         {phdStudents} */}
+        <br />
         <Uparrow text={msg.up} />
-
+        <br />
         <Element name="formerpeople" className="element">
           <H2>{msg.people.formerPeople}</H2>
         </Element>
-        {/*         {formerPeople} */}
+        {formerPeople}
+        <br />
         <Uparrow text={msg.up} />
-
+        <br />
         <Element name="visitingScientists" className="element">
           <H2>{msg.people.visitingScientists}</H2>
         </Element>
-        {/*         {visitingScientists} */}
+        {visitingScientists}
+        <br />
         <Uparrow text={msg.up} />
+        <br />
       </React.Fragment>
     );
   }

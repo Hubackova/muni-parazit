@@ -7,7 +7,8 @@
     menuGallery: "Gallery",
     menuLinks: "Publications",
     menuResources: "Resources",
-    menuVegetation: "Vegetation of the Czech Republic"
+    menuHistory: "History",
+    menuVegetation: "Vegetation of the Czech Republic",
   },
   footer: {
     botzool: "Department of Botany and Zoology, ",
@@ -17,11 +18,11 @@
     physicalAddressHeading: `Physical Address `,
     postalAddress: "Kotlářská 267/2, 611 37 Brno, Czech Republic",
     physicalAddress: `University Campus Bohunice, building A32, Kamenice 753/5, Brno, Czech Republic`,
-    links: "Links"
+    links: "Links",
   },
   gallery: {
     excursions: "Excursions",
-    fieldworks: "Fieldworks"
+    fieldworks: "Fieldworks",
   },
   people: {
     people: "People",
@@ -29,18 +30,18 @@
     phdStudents: "PhD students",
     formerPeople: "Former group members",
     visitingScientists: "Visiting Scientists (one-month and longer stays)",
-    visitingScientistsShort: "Visiting Scientists"
+    visitingScientistsShort: "Visiting Scientists",
   },
   links: {
     media: "Media",
     publications: "Publications",
-    popularization: "Popularization"
+    popularization: "Popularization",
   },
   mainHeader: "Vegetation Science Group",
   muni: "Masaryk university",
   up: "Up",
   showMore: "Show detail",
-  showLess: "Hide detail"
+  showLess: "Hide detail",
 };
 
 export const cz = {
@@ -52,7 +53,8 @@ export const cz = {
     menuGallery: "Galerie",
     menuLinks: "Publikace",
     menuResources: "Zdroje",
-    menuVegetation: "Vegetace České Republiky"
+    menuHistory: "Historie",
+    menuVegetation: "Vegetace České Republiky",
   },
   footer: {
     botzool: "Ústav botaniky a zoologie, ",
@@ -62,28 +64,29 @@ export const cz = {
     physicalAddressHeading: `Adresa pracoviště `,
     postalAddress: "Kotlářská 267/2, 611 37 Brno",
     physicalAddress: `Univerzitní kampus Bohunice, budova A32, Kamenice 753/5, Brno`,
-    links: "Odkazy"
+    links: "Odkazy",
   },
   gallery: {
     excursions: "Terenní exkurze",
-    fieldworks: "Terenní výzkum"
+    fieldworks: "Terenní výzkum",
   },
   people: {
     people: "Lidé",
     employees: "Zaměstnanci",
     phdStudents: "PhD studenti",
     formerPeople: "Bývalí akademičtí a výzkumní pracovníci",
-    visitingScientists: "Hostující výzkumní pracovníci (pobyt delší jednoho měsíce)",
-    visitingScientistsShort: "Hostující výzkumní pracovníci "
+    visitingScientists:
+      "Hostující výzkumní pracovníci (pobyt delší jednoho měsíce)",
+    visitingScientistsShort: "Hostující výzkumní pracovníci ",
   },
   links: {
     media: "Média",
     publications: "Publikace",
-    popularization: "Popularizační články"
+    popularization: "Popularizační články",
   },
   mainHeader: "Pracovní skupina pro výzkum vegetace",
   muni: "Masarykova univerzita",
   up: "Nahoru",
   showMore: "Zobrazit detail",
-  showLess: "Skrýt detail"
+  showLess: "Skrýt detail",
 };

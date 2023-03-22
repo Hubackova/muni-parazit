@@ -25,7 +25,7 @@ const windowGlobal = typeof window !== "undefined" && window;
 class Navigation extends Component {
   state = {
     isNavVisible: false,
-    width: windowGlobal.innerWidth
+    width: windowGlobal.innerWidth,
   };
 
   componentDidMount() {
@@ -40,8 +40,12 @@ class Navigation extends Component {
     this.setState({ isNavVisible: !this.state.isNavVisible });
   };
 
-  getClass = urlIncludes => {
-    if (windowGlobal && windowGlobal.location && windowGlobal.location.href.includes(urlIncludes)) {
+  getClass = (urlIncludes) => {
+    if (
+      windowGlobal &&
+      windowGlobal.location &&
+      windowGlobal.location.href.includes(urlIncludes)
+    ) {
       return "active";
     } else return "";
   };
@@ -56,26 +60,61 @@ class Navigation extends Component {
         <NavbarToggle onClick={this.toggleMenu}>
           <i className="fa fa-bars" />
         </NavbarToggle>
-        <ListLink to="/" isVisible={isVisible} className={isIndex ? "active" : ""}>
+        <ListLink
+          to="/"
+          isVisible={isVisible}
+          className={isIndex ? "active" : ""}
+        >
           {generalData.menu.menuHomepage}
         </ListLink>
-        <ListLink to="/people/" isVisible={isVisible} className={this.getClass("people")}>
+        <ListLink
+          to="/people/"
+          isVisible={isVisible}
+          className={this.getClass("people")}
+        >
           {generalData.menu.menuPeople}
         </ListLink>
-        <ListLink to="/courses/" isVisible={isVisible} className={this.getClass("courses")}>
+        <ListLink
+          to="/courses/"
+          isVisible={isVisible}
+          className={this.getClass("courses")}
+        >
           {generalData.menu.menuCourses}
         </ListLink>
-        <ListLink to="/projects/" isVisible={isVisible} className={this.getClass("projects")}>
+        <ListLink
+          to="/projects/"
+          isVisible={isVisible}
+          className={this.getClass("projects")}
+        >
           {generalData.menu.menuProjects}
         </ListLink>
-        <ListLink to="/resources" isVisible={isVisible} className={this.getClass("resources")}>
+        <ListLink
+          to="/resources"
+          isVisible={isVisible}
+          className={this.getClass("resources")}
+        >
           {generalData.menu.menuResources}
         </ListLink>
-        <ListLink to="/gallery/" isVisible={isVisible} className={this.getClass("gallery")}>
+        <ListLink
+          to="/gallery/"
+          isVisible={isVisible}
+          className={this.getClass("gallery")}
+        >
           {generalData.menu.menuGallery}
         </ListLink>
-        <ListLink to="/publications/" isVisible={isVisible} className={this.getClass("publications")}>
+        <ListLink
+          to="/publications/"
+          isVisible={isVisible}
+          className={this.getClass("publications")}
+        >
           {generalData.menu.menuLinks}
+        </ListLink>
+        <ListLink
+          to="/history/"
+          isVisible={isVisible}
+          className={this.getClass("history")}
+        >
+          {generalData.menu.menuHistory}
         </ListLink>
       </Container>
     );
@@ -87,7 +126,7 @@ export default Navigation;
 Navigation.propTypes = {
   language: PropTypes.string,
   isIndex: PropTypes.bool,
-  generalData: PropTypes.object
+  generalData: PropTypes.object,
 };
 
 export const Container = styled.ul`
@@ -98,7 +137,7 @@ export const Container = styled.ul`
   margin: 0 15px;
   margin-left: auto;
   padding: 0;
-  @media (max-width: ${props => props.theme.mediumDevice}) {
+  @media (max-width: ${(props) => props.theme.mediumDevice}) {
     flex-direction: column;
     text-align: center;
     width: 100%;
@@ -106,17 +145,17 @@ export const Container = styled.ul`
 `;
 
 export const Li = styled.li`
-  display: ${props => (props.isVisible ? "flex" : "none")};
+  display: ${(props) => (props.isVisible ? "flex" : "none")};
   height: 40px;
   flex: auto;
   align-items: center;
   justify-content: center;
-  color: ${props => props.theme.grey};
+  color: ${(props) => props.theme.grey};
   margin: 10px 10px;
   &:last-child {
     border-right: 0px;
   }
-  @media (max-width: ${props => props.theme.mediumDevice}) {
+  @media (max-width: ${(props) => props.theme.mediumDevice}) {
     border: 0px;
   }
   &.active > a {
@@ -128,8 +167,8 @@ export const Li = styled.li`
       width: 100%;
       top: 0;
       height: 4px;
-      background-color: ${props => props.theme.black};
-      @media (max-width: ${props => props.theme.mediumDevice}) {
+      background-color: ${(props) => props.theme.black};
+      @media (max-width: ${(props) => props.theme.mediumDevice}) {
         height: 0px;
       }
     }
@@ -141,7 +180,7 @@ const NavbarToggle = styled(Li)`
   cursor: pointer;
   align-self: flex-end;
   font-size: 2em;
-  @media (max-width: ${props => props.theme.mediumDevice}) {
+  @media (max-width: ${(props) => props.theme.mediumDevice}) {
     display: flex;
     flex: 1;
   }
